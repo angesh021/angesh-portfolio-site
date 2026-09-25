@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is Angesh's current availability or notice period?",
+    "answer": "Angesh is open to discussing new opportunities. He has a standard notice period (typically 2 to 4 weeks), which is negotiable based on the complexity and requirements of the role.",
+    "category": "availability",
+    "keywords": ["availability", "notice period", "start date", "hire", "when can you start"]
+  },
+  {
+    "question": "What is Angesh's preferred work arrangement (remote, hybrid, on-site)?",
+    "answer": "Angesh is comfortable with hybrid or fully remote work models, as they offer great collaboration and focus. He is also open to full-time on-site work depending on the location and the scope of the project.",
+    "category": "work-style",
+    "keywords": ["remote", "hybrid", "on-site", "work from home", "office", "telecommute"]
+  },
+  {
+    "question": "Is Angesh open to relocation?",
+    "answer": "Yes, Angesh is open to relocation for the right professional opportunity, depending on the role's scope, compensation, and location details.",
+    "category": "relocation",
+    "keywords": ["relocate", "relocation", "move", "other cities", "travel", "abroad"]
+  },
+  {
+    "question": "What are Angesh's salary expectations?",
+    "answer": "Angesh's compensation expectations are flexible and open to discussion. He is looking for a package that aligns with the role's responsibilities, scope, cost of living, and his background in cybersecurity and network access control.",
+    "category": "compensation",
+    "keywords": ["salary", "compensation", "money", "package", "range", "pay", "rate"]
+  },
+  {
+    "question": "What are Angesh's core areas of expertise?",
+    "answer": "Angesh specializes in Network Access Control (NAC), specifically deploying and managing Cisco ISE systems, 802.1X authentication, Active Directory integration, device profiling, posture compliance, and defensive network architecture. He also has strong experience in security automation using Python, PowerShell, and bash, and threat hunting in Wazuh SIEM.",
+    "category": "skills",
+    "keywords": ["expertise", "specialization", "cisco ise", "nac", "802.1x", "cybersecurity", "what do you do best", "skills"]
+  }
+]

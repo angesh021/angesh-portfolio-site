@@ -1,0 +1,23 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Directories to block from scraping/indexing
+Disallow: /api/
+Disallow: /admin
+Disallow: /login
+
+# AI Crowlers & Scraping Rules (Block excessive aggressive crawlers if desired, but allow smart indexing)
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+
+# Sitemap Location
+Sitemap: https://www.angeshchanderdip.com/sitemap.xml

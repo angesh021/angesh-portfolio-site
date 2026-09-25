@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Home",
+    "route": "/#hero",
+    "sectionId": "hero",
+    "description": "The main landing page of the portfolio, introducing Angesh and his background.",
+    "keywords": ["home", "main", "start", "landing", "hero", "welcome"]
+  },
+  {
+    "name": "About",
+    "route": "/#about",
+    "sectionId": "about",
+    "description": "Information about Angesh's background, core mission, and interactive CyberSec dashboard.",
+    "keywords": ["about", "profile", "background", "mission", "personal info", "who is he"]
+  },
+  {
+    "name": "Experience",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "description": "Professional history, work experience in cybersecurity, and NAC roles.",
+    "keywords": ["experience", "career", "history", "jobs", "worked", "employment", "companies"]
+  },
+  {
+    "name": "Projects",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "description": "Selected portfolio projects, including Home SOC Lab and Aura Tic-Tac-Toe.",
+    "keywords": ["projects", "built", "created", "portfolio", "code", "github", "labs", "work"]
+  },
+  {
+    "name": "Education & Certifications",
+    "route": "/#education",
+    "sectionId": "education",
+    "description": "Education details, certifications (CompTIA, Cisco, etc.), and continuous learning directives.",
+    "keywords": ["education", "degree", "university", "certifications", "certs", "achievements", "courses", "comptia", "cisco"]
+  },
+  {
+    "name": "Contact",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "description": "Get in touch with Angesh via secure encrypted contact form or direct relays like LinkedIn or Email.",
+    "keywords": ["contact", "get in touch", "email", "linkedin", "message", "hire", "reach out", "connect"]
+  },
+  {
+    "name": "Home SOC Lab Project Detail",
+    "route": "/projects/home-soc-lab",
+    "projectSlug": "home-soc-lab",
+    "description": "Detailed project view of the VMware-based Advanced Detection Engineering SOC Lab.",
+    "keywords": ["soc lab", "wazuh", "siem", "zeek", "suricata", "threat hunting"]
+  },
+  {
+    "name": "Aura Tic-Tac-Toe Project Detail",
+    "route": "/projects/aura-tic-tac-toe",
+    "projectSlug": "aura-tic-tac-toe",
+    "description": "Detailed project view of the modern, server-authoritative multiplayer web application.",
+    "keywords": ["tic-tac-toe", "socket.io", "multiplayer", "glassmorphism", "game"]
+  },
+  {
+    "name": "Admin Dashboard Project Detail",
+    "route": "/projects/admin-dashboard",
+    "projectSlug": "admin-dashboard",
+    "description": "Detailed project view of the programming, security, and log analysis platform.",
+    "keywords": ["admin dashboard", "analytics", "charts", "recharts", "dashboard"]
+  }
+]

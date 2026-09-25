@@ -1,0 +1,741 @@
+[
+  {
+    "company": "GTECHNA",
+    "role": "Application Support Specialist",
+    "period": "04/2026 - Present",
+    "location": "Quebec, Canada",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x-Z3G2U-XvbeV5F7G8e-t8uD09h1u_T8Xg",
+    "logoBg": "#ffffff",
+    "companyUrl": "https://gtechna.com/",
+    "themeColor": "#1b9ca6",
+    "type": "work",
+    "collaboration": [
+      {
+        "icon": "lead",
+        "role": "Support Manager",
+        "name": "Team Supervisor"
+      },
+      {
+        "icon": "peer",
+        "role": "Peer Engineers",
+        "name": "x3 QA & Developers"
+      },
+      {
+        "icon": "stakeholder",
+        "role": "Stakeholders",
+        "name": "Quebec & North America Clients"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL Server",
+        "context": "Maintained and configured relational database schemas, indexes, and queries on MS SQL Server to ensure peak performance."
+      },
+      {
+        "name": "PostgreSQL",
+        "context": "Leveraged PostgreSQL instances, performing analysis, configurations, and querying logs to support client applications."
+      },
+      {
+        "name": "VPN & Networking",
+        "context": "Maintained secure virtual machines and private tunnel connections to ensure safe deployment environments."
+      },
+      {
+        "name": "UAT Testing",
+        "context": "Led structured User Acceptance Testing (UAT) and system validations for client deployments."
+      },
+      {
+        "name": "Technical Advisor",
+        "context": "Acted as link between customers and internal developers/QA to streamline custom enhancement releases."
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 100,
+        "label": "UAT Issue Resolution Rate",
+        "icon": "shield",
+        "suffix": "%"
+      },
+      {
+        "value": 40,
+        "label": "Deployment Time Reduced",
+        "icon": "zap",
+        "suffix": "%"
+      },
+      {
+        "value": 10,
+        "label": "North American Clients Onboarded",
+        "icon": "server"
+      }
+    ],
+    "dailyLog": [
+      {
+        "time": "08:30",
+        "task": "Initializing client system configuration validation on standard Linux VMs.",
+        "type": "info"
+      },
+      {
+        "time": "10:15",
+        "task": "Analyzing a critical PostgreSQL connectivity issue over a secure corporate VPN.",
+        "type": "warn"
+      },
+      {
+        "time": "13:30",
+        "task": "Leading a bilingual training session (English/French) for municipal operators in Quebec.",
+        "type": "info"
+      },
+      {
+        "time": "15:00",
+        "task": "Filing custom feedback reports and enhancement logs in Jira and Confluence.",
+        "type": "info"
+      }
+    ],
+    "anecdote": {
+      "title": "Bilingual Coordination Bridge",
+      "icon": "lightbulb",
+      "story": "During a high-stakes migration for a major transit authority in Quebec, a sudden database query bottleneck began delaying validation. Drawing on my bilingual communication, I coordinated in real-time between local French-speaking IT staff and our English-speaking development and QA team. We pinpointed a legacy PostgreSQL script discrepancy, deployed a hotfix within three hours, and successfully completed the transition, ensuring uninterrupted service for thousands of daily riders."
+    },
+    "legacy": [
+      "Designed and documented an exhaustive technical playbook detailing corporate VPN setups and VM credentials, cutting onboarding setup cycles by 40% globally."
+    ],
+    "description": [
+      "Successfully implemented and configured enterprise software solutions across multiple customer environments, leveraging SQL Server, PostgreSQL, VPN connectivity, virtual machines, and network infrastructure technologies to support critical business operations.",
+      "Reduced deployment risks and post-go-live issues by executing structured testing, validation, troubleshooting, and User Acceptance Testing (UAT), ensuring stable and reliable production deployments.",
+      "Improved customer adoption and operational efficiency by developing tailored training materials, technical documentation, and knowledge-transfer sessions for end users and administrators.",
+      "Served as a trusted technical advisor between customers and cross-functional teams, facilitating communication between software development, product management, QA, and support teams to deliver customer-focused solutions.",
+      "Increased implementation efficiency by standardizing software configuration, onboarding procedures, workflow setup, and business rule management, reducing deployment complexity and accelerating project delivery.",
+      "Contributed to product enhancement initiatives by gathering customer feedback, analyzing business requirements, and collaborating with development teams to improve platform functionality and user experience.",
+      "Maintained high levels of customer satisfaction through proactive technical support, root-cause analysis, and timely resolution of application, database, network, and connectivity-related issues.",
+      "Configured and supported software integrations, business workflows, and system settings using technologies including Microsoft SQL Server, PostgreSQL, Jira, Confluence, Windows/Linux environments, VPN connectivity, and virtualized infrastructure.",
+      "Partnered with customers during discovery, implementation, and post-deployment phases to translate business requirements into scalable software solutions aligned with operational objectives.",
+      "Leveraged strong bilingual communication skills (English/French) to support customers across Quebec, Canada, and North America while ensuring successful adoption of enterprise software solutions."
+    ]
+  },
+  {
+    "company": "General Motors",
+    "role": "Endpoint Security & Network Access Control Engineer",
+    "period": "02/2022 - 07/2025",
+    "location": "Dublin, Ireland",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/gm.png",
+    "logoBg": "white",
+    "companyUrl": "https://www.gm.com/",
+    "themeColor": "#005A9C",
+    "type": "work",
+    "collaboration": [
+      {
+        "icon": "lead",
+        "role": "Team Lead",
+        "name": "Cybersecurity Manager"
+      },
+      {
+        "icon": "peer",
+        "role": "Peer Engineers",
+        "name": "x4 Security Analysts"
+      },
+      {
+        "icon": "stakeholder",
+        "role": "Stakeholders",
+        "name": "Network & IT Ops Teams"
+      },
+      {
+        "icon": "report",
+        "role": "Reporting Line",
+        "name": "Director of Infosec"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Cisco ISE",
+        "context": "Orchestrated enterprise-wide NAC deployments using 802.1X for ZeroTrust security."
+      },
+      {
+        "name": "802.1X",
+        "context": "Implemented and managed secure wired and wireless network access control protocols."
+      },
+      {
+        "name": "ZeroTrust",
+        "context": "Advanced ZeroTrust network architecture by enforcing granular, identity-based access policies."
+      },
+      {
+        "name": "EDR/DLP",
+        "context": "Managed and tuned endpoint security controls to detect and prevent threats on thousands of devices."
+      },
+      {
+        "name": "Python",
+        "context": "Developed custom scripts for security monitoring, data parsing, and automating repetitive tasks."
+      },
+      {
+        "name": "PowerShell",
+        "context": "Automated Windows Server tasks, security configurations, and certificate management workflows."
+      },
+      {
+        "name": "Incident Response",
+        "context": "Provided Tier-3 analysis and remediation for endpoint security and network access incidents."
+      },
+      {
+        "name": "ServiceNow",
+        "context": "Utilized ServiceNow for incident tracking, change management, and security operations ticketing."
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 300,
+        "label": "Security Servers Monitored",
+        "icon": "server"
+      },
+      {
+        "value": 90,
+        "label": "Manual Work Reduction",
+        "icon": "zap",
+        "suffix": "%"
+      },
+      {
+        "value": 140,
+        "label": "Hardware Failures Detected",
+        "icon": "shield"
+      }
+    ],
+    "dailyLog": [
+      {
+        "time": "09:15",
+        "task": "Investigating anomalous login attempt from new geo-location.",
+        "type": "warn"
+      },
+      {
+        "time": "11:30",
+        "task": "Pushing updated Cisco ISE policy to production controllers.",
+        "type": "info"
+      },
+      {
+        "time": "14:00",
+        "task": "Collaborating with network team on switch configuration for new 802.1X deployment.",
+        "type": "info"
+      },
+      {
+        "time": "15:45",
+        "task": "Critical EDR alert: Potential malware execution on endpoint. Initiating isolation.",
+        "type": "critical"
+      },
+      {
+        "time": "16:30",
+        "task": "Automated script successfully renewed 50 expiring server certificates.",
+        "type": "info"
+      }
+    ],
+    "anecdote": {
+      "title": "The Global Outage",
+      "icon": "alert-octagon",
+      "story": "During a global outage, Active Directory synchronization with Cisco ISE AAA servers failed, halting car production across all manufacturing sites. I led the incident response, identifying a rare replication bug within a specific forest trust. I developed and deployed a PowerShell script to force-resync critical attributes, restoring AAA services in under an hour and bringing production back online, preventing millions in losses."
+    },
+    "legacy": [
+      "Authored the definitive PowerShell automation script for AD-ISE synchronization, which was integrated into the core infrastructure monitoring toolset, permanently eliminating a critical single point of failure."
+    ],
+    "description": [
+      "Spearheaded the modernization of global network security for a Fortune 500 automotive leader. My core mission involved architecting and deploying enterprise-wide Cisco ISE and 802.1X frameworks to enforce a Zero Trust security model. I engineered robust automation pipelines using Python and PowerShell to slash manual workloads, proactively monitored over 300 security servers to ensure operational resilience, and standardized a next-generation guest Wi-Fi solution across international sites, directly contributing to the company's digital transformation and enhanced cybersecurity posture.",
+      "Faced recurring certificate expirations and inconsistent policy documentation across 300+ ISE servers; automated DigiCert renewal and policy workflows with Python/PowerShell, cutting manual work by 90% and saving 150+ engineer-hours annually.",
+      "Observed fragmented 802.1X adoption delaying Zero Trust goals; standardized and deployed Cisco ISE 802.1X configurations enterprise-wide, reducing unauthorized device risk by over 85% and ensuring global policy uniformity.",
+      "Identified frequent undetected hardware faults causing downtime; developed a proactive server monitoring and alerting framework, detecting 140+ failures early and minimizing unplanned outages.",
+      "Noted inconsistent guest Wi-Fi experience and weak security segmentation; rolled out Next-Gen Guest (Prisma) Wi-Fi with centralized templates, delivering secure and seamless access across six international sites.",
+      "Encountered slow incident resolution during network disruptions; enhanced Tier-3 response automation and led 24/7 on-call escalation, improving MTTR and service reliability across global operations.",
+      "Recognized lack of unified visibility into security change processes; executed and documented 200+ ServiceNow security changes, maintaining continuous compliance and business uptime.",
+      "Found gaps between technical projects and strategic objectives; presented cybersecurity and cloud migration roadmaps to leadership, ensuring alignment with GM’s digital-transformation strategy and measurable security maturity growth."
+    ]
+  },
+  {
+    "company": "Junior Achievement Ireland",
+    "role": "STEM Educator | Cybersecurity & AI Awareness",
+    "period": "05/2024 - 05/2024",
+    "location": "Dublin, Ireland",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/JuniorAchievementIreland.png",
+    "companyUrl": "https://www.jai.ie/",
+    "themeColor": "#8DC63F",
+    "type": "volunteer",
+    "collaboration": [
+      {
+        "icon": "stakeholder",
+        "role": "Students",
+        "name": "30+ Primary Students"
+      },
+      {
+        "icon": "peer",
+        "role": "School Teacher",
+        "name": "Classroom Supervisor"
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 30,
+        "suffix": "+",
+        "label": "Primary Students Taught",
+        "icon": "trending-up"
+      },
+      {
+        "value": 4,
+        "suffix": " sess",
+        "label": "TecKno Modules Taught",
+        "icon": "zap"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Student Engagement",
+        "icon": "shield"
+      }
+    ],
+    "skills": [
+      {
+        "name": "STEM Education",
+        "context": "Delivered curriculum on cybersecurity and AI."
+      },
+      {
+        "name": "Public Speaking",
+        "context": "Engaged and taught a classroom of 30+ students."
+      },
+      {
+        "name": "Youth Mentoring",
+        "context": "Promoted awareness of tech careers to young learners."
+      },
+      {
+        "name": "Digital Communication",
+        "context": "Used e-learning platforms to enhance lessons."
+      }
+    ],
+    "anecdote": {
+      "title": "Cracking the Code",
+      "icon": "lightbulb",
+      "story": "To explain cybersecurity, I created a simple 'Caesar cipher' game on the whiteboard. Initially, the kids were quiet. But once the first student cracked the code to reveal a funny secret message, the room erupted. They spent the rest of the session enthusiastically creating their own secret codes. It was a perfect lesson in how a simple, engaging hook can make complex topics accessible and exciting."
+    },
+    "legacy": [
+      "Sharpened my skills in public speaking, curriculum delivery, and youth mentoring, aligning with a passion for cyber education and community development."
+    ],
+    "description": [
+      "Volunteered at Loreto Senior Primary School to deliver the JAI TecKno programme, teaching 30+ students over 4 sessions covering:",
+      "🛡️ Cybersecurity Awareness – taught students how to identify phishing threats, create secure passwords, and manage their digital footprint through gamified learning.",
+      "🤖 AI & Robotics – explained how automation and machine learning are used in everyday tech, from robotic vacuum cleaners to facial recognition systems.",
+      "📊 Data Analytics – led exercises on interpreting data trends and visualizing key insights for real-world business applications.",
+      "💻 Computer Science Basics – explored computing history, programming logic, and career pathways in tech.",
+      "Used tools like Kahoot and group activities to boost student engagement, promote awareness of tech careers, and awarded each student a Certificate of Achievement.",
+      "This experience sharpened my skills in public speaking, curriculum delivery, and youth mentoring, aligning with my passion for cyber education and community development."
+    ]
+  },
+  {
+    "company": "Junior Achievement Ireland",
+    "role": "Volunteer Mentor - Sustainability Innovation Challenge",
+    "period": "03/2024 - 03/2024",
+    "location": "Dublin, Ireland",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/JuniorAchievementIreland.png",
+    "companyUrl": "https://www.jai.ie/",
+    "themeColor": "#8DC63F",
+    "type": "volunteer",
+    "collaboration": [
+      {
+        "icon": "stakeholder",
+        "role": "Students",
+        "name": "~100 Students"
+      },
+      {
+        "icon": "peer",
+        "role": "JAI Coordinator",
+        "name": "Program Manager"
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 100,
+        "suffix": "+",
+        "label": "Students Mentored",
+        "icon": "trending-up"
+      },
+      {
+        "value": 3,
+        "suffix": " schools",
+        "label": "School Campuses",
+        "icon": "zap"
+      },
+      {
+        "value": 5,
+        "suffix": "+",
+        "label": "UN SDGs Addressed",
+        "icon": "shield"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Mentorship",
+        "context": "Guided students through challenge-based learning."
+      },
+      {
+        "name": "Leadership",
+        "context": "Fostered leadership skills in young innovators."
+      },
+      {
+        "name": "Public Speaking",
+        "context": "Assisted students in creating and refining video pitches."
+      },
+      {
+        "name": "Sustainability",
+        "context": "Aligned solutions with UN SDGs."
+      }
+    ],
+    "anecdote": {
+      "title": "The 'Aha!' Moment",
+      "icon": "lightbulb",
+      "story": "A shy student group struggled to present their idea for a community composting app. During a practice pitch, I helped them reframe their 'boring' data as a powerful story about local impact. Seeing their confidence soar as they realized they weren't just coding, but solving a real problem for their neighbors, was a profound reminder of why I love sharing knowledge."
+    },
+    "legacy": [
+      "Contributed to an initiative that empowered nearly 100 students across three schools to develop viable solutions to combat climate change."
+    ],
+    "description": [
+      "Volunteered as a mentor for the Sustainability Innovation Challenge, a program by Junior Achievement Ireland (JAI) and Accenture.",
+      "Guided and supported students in developing innovative, sustainable business solutions aligned with the UN Sustainable Development Goals (SDGs).",
+      "Helped students enhance critical thinking, teamwork, problem-solving, and leadership skills through interactive workshops and challenge-based learning.",
+      "Assisted students in creating infographics and video pitches to present their ideas for addressing real-world environmental and sustainability challenges.",
+      "Contributed to an initiative that empowered nearly 100 students across three schools to develop viable solutions to combat climate change.",
+      "Encouraged creativity and sustainable innovation through mentorship, discussions, and project development."
+    ]
+  },
+  {
+    "company": "Beaumont Hospital",
+    "role": "Nursing Aide",
+    "period": "10/2018 - 02/2022",
+    "location": "Dublin, Ireland",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/beaumont-logo.png",
+    "companyUrl": "https://www.beaumont.ie/",
+    "themeColor": "#008080",
+    "type": "work",
+    "collaboration": [
+      {
+        "icon": "lead",
+        "role": "Shift Supervisor",
+        "name": "Clinical Nurse Manager"
+      },
+      {
+        "icon": "peer",
+        "role": "Peer Aides",
+        "name": "x5 Nursing Colleagues"
+      },
+      {
+        "icon": "stakeholder",
+        "role": "Medical Team",
+        "name": "Nurses & Doctors"
+      },
+      {
+        "icon": "report",
+        "role": "Reporting Line",
+        "name": "Ward Sister"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Patient Care",
+        "context": "Provided direct physical and emotional support to a diverse patient population."
+      },
+      {
+        "name": "Vital Signs Monitoring",
+        "context": "Accurately measured and recorded key health indicators to assist clinical decisions."
+      },
+      {
+        "name": "Documentation",
+        "context": "Maintained precise and confidential patient records in line with healthcare regulations."
+      },
+      {
+        "name": "Teamwork",
+        "context": "Coordinated effectively with nurses and doctors to ensure seamless patient care."
+      },
+      {
+        "name": "Compassion",
+        "context": "Offered empathetic support to patients and their families during challenging times."
+      },
+      {
+        "name": "High-Pressure Environments",
+        "context": "Remained calm and efficient in a fast-paced, high-stakes hospital setting."
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 20,
+        "label": "Patients Cared For Daily (Avg)",
+        "icon": "trending-up"
+      },
+      {
+        "value": 99,
+        "label": "Patient Satisfaction Score",
+        "icon": "shield",
+        "suffix": "%"
+      },
+      {
+        "value": 100,
+        "label": "Accuracy in Vitals Recording",
+        "icon": "zap",
+        "suffix": "%"
+      }
+    ],
+    "dailyLog": [
+      {
+        "time": "08:00",
+        "task": "Received shift handover and reviewed patient care plans.",
+        "type": "info"
+      },
+      {
+        "time": "09:30",
+        "task": "Assisted patients with morning hygiene and mobility.",
+        "type": "info"
+      },
+      {
+        "time": "12:00",
+        "task": "Recorded vital signs for all assigned patients before lunch.",
+        "type": "info"
+      },
+      {
+        "time": "13:45",
+        "task": "Patient showing signs of distress. Immediately alerted nursing staff.",
+        "type": "warn"
+      },
+      {
+        "time": "15:00",
+        "task": "Documented all care activities and patient observations for the shift.",
+        "type": "info"
+      }
+    ],
+    "anecdote": {
+      "title": "The Human Signal",
+      "icon": "lightbulb",
+      "story": "I cared for a non-communicative elderly patient whom others found difficult. By observing non-verbal cues and meticulously logging small behavioral changes, I noticed a pattern related to room lighting. Adjusting it at specific times dramatically improved their comfort and cooperation. This taught me that the most complex systems—whether human or digital—often hinge on understanding the smallest details. It's a lesson I now apply to security, where a single anomalous log entry can signify a much larger issue."
+    },
+    "legacy": [
+      "My systematic approach to observing non-verbal cues taught me that the most critical signals in any system—human or digital—are often the quietest."
+    ],
+    "description": [
+      "Delivered critical frontline patient support, meticulously monitoring and documenting vital signs while collaborating with clinical teams to ensure adherence to care plans and maintain patient comfort and dignity in a high-stakes hospital environment.",
+      "Provided compassionate care, maintaining patients' comfort and dignity while offering emotional support to patients and their families.",
+      "Coordinated with nurses and physicians to follow care plans, demonstrating strong teamwork and reliability in a high-pressure environment."
+    ]
+  },
+  {
+    "company": "CareChoice Nursing Home",
+    "role": "Healthcare Assistant",
+    "period": "04/2018 - 09/2018",
+    "location": "Dublin, Ireland",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/carechoice-logo.png",
+    "companyUrl": "https://www.carechoice.ie/",
+    "themeColor": "#5F9EA0",
+    "type": "work",
+    "collaboration": [
+      {
+        "icon": "lead",
+        "role": "Supervisor",
+        "name": "Head Nurse"
+      },
+      {
+        "icon": "peer",
+        "role": "Colleagues",
+        "name": "Nursing & Medical Staff"
+      },
+      {
+        "icon": "stakeholder",
+        "role": "Stakeholders",
+        "name": "Residents & Families"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Clinical Support",
+        "context": "Assisted nurses and doctors in clinical procedures and treatments."
+      },
+      {
+        "name": "Patient Dignity",
+        "context": "Acted as a chaperone and prepared patients to ensure comfort and privacy."
+      },
+      {
+        "name": "Safeguarding",
+        "context": "Monitored vulnerable residents and strictly followed all safeguarding protocols."
+      },
+      {
+        "name": "Infection Control",
+        "context": "Maintained a sterile environment and managed clinical equipment."
+      },
+      {
+        "name": "Medical Charting",
+        "context": "Recorded observations and communicated patient needs for continuity of care."
+      },
+      {
+        "name": "Mobility Assistance",
+        "context": "Safely escorted patients and supported those with limited independence."
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 100,
+        "label": "Adherence to Infection Control",
+        "icon": "shield",
+        "suffix": "%"
+      },
+      {
+        "value": 25,
+        "label": "Reduction in Patient Anxiety",
+        "icon": "zap",
+        "suffix": "%"
+      },
+      {
+        "value": 15,
+        "label": "Improvement in Team Efficiency",
+        "icon": "trending-up",
+        "suffix": "%"
+      }
+    ],
+    "dailyLog": [
+      {
+        "time": "09:00",
+        "task": "Prepared 3 patients for their morning clinical examinations.",
+        "type": "info"
+      },
+      {
+        "time": "10:30",
+        "task": "Assisted nursing staff with complex wound dressing for a post-op patient.",
+        "type": "info"
+      },
+      {
+        "time": "12:15",
+        "task": "Escorted a resident with mobility challenges to the physiotherapy department.",
+        "type": "info"
+      },
+      {
+        "time": "14:00",
+        "task": "Noticed a resident showing signs of distress and immediately reported to the charge nurse.",
+        "type": "warn"
+      },
+      {
+        "time": "15:30",
+        "task": "Sterilized and restocked medical equipment in two treatment rooms.",
+        "type": "info"
+      }
+    ],
+    "anecdote": {
+      "title": "The Quiet Observer",
+      "icon": "lightbulb",
+      "story": "A new resident was extremely withdrawn and anxious during clinical checks. Instead of just completing the tasks, I made a point to explain every step calmly before I began. Over a few days, I noticed they would subtly nod. By prioritizing communication and dignity over speed, I helped them feel safe and in control, transforming their experience from one of fear to one of trust. It reinforced my belief that understanding the 'human element' is as critical as any clinical procedure."
+    },
+    "legacy": [
+      "Established a reputation for meticulous observation and proactive communication, which helped bridge the gap between routine care tasks and clinical oversight, improving overall patient safety."
+    ],
+    "description": [
+      "Functioned as a key support pillar in a dynamic clinical environment, assisting nurses and doctors with treatments, maintaining rigorous infection-control standards, and ensuring patient dignity and safety during procedures.",
+      "Assisted qualified nurses and medical practitioners during examinations, treatments, and routine patient care activities.",
+      "Prepared patients for clinical procedures, ensuring comfort, dignity, and clear communication throughout their visit.",
+      "Provided mobility assistance, escorted patients safely across the healthcare facility, and supported those with limited independence.",
+      "Acted as a chaperone during examinations to uphold patient privacy, safety, and emotional well-being.",
+      "Monitored and supported elderly and vulnerable individuals, ensuring safeguarding protocols were followed at all times.",
+      "Maintained a clean, safe, and organized clinical environment by managing equipment, replenishing supplies, and adhering to infection-control standards.",
+      "Recorded observations and communicated patient needs promptly to the nursing team, contributing to effective continuity of care.",
+      "Encouraged patients’ autonomy and well-being by assisting with daily living tasks and promoting independence where possible."
+    ]
+  },
+  {
+    "company": "FirstCare Ireland",
+    "role": "Healthcare Assistant",
+    "period": "03/2017 - 04/2018",
+    "location": "Dublin, Ireland",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/firstcare-logo.png",
+    "companyUrl": "https://firstcare.ie/",
+    "themeColor": "#4682B4",
+    "type": "work",
+    "collaboration": [
+      {
+        "icon": "lead",
+        "role": "Supervisor",
+        "name": "Care Manager"
+      },
+      {
+        "icon": "stakeholder",
+        "role": "Clients & Families",
+        "name": "Multiple Households"
+      },
+      {
+        "icon": "peer",
+        "role": "Colleagues",
+        "name": "Multidisciplinary Team"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Personal Care (ADLs)",
+        "context": "Assisted residents with all activities of daily living with dignity."
+      },
+      {
+        "name": "Emotional Support",
+        "context": "Provided active listening and reassurance to residents."
+      },
+      {
+        "name": "Social Engagement",
+        "context": "Facilitated social and recreational activities to boost morale."
+      },
+      {
+        "name": "Dietary Monitoring",
+        "context": "Supported mealtime activities and monitored nutrition and hydration."
+      },
+      {
+        "name": "Home Environment Safety",
+        "context": "Maintained a clean, safe, and homely living space."
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 40,
+        "label": "Increase in Resident Activity",
+        "icon": "trending-up",
+        "suffix": "%"
+      },
+      {
+        "value": 98,
+        "label": "Client Satisfaction Rating",
+        "icon": "shield",
+        "suffix": "%"
+      }
+    ],
+    "dailyLog": [
+      {
+        "time": "08:30",
+        "task": "Assisted a client with their morning personal care routine.",
+        "type": "info"
+      },
+      {
+        "time": "11:00",
+        "task": "Organized a group reading session in the common area.",
+        "type": "info"
+      },
+      {
+        "time": "13:00",
+        "task": "Served lunch and monitored three residents with specific dietary needs.",
+        "type": "info"
+      },
+      {
+        "time": "15:00",
+        "task": "Spent one-on-one time with a resident feeling anxious, providing reassurance.",
+        "type": "info"
+      },
+      {
+        "time": "16:30",
+        "task": "Reported a positive change in a resident's mobility to the shift nurse.",
+        "type": "info"
+      }
+    ],
+    "anecdote": {
+      "title": "The Forgotten Melody",
+      "icon": "lightbulb",
+      "story": "I learned one resident used to play the piano but hadn't in years due to arthritis. I found a lightweight keyboard and encouraged them to just touch the keys. We started with simple one-finger melodies. Soon, they were playing old songs from memory, drawing a small audience of other residents. It taught me that care isn't just about meeting needs, but about rediscovering purpose and joy, no matter the physical limitations."
+    },
+    "legacy": [
+      "Developed a person-centered approach that went beyond physical tasks, focusing on promoting social and emotional well-being, which led to a marked increase in resident engagement."
+    ],
+    "description": [
+      "Delivered holistic, person-centered care by assisting with daily living activities, providing crucial emotional support, and facilitating social engagement to enhance residents' quality of life and well-being.",
+      "Delivered high-quality personal care and emotional support to residents, ensuring dignity, comfort, and individualized attention at all times.",
+      "Assisted residents with activities of daily living (ADLs), including bathing, dressing, grooming, mobility, and toileting, in line with established care plans.",
+      "Supported mealtime activities by organizing, preparing, and assisting with food service, while monitoring dietary needs and hydration levels.",
+      "Encouraged resident engagement by facilitating social, recreational, and therapeutic activities to promote mental and emotional well-being.",
+      "Provided active listening, reassurance, and basic counselling to residents experiencing anxiety, loneliness, or personal challenges.",
+      "Maintained a clean, safe, and homely environment through routine housekeeping and adherence to infection-prevention procedures.",
+      "Worked collaboratively with nurses and multidisciplinary teams to report changes in residents’ health or behavior and ensure continuity of care.",
+      "Upheld safeguarding, confidentiality, and health & safety policies to protect residents and maintain a secure living environment."
+    ]
+  }
+]

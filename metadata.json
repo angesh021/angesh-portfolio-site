@@ -1,0 +1,6 @@
+{
+  "name": "Angesh Portfolio website",
+  "description": "A personal portfolio website for Angesh Chanderdip, a Cybersecurity Engineer, showcasing skills, experience, and projects. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

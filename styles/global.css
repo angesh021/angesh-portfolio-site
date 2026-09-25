@@ -1,0 +1,262 @@
+/* --- Global Styles --- */
+:root {
+  --scrollbar-thumb-color: rgba(var(--color-primary-rgb), 0.5);
+  --scrollbar-track-color: rgba(0, 0, 0, 0.05);
+}
+.dark {
+  --scrollbar-thumb-color: rgba(var(--color-primary-rgb), 0.4);
+  --scrollbar-track-color: rgba(255, 255, 255, 0.05);
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 14px; /* Adjusted to a more standard, less "zoomed" size. */
+  transition: font-size 0.3s ease; /* Smooth transition for zoom */
+
+  /* Set background colors to prevent white flash on overscroll */
+  background-color: #f4f5f7;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.035'/%3E%3C/svg%3E");
+
+  /* For Firefox Scrollbar */
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb-color) var(--scrollbar-track-color);
+}
+
+html.dark {
+  background-color: #0c1626; /* Deep dark bg to sync with MatrixBackground base */
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.045'/%3E%3C/svg%3E");
+}
+
+/* Accessibility Zoomed Mode */
+html.zoomed-mode {
+  font-size: 16px; /* A comfortable zoomed size, standard browser default. */
+}
+
+body.portfolio-body {
+  background-color: transparent; /* Let canvas background show through */
+  color: #6c757d; /* light-text-secondary */
+  font-family: 'Inter', sans-serif;
+  position: relative;
+  width: 100%;
+  overflow-x: hidden; /* Prevent horizontal scrollbars during bounce effect */
+}
+.dark body.portfolio-body {
+  background-color: transparent; /* Let canvas background show through */
+  color: #8892b0;
+}
+
+/* --- Accessibility Enhancements --- */
+
+/* Prevent iOS Safari automatic zoom on form input focus */
+@media screen and (max-width: 768px) {
+  input[type="text"],
+  input[type="email"],
+  input[type="search"],
+  input[type="password"],
+  input[type="tel"],
+  input[type="url"],
+  input[type="number"],
+  textarea,
+  select,
+  .macos-input,
+  .macos-textarea {
+    font-size: 16px !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 3px;
+  box-shadow: 0 0 0 4px rgba(var(--color-primary-rgb), 0.2);
+  border-radius: 4px;
+}
+
+/* --- Global Transition Polish --- */
+a, button {
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease, outline 0.2s ease;
+}
+
+/* --- High Contrast Mode Styles --- */
+html.high-contrast {
+  --color-primary: #FFFF00; /* High-visibility yellow */
+  --color-primary-rgb: 255, 255, 0;
+  scrollbar-color: #FFFF00 #000000;
+}
+.high-contrast body.portfolio-body {
+  background-color: #000000 !important;
+  color: #FFFFFF !important;
+}
+.high-contrast .dark-bg,
+.high-contrast .dark-card,
+.high-contrast .aetherius-bar,
+.high-contrast .settings-panel,
+.high-contrast .macos-window,
+.high-contrast .macos-title-bar,
+.high-contrast .dossier-container-v5,
+.high-contrast .experience-dossier-v6 {
+  background-color: #000000 !important;
+  background-image: none !important;
+  background: #000000 !important;
+}
+.high-contrast .dark-text,
+.high-contrast .dark-text-secondary,
+.high-contrast .macos-title,
+.dark .high-contrast .macos-title {
+  color: #FFFFFF !important;
+}
+.high-contrast a, .high-contrast button {
+  color: #FFFF00 !important;
+}
+.high-contrast [class*="-border-"],
+.high-contrast [class*=" border-"],
+.high-contrast * {
+  border-color: #FFFF00 !important;
+}
+.high-contrast *:not(svg):not(path) {
+  border-color: #FFFF00 !important;
+}
+/* Disable shadows and transparency for high contrast */
+.high-contrast * {
+  text-shadow: none !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}
+
+/* --- Hide Scrollbar Utility --- */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none !important;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none !important;  /* IE and Edge */
+  scrollbar-width: none !important;  /* Firefox */
+}
+
+/* --- Data Panel Headers (Used in Education/Experience) --- */
+.data-panel-header {
+    font-family: 'Fira Code', monospace;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #6c757d; /* light-text-secondary */
+    margin-bottom: 2.5rem; /* Spacing below the header */
+}
+.dark .data-panel-header {
+    color: #8892b0; /* dark-text-secondary */
+}
+
+/* --- V4: Hyper-Realistic Glass Scrollbar --- */
+/* For WebKit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 16px;
+}
+
+::-webkit-scrollbar-track {
+  /* The track is mostly invisible, with an inner shadow to create an "etched" channel */
+  background-color: transparent;
+  border-radius: 8px;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.05);
+}
+.dark ::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+  height: 56px;
+  border-radius: 8px;
+  /* Creates the floating effect */
+  border: 4px solid transparent;
+  background-clip: padding-box;
+  
+  /* The core glass color */
+  background-color: rgba(var(--color-primary-rgb), 0.3);
+  
+  /* Multi-layered shadows for a 3D glass effect */
+  box-shadow: 
+    /* Top highlight */
+    inset 0 1px 1px rgba(255, 255, 255, 0.25),
+    /* Inner shadow for depth */
+    inset 0 -1px 2px rgba(0, 0, 0, 0.1),
+    /* Outer glow */
+    0 0 5px rgba(var(--color-primary-rgb), 0.2);
+
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+.dark ::-webkit-scrollbar-thumb {
+  background-color: rgba(var(--color-primary-rgb), 0.25);
+  box-shadow: 
+    inset 0 1px 1px rgba(255, 255, 255, 0.15),
+    inset 0 -1px 2px rgba(0, 0, 0, 0.4),
+    0 0 5px rgba(var(--color-primary-rgb), 0.2);
+}
+
+/* On hover, thumb becomes more vivid and expands */
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(var(--color-primary-rgb), 0.5);
+  border-width: 3px; /* Expands the thumb visually */
+  box-shadow: 
+    inset 0 1px 1px rgba(255, 255, 255, 0.5),
+    inset 0 -1px 1px rgba(0, 0, 0, 0.2),
+    0 0 10px rgba(var(--color-primary-rgb), 0.4);
+}
+.dark ::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(var(--color-primary-rgb), 0.4);
+}
+
+/* When dragging, the thumb is solid and at its widest */
+::-webkit-scrollbar-thumb:active {
+  background-color: rgba(var(--color-primary-rgb), 0.7);
+  border-width: 2px;
+  box-shadow: 
+    inset 0 1px 2px rgba(255, 255, 255, 0.6),
+    inset 0 -1px 2px rgba(0, 0, 0, 0.3),
+    0 0 12px rgba(var(--color-primary-rgb), 0.5);
+}
+.dark ::-webkit-scrollbar-thumb:active {
+  background-color: rgba(var(--color-primary-rgb), 0.6);
+}
+
+/* High contrast scrollbar for WebKit */
+.high-contrast::-webkit-scrollbar-thumb {
+  background-color: #FFFF00 !important;
+  border: 4px solid transparent;
+  box-shadow: none !important;
+}
+.high-contrast::-webkit-scrollbar-track {
+  background-color: #000000 !important;
+}
+.high-contrast::-webkit-scrollbar-thumb:hover {
+  border-width: 3px;
+}
+
+/* Hide scrollbar buttons */
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+/* iOS Safari Viewport Height Fix */
+@supports (-webkit-touch-callout: none) {
+  html,
+  body,
+  #root {
+    min-height: -webkit-fill-available;
+  }
+}
+
+/* --- Hardware-Accelerated Laser Scan Animation --- */
+@keyframes laser-scan {
+  0% {
+    transform: translate3d(-100%, 0, 0);
+  }
+  100% {
+    transform: translate3d(250%, 0, 0);
+  }
+}
+
+.laser-scan-line {
+  will-change: transform;
+  transform: translate3d(-100%, 0, 0);
+  animation: laser-scan 2.2s linear infinite;
+}
+
+

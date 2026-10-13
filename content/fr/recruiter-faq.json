@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Quelle est la disponibilité ou la période de préavis d'Angesh ?",
+    "answer": "Angesh est ouvert à la discussion pour de nouvelles opportunités. Il dispose d'un préavis standard (généralement de 2 à 4 semaines), qui reste négociable selon la complexité et les exigences du poste.",
+    "category": "availability",
+    "keywords": ["disponibilité", "préavis", "date de début", "embaucher", "quand pouvez-vous commencer"]
+  },
+  {
+    "question": "Quel est le mode de travail préféré d'Angesh (télétravail, hybride, sur site) ?",
+    "answer": "Angesh est très à l'aise avec les modèles de travail hybrides ou entièrement à distance, car ils favorisent à la fois la collaboration et la concentration. Il est également ouvert à un travail sur site à temps plein selon l'emplacement et l'envergure du projet.",
+    "category": "work-style",
+    "keywords": ["télétravail", "hybride", "sur site", "présentiel", "bureau", "distance"]
+  },
+  {
+    "question": "Angesh est-il ouvert à la relocalisation ?",
+    "answer": "Oui, Angesh est prêt à se relocaliser pour la bonne opportunité professionnelle, selon l'envergure du poste, la rémunération et les détails de l'emplacement.",
+    "category": "relocation",
+    "keywords": ["relocalisation", "déménager", "déménagement", "autres villes", "voyager", "étranger"]
+  },
+  {
+    "question": "Quelles sont les attentes salariales d'Angesh ?",
+    "answer": "Les attentes salariales d'Angesh sont flexibles et ouvertes à la discussion. Il recherche un package global qui correspond aux responsabilités du poste, au coût de la vie et à son expertise en cybersécurité et contrôle d'accès réseau.",
+    "category": "compensation",
+    "keywords": ["salaire", "rémunération", "compensation", "pretentions", "tarif", "fourchette"]
+  },
+  {
+    "question": "Quels sont les principaux domaines d'expertise d'Angesh ?",
+    "answer": "Angesh est spécialisé dans le contrôle d'accès réseau (NAC), notamment le déploiement et la gestion des systèmes Cisco ISE, l'authentification 802.1X, l'intégration Active Directory, le profilage des appareils, la conformité de posture et l'architecture réseau défensive. Il possède également une solide expérience en automatisation de la sécurité avec Python, PowerShell et bash, ainsi qu'en détection de menaces (threat hunting) sous Wazuh SIEM.",
+    "category": "skills",
+    "keywords": ["expertise", "spécialisation", "cisco ise", "nac", "802.1x", "cybersécurité", "points forts", "compétences"]
+  }
+]

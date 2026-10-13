@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <!-- Multi-scale Crumpled Kraft Paper lighting filter -->
+    <filter id="crumpledPaperFilter" x="-10%" y="-10%" width="120%" height="120%">
+      <!-- Macro creases and folds -->
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="5" seed="85" result="macroNoise" />
+      <feDiffuseLighting in="macroNoise" lighting-color="#ffffff" surfaceScale="3.6" diffuseConstant="1.1" result="macroLight">
+        <feDistantLight azimuth="45" elevation="52" />
+      </feDiffuseLighting>
+      
+      <!-- Micro paper fiber tooth -->
+      <feTurbulence type="fractalNoise" baseFrequency="0.18" numOctaves="3" seed="12" result="microTooth" />
+      <feDiffuseLighting in="microTooth" lighting-color="#ffffff" surfaceScale="1.2" diffuseConstant="0.9" result="microLight">
+        <feDistantLight azimuth="60" elevation="65" />
+      </feDiffuseLighting>
+      
+      <!-- Combine macro creases and micro tooth -->
+      <feBlend mode="multiply" in="macroLight" in2="microLight" result="combinedLight" />
+      
+      <!-- Color grading to deep charcoal / luxury black crumpled kraft paper -->
+      <!-- Scales the bright diffuse lighting down into subtle, rich dark paper tones (#0d0f12 to #25282f) -->
+      <feComponentTransfer in="combinedLight" result="darkPaperGrading">
+        <feFuncR type="linear" slope="0.14" intercept="0.04" />
+        <feFuncG type="linear" slope="0.14" intercept="0.04" />
+        <feFuncB type="linear" slope="0.15" intercept="0.045" />
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <!-- Deep charcoal base with crumpled paper lighting applied -->
+  <rect width="100%" height="100%" fill="#131518" filter="url(#crumpledPaperFilter)" />
+</svg>

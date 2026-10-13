@@ -1,0 +1,99 @@
+{
+  "categories": {
+    "Defense & Response": {
+      "color": "#64ffda",
+      "skills": [
+        {
+          "name": "Cisco ISE",
+          "icon": "IconNetwork",
+          "description": "Architecting Zero Trust network access and 802.1X for large-scale enterprise environments."
+        },
+        {
+          "name": "EDR/DLP",
+          "icon": "IconShield",
+          "description": "Deploying and managing advanced endpoint detection, response, and data loss prevention controls."
+        },
+        {
+          "name": "Incident Response",
+          "icon": "IconTerminal",
+          "description": "Providing Tier-3 analysis and remediation for endpoint security and network access incidents."
+        },
+        {
+          "name": "Vulnerability Assessment",
+          "icon": "IconSearch",
+          "description": "Identifying and prioritizing system vulnerabilities using industry-standard tools and frameworks."
+        }
+      ]
+    },
+    "Automation & Scripting": {
+      "color": "#ffc300",
+      "skills": [
+        {
+          "name": "PowerShell",
+          "icon": "IconCode",
+          "description": "Automating Windows Server tasks, security configurations, and certificate management workflows."
+        },
+        {
+          "name": "Python",
+          "icon": "IconCode",
+          "description": "Developing custom scripts for security monitoring, data parsing, and automating repetitive tasks."
+        },
+        {
+          "name": "Bash",
+          "icon": "IconTerminal",
+          "description": "Scripting in Linux environments for system administration and security operations."
+        }
+      ]
+    },
+    "Security Operations": {
+      "color": "#00aeff",
+      "skills": [
+        {
+          "name": "SIEM/Splunk",
+          "icon": "IconSearch",
+          "description": "Utilizing SIEM platforms for proactive threat hunting, log analysis, and incident correlation."
+        },
+        {
+          "name": "Wireshark",
+          "icon": "IconNetwork",
+          "description": "Performing deep packet analysis to diagnose network issues and identify malicious traffic patterns."
+        },
+        {
+          "name": "Metasploit",
+          "icon": "IconTerminal",
+          "description": "Leveraging penetration testing tools to validate security controls and assess exploitability."
+        },
+        {
+          "name": "Burp Suite",
+          "icon": "IconTerminal",
+          "description": "Conducting web application security testing to uncover and mitigate OWASP Top 10 vulnerabilities."
+        }
+      ]
+    },
+    "Infrastructure & Cloud": {
+      "color": "#da70d6",
+      "skills": [
+        {
+          "name": "Cloud Security",
+          "icon": "IconCloud",
+          "description": "Implementing security best practices and controls in AWS and Azure environments."
+        },
+        {
+          "name": "Active Directory",
+          "icon": "IconServer",
+          "description": "Managing and securing user identities, group policies, and domain infrastructure."
+        },
+        {
+          "name": "Linux/Windows",
+          "icon": "IconServer",
+          "description": "Administering and hardening both Linux and Windows Server operating systems."
+        },
+        {
+          "name": "Network Security",
+          "icon": "IconNetwork",
+          "description": "Designing and implementing secure network architectures with firewalls, VLANs, and ACLs."
+        }
+      ]
+    }
+  }
+}

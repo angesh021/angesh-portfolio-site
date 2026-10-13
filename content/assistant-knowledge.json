@@ -1,0 +1,2619 @@
+[
+  {
+    "id": "en-profile-hero",
+    "type": "profile",
+    "title": "Angesh Chanderdip - Professional Profile & Summary",
+    "content": "Name: Angesh Chanderdip.\nCurrent Title: Cybersecurity Engineer / Endpoint Security & Network Access Control Specialist.\nLocation: Quebec, Canada (previously Dublin, Ireland).\nEmail: angesh021@gmail.com\nLinkedIn: https://www.linkedin.com/in/angesh-chanderdip/\nGitHub: https://github.com/angesh021\nResume Download: /AngeshChanderdip_Resume.pdf\nSpecialization: Network Access Control (NAC), Cisco ISE, 802.1X (PEAP/EAP-TLS), RADIUS/TACACS+, Active Directory, SIEM Threat Detection (Wazuh, Sysmon, Suricata), Security Automation (Python, PowerShell, Bash), Endpoint Security, and IT Infrastructure.\nSummary: Passionate, results-driven Cybersecurity Engineer with hands-on experience in Fortune 500 automotive environments (General Motors) and enterprise software support (GTECHNA). Holds an M.Sc. in Cybersecurity from University College Dublin, a B.Sc. in Computer Science from TU Dublin, CompTIA Security+, Blue Team Level 1 (BTL1), and Cisco certifications.",
+    "keywords": [
+      "angesh",
+      "chanderdip",
+      "profile",
+      "bio",
+      "summary",
+      "contact",
+      "email",
+      "linkedin",
+      "github",
+      "cybersecurity",
+      "engineer"
+    ],
+    "technologies": [
+      "Cisco ISE",
+      "802.1X",
+      "Active Directory",
+      "Wazuh SIEM",
+      "Python",
+      "PowerShell"
+    ],
+    "locale": "en",
+    "route": "/#hero",
+    "sectionId": "hero",
+    "priority": 10,
+    "isPublic": true
+  },
+  {
+    "id": "en-experience-0",
+    "type": "experience",
+    "title": "Application Support Specialist at GTECHNA (04/2026 - Present)",
+    "content": "Role: Application Support Specialist\nCompany: GTECHNA\nPeriod: 04/2026 - Present\nLocation: Quebec, Canada\nKey Technologies & Skills: SQL Server, PostgreSQL, VPN & Networking, UAT Testing, Technical Advisor\nImpact Metrics: UAT Issue Resolution Rate: 100%, Deployment Time Reduced: 40%, North American Clients Onboarded: 10\nResponsibilities & Achievements:\n- Successfully implemented and configured enterprise software solutions across multiple customer environments, leveraging SQL Server, PostgreSQL, VPN connectivity, virtual machines, and network infrastructure technologies to support critical business operations.\n- Reduced deployment risks and post-go-live issues by executing structured testing, validation, troubleshooting, and User Acceptance Testing (UAT), ensuring stable and reliable production deployments.\n- Improved customer adoption and operational efficiency by developing tailored training materials, technical documentation, and knowledge-transfer sessions for end users and administrators.\n- Served as a trusted technical advisor between customers and cross-functional teams, facilitating communication between software development, product management, QA, and support teams to deliver customer-focused solutions.\n- Increased implementation efficiency by standardizing software configuration, onboarding procedures, workflow setup, and business rule management, reducing deployment complexity and accelerating project delivery.\n- Contributed to product enhancement initiatives by gathering customer feedback, analyzing business requirements, and collaborating with development teams to improve platform functionality and user experience.\n- Maintained high levels of customer satisfaction through proactive technical support, root-cause analysis, and timely resolution of application, database, network, and connectivity-related issues.\n- Configured and supported software integrations, business workflows, and system settings using technologies including Microsoft SQL Server, PostgreSQL, Jira, Confluence, Windows/Linux environments, VPN connectivity, and virtualized infrastructure.\n- Partnered with customers during discovery, implementation, and post-deployment phases to translate business requirements into scalable software solutions aligned with operational objectives.\n- Leveraged strong bilingual communication skills (English/French) to support customers across Quebec, Canada, and North America while ensuring successful adoption of enterprise software solutions.\nNotable Experience (Bilingual Coordination Bridge): During a high-stakes migration for a major transit authority in Quebec, a sudden database query bottleneck began delaying validation. Drawing on my bilingual communication, I coordinated in real-time between local French-speaking IT staff and our English-speaking development and QA team. We pinpointed a legacy PostgreSQL script discrepancy, deployed a hotfix within three hours, and successfully completed the transition, ensuring uninterrupted service for thousands of daily riders.\nLegacy Impact: Designed and documented an exhaustive technical playbook detailing corporate VPN setups and VM credentials, cutting onboarding setup cycles by 40% globally.",
+    "keywords": [
+      "gtechna",
+      "application support specialist",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "sql server",
+      "postgresql",
+      "vpn & networking",
+      "uat testing",
+      "technical advisor"
+    ],
+    "technologies": [
+      "SQL Server",
+      "PostgreSQL",
+      "VPN & Networking",
+      "UAT Testing",
+      "Technical Advisor"
+    ],
+    "locale": "en",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-experience-1",
+    "type": "experience",
+    "title": "Endpoint Security & Network Access Control Engineer at General Motors (02/2022 - 07/2025)",
+    "content": "Role: Endpoint Security & Network Access Control Engineer\nCompany: General Motors\nPeriod: 02/2022 - 07/2025\nLocation: Dublin, Ireland\nKey Technologies & Skills: Cisco ISE, 802.1X, ZeroTrust, EDR/DLP, Python, PowerShell, Incident Response, ServiceNow\nImpact Metrics: Security Servers Monitored: 300, Manual Work Reduction: 90%, Hardware Failures Detected: 140\nResponsibilities & Achievements:\n- Spearheaded the modernization of global network security for a Fortune 500 automotive leader. My core mission involved architecting and deploying enterprise-wide Cisco ISE and 802.1X frameworks to enforce a Zero Trust security model. I engineered robust automation pipelines using Python and PowerShell to slash manual workloads, proactively monitored over 300 security servers to ensure operational resilience, and standardized a next-generation guest Wi-Fi solution across international sites, directly contributing to the company's digital transformation and enhanced cybersecurity posture.\n- Faced recurring certificate expirations and inconsistent policy documentation across 300+ ISE servers; automated DigiCert renewal and policy workflows with Python/PowerShell, cutting manual work by 90% and saving 150+ engineer-hours annually.\n- Observed fragmented 802.1X adoption delaying Zero Trust goals; standardized and deployed Cisco ISE 802.1X configurations enterprise-wide, reducing unauthorized device risk by over 85% and ensuring global policy uniformity.\n- Identified frequent undetected hardware faults causing downtime; developed a proactive server monitoring and alerting framework, detecting 140+ failures early and minimizing unplanned outages.\n- Noted inconsistent guest Wi-Fi experience and weak security segmentation; rolled out Next-Gen Guest (Prisma) Wi-Fi with centralized templates, delivering secure and seamless access across six international sites.\n- Encountered slow incident resolution during network disruptions; enhanced Tier-3 response automation and led 24/7 on-call escalation, improving MTTR and service reliability across global operations.\n- Recognized lack of unified visibility into security change processes; executed and documented 200+ ServiceNow security changes, maintaining continuous compliance and business uptime.\n- Found gaps between technical projects and strategic objectives; presented cybersecurity and cloud migration roadmaps to leadership, ensuring alignment with GM’s digital-transformation strategy and measurable security maturity growth.\nNotable Experience (The Global Outage): During a global outage, Active Directory synchronization with Cisco ISE AAA servers failed, halting car production across all manufacturing sites. I led the incident response, identifying a rare replication bug within a specific forest trust. I developed and deployed a PowerShell script to force-resync critical attributes, restoring AAA services in under an hour and bringing production back online, preventing millions in losses.\nLegacy Impact: Authored the definitive PowerShell automation script for AD-ISE synchronization, which was integrated into the core infrastructure monitoring toolset, permanently eliminating a critical single point of failure.",
+    "keywords": [
+      "general motors",
+      "endpoint security & network access control engineer",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "cisco ise",
+      "802.1x",
+      "zerotrust",
+      "edr/dlp",
+      "python",
+      "powershell",
+      "incident response",
+      "servicenow"
+    ],
+    "technologies": [
+      "Cisco ISE",
+      "802.1X",
+      "ZeroTrust",
+      "EDR/DLP",
+      "Python",
+      "PowerShell",
+      "Incident Response",
+      "ServiceNow"
+    ],
+    "locale": "en",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-experience-2",
+    "type": "experience",
+    "title": "STEM Educator | Cybersecurity & AI Awareness at Junior Achievement Ireland (05/2024 - 05/2024)",
+    "content": "Role: STEM Educator | Cybersecurity & AI Awareness\nCompany: Junior Achievement Ireland\nPeriod: 05/2024 - 05/2024\nLocation: Dublin, Ireland\nKey Technologies & Skills: STEM Education, Public Speaking, Youth Mentoring, Digital Communication\nImpact Metrics: Primary Students Taught: 30+, TecKno Modules Taught: 4 sess, Student Engagement: 100%\nResponsibilities & Achievements:\n- Volunteered at Loreto Senior Primary School to deliver the JAI TecKno programme, teaching 30+ students over 4 sessions covering:\n- 🛡️ Cybersecurity Awareness – taught students how to identify phishing threats, create secure passwords, and manage their digital footprint through gamified learning.\n- 🤖 AI & Robotics – explained how automation and machine learning are used in everyday tech, from robotic vacuum cleaners to facial recognition systems.\n- 📊 Data Analytics – led exercises on interpreting data trends and visualizing key insights for real-world business applications.\n- 💻 Computer Science Basics – explored computing history, programming logic, and career pathways in tech.\n- Used tools like Kahoot and group activities to boost student engagement, promote awareness of tech careers, and awarded each student a Certificate of Achievement.\n- This experience sharpened my skills in public speaking, curriculum delivery, and youth mentoring, aligning with my passion for cyber education and community development.\nNotable Experience (Cracking the Code): To explain cybersecurity, I created a simple 'Caesar cipher' game on the whiteboard. Initially, the kids were quiet. But once the first student cracked the code to reveal a funny secret message, the room erupted. They spent the rest of the session enthusiastically creating their own secret codes. It was a perfect lesson in how a simple, engaging hook can make complex topics accessible and exciting.\nLegacy Impact: Sharpened my skills in public speaking, curriculum delivery, and youth mentoring, aligning with a passion for cyber education and community development.",
+    "keywords": [
+      "junior achievement ireland",
+      "stem educator | cybersecurity & ai awareness",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "stem education",
+      "public speaking",
+      "youth mentoring",
+      "digital communication"
+    ],
+    "technologies": [
+      "STEM Education",
+      "Public Speaking",
+      "Youth Mentoring",
+      "Digital Communication"
+    ],
+    "locale": "en",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-experience-3",
+    "type": "experience",
+    "title": "Volunteer Mentor - Sustainability Innovation Challenge at Junior Achievement Ireland (03/2024 - 03/2024)",
+    "content": "Role: Volunteer Mentor - Sustainability Innovation Challenge\nCompany: Junior Achievement Ireland\nPeriod: 03/2024 - 03/2024\nLocation: Dublin, Ireland\nKey Technologies & Skills: Mentorship, Leadership, Public Speaking, Sustainability\nImpact Metrics: Students Mentored: 100+, School Campuses: 3 schools, UN SDGs Addressed: 5+\nResponsibilities & Achievements:\n- Volunteered as a mentor for the Sustainability Innovation Challenge, a program by Junior Achievement Ireland (JAI) and Accenture.\n- Guided and supported students in developing innovative, sustainable business solutions aligned with the UN Sustainable Development Goals (SDGs).\n- Helped students enhance critical thinking, teamwork, problem-solving, and leadership skills through interactive workshops and challenge-based learning.\n- Assisted students in creating infographics and video pitches to present their ideas for addressing real-world environmental and sustainability challenges.\n- Contributed to an initiative that empowered nearly 100 students across three schools to develop viable solutions to combat climate change.\n- Encouraged creativity and sustainable innovation through mentorship, discussions, and project development.\nNotable Experience (The 'Aha!' Moment): A shy student group struggled to present their idea for a community composting app. During a practice pitch, I helped them reframe their 'boring' data as a powerful story about local impact. Seeing their confidence soar as they realized they weren't just coding, but solving a real problem for their neighbors, was a profound reminder of why I love sharing knowledge.\nLegacy Impact: Contributed to an initiative that empowered nearly 100 students across three schools to develop viable solutions to combat climate change.",
+    "keywords": [
+      "junior achievement ireland",
+      "volunteer mentor - sustainability innovation challenge",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "mentorship",
+      "leadership",
+      "public speaking",
+      "sustainability"
+    ],
+    "technologies": [
+      "Mentorship",
+      "Leadership",
+      "Public Speaking",
+      "Sustainability"
+    ],
+    "locale": "en",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-experience-4",
+    "type": "experience",
+    "title": "Nursing Aide at Beaumont Hospital (10/2018 - 02/2022)",
+    "content": "Role: Nursing Aide\nCompany: Beaumont Hospital\nPeriod: 10/2018 - 02/2022\nLocation: Dublin, Ireland\nKey Technologies & Skills: Patient Care, Vital Signs Monitoring, Documentation, Teamwork, Compassion, High-Pressure Environments\nImpact Metrics: Patients Cared For Daily (Avg): 20, Patient Satisfaction Score: 99%, Accuracy in Vitals Recording: 100%\nResponsibilities & Achievements:\n- Delivered critical frontline patient support, meticulously monitoring and documenting vital signs while collaborating with clinical teams to ensure adherence to care plans and maintain patient comfort and dignity in a high-stakes hospital environment.\n- Provided compassionate care, maintaining patients' comfort and dignity while offering emotional support to patients and their families.\n- Coordinated with nurses and physicians to follow care plans, demonstrating strong teamwork and reliability in a high-pressure environment.\nNotable Experience (The Human Signal): I cared for a non-communicative elderly patient whom others found difficult. By observing non-verbal cues and meticulously logging small behavioral changes, I noticed a pattern related to room lighting. Adjusting it at specific times dramatically improved their comfort and cooperation. This taught me that the most complex systems—whether human or digital—often hinge on understanding the smallest details. It's a lesson I now apply to security, where a single anomalous log entry can signify a much larger issue.\nLegacy Impact: My systematic approach to observing non-verbal cues taught me that the most critical signals in any system—human or digital—are often the quietest.",
+    "keywords": [
+      "beaumont hospital",
+      "nursing aide",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "patient care",
+      "vital signs monitoring",
+      "documentation",
+      "teamwork",
+      "compassion",
+      "high-pressure environments"
+    ],
+    "technologies": [
+      "Patient Care",
+      "Vital Signs Monitoring",
+      "Documentation",
+      "Teamwork",
+      "Compassion",
+      "High-Pressure Environments"
+    ],
+    "locale": "en",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-experience-5",
+    "type": "experience",
+    "title": "Healthcare Assistant at CareChoice Nursing Home (04/2018 - 09/2018)",
+    "content": "Role: Healthcare Assistant\nCompany: CareChoice Nursing Home\nPeriod: 04/2018 - 09/2018\nLocation: Dublin, Ireland\nKey Technologies & Skills: Clinical Support, Patient Dignity, Safeguarding, Infection Control, Medical Charting, Mobility Assistance\nImpact Metrics: Adherence to Infection Control: 100%, Reduction in Patient Anxiety: 25%, Improvement in Team Efficiency: 15%\nResponsibilities & Achievements:\n- Functioned as a key support pillar in a dynamic clinical environment, assisting nurses and doctors with treatments, maintaining rigorous infection-control standards, and ensuring patient dignity and safety during procedures.\n- Assisted qualified nurses and medical practitioners during examinations, treatments, and routine patient care activities.\n- Prepared patients for clinical procedures, ensuring comfort, dignity, and clear communication throughout their visit.\n- Provided mobility assistance, escorted patients safely across the healthcare facility, and supported those with limited independence.\n- Acted as a chaperone during examinations to uphold patient privacy, safety, and emotional well-being.\n- Monitored and supported elderly and vulnerable individuals, ensuring safeguarding protocols were followed at all times.\n- Maintained a clean, safe, and organized clinical environment by managing equipment, replenishing supplies, and adhering to infection-control standards.\n- Recorded observations and communicated patient needs promptly to the nursing team, contributing to effective continuity of care.\n- Encouraged patients’ autonomy and well-being by assisting with daily living tasks and promoting independence where possible.\nNotable Experience (The Quiet Observer): A new resident was extremely withdrawn and anxious during clinical checks. Instead of just completing the tasks, I made a point to explain every step calmly before I began. Over a few days, I noticed they would subtly nod. By prioritizing communication and dignity over speed, I helped them feel safe and in control, transforming their experience from one of fear to one of trust. It reinforced my belief that understanding the 'human element' is as critical as any clinical procedure.\nLegacy Impact: Established a reputation for meticulous observation and proactive communication, which helped bridge the gap between routine care tasks and clinical oversight, improving overall patient safety.",
+    "keywords": [
+      "carechoice nursing home",
+      "healthcare assistant",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "clinical support",
+      "patient dignity",
+      "safeguarding",
+      "infection control",
+      "medical charting",
+      "mobility assistance"
+    ],
+    "technologies": [
+      "Clinical Support",
+      "Patient Dignity",
+      "Safeguarding",
+      "Infection Control",
+      "Medical Charting",
+      "Mobility Assistance"
+    ],
+    "locale": "en",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-experience-6",
+    "type": "experience",
+    "title": "Healthcare Assistant at FirstCare Ireland (03/2017 - 04/2018)",
+    "content": "Role: Healthcare Assistant\nCompany: FirstCare Ireland\nPeriod: 03/2017 - 04/2018\nLocation: Dublin, Ireland\nKey Technologies & Skills: Personal Care (ADLs), Emotional Support, Social Engagement, Dietary Monitoring, Home Environment Safety\nImpact Metrics: Increase in Resident Activity: 40%, Client Satisfaction Rating: 98%\nResponsibilities & Achievements:\n- Delivered holistic, person-centered care by assisting with daily living activities, providing crucial emotional support, and facilitating social engagement to enhance residents' quality of life and well-being.\n- Delivered high-quality personal care and emotional support to residents, ensuring dignity, comfort, and individualized attention at all times.\n- Assisted residents with activities of daily living (ADLs), including bathing, dressing, grooming, mobility, and toileting, in line with established care plans.\n- Supported mealtime activities by organizing, preparing, and assisting with food service, while monitoring dietary needs and hydration levels.\n- Encouraged resident engagement by facilitating social, recreational, and therapeutic activities to promote mental and emotional well-being.\n- Provided active listening, reassurance, and basic counselling to residents experiencing anxiety, loneliness, or personal challenges.\n- Maintained a clean, safe, and homely environment through routine housekeeping and adherence to infection-prevention procedures.\n- Worked collaboratively with nurses and multidisciplinary teams to report changes in residents’ health or behavior and ensure continuity of care.\n- Upheld safeguarding, confidentiality, and health & safety policies to protect residents and maintain a secure living environment.\nNotable Experience (The Forgotten Melody): I learned one resident used to play the piano but hadn't in years due to arthritis. I found a lightweight keyboard and encouraged them to just touch the keys. We started with simple one-finger melodies. Soon, they were playing old songs from memory, drawing a small audience of other residents. It taught me that care isn't just about meeting needs, but about rediscovering purpose and joy, no matter the physical limitations.\nLegacy Impact: Developed a person-centered approach that went beyond physical tasks, focusing on promoting social and emotional well-being, which led to a marked increase in resident engagement.",
+    "keywords": [
+      "firstcare ireland",
+      "healthcare assistant",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "personal care (adls)",
+      "emotional support",
+      "social engagement",
+      "dietary monitoring",
+      "home environment safety"
+    ],
+    "technologies": [
+      "Personal Care (ADLs)",
+      "Emotional Support",
+      "Social Engagement",
+      "Dietary Monitoring",
+      "Home Environment Safety"
+    ],
+    "locale": "en",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-project-home-soc-lab",
+    "type": "project",
+    "title": "Home SOC Lab – Advanced Detection Engineering",
+    "content": "Project Name: Home SOC Lab – Advanced Detection Engineering\nStatus: Completed\nSummary: A complete, isolated SOC environment built on VMware, designed to demonstrate log analysis, threat hunting, and detection engineering.\nDetailed Overview: This project is a complete, isolated Security Operations Center (SOC) environment built on VMware. It demonstrates hands-on blue-team capabilities by simulating attacker behaviors and detecting them using a powerful stack including Wazuh SIEM, Sysmon EDR, Zeek NSM, and Suricata IDS/IPS. It features real-world attack scenarios mapped to MITRE ATT&CK methodologies, custom correlation rules, and comprehensive threat hunting workflows across both network and endpoint telemetry.\nTechnologies / Stack: Wazuh SIEM, Zeek NSM, Suricata IDS/IPS, Sysmon EDR, Blue Team, Threat Hunting, Detection Engineering\nKey Features:\n- Endpoint Detection & Response (EDR) with Sysmon\n- Security Information & Event Management (SIEM) with Wazuh\n- Network intrusion detection (IDS/IPS) with Suricata\n- Network behavioral monitoring with Zeek\n- Custom correlation rules and MITRE ATT&CK mapping\n- Documented attack chains and threat hunting workflows\nGitHub Repository: https://github.com/angesh021/home-soc-lab\nLive Demo: https://wazuh-siem.angesh.sec",
+    "keywords": [
+      "home soc lab – advanced detection engineering",
+      "home-soc-lab",
+      "project",
+      "lab",
+      "architecture",
+      "wazuh siem",
+      "zeek nsm",
+      "suricata ids/ips",
+      "sysmon edr",
+      "blue team",
+      "threat hunting",
+      "detection engineering"
+    ],
+    "technologies": [
+      "Wazuh SIEM",
+      "Zeek NSM",
+      "Suricata IDS/IPS",
+      "Sysmon EDR",
+      "Blue Team",
+      "Threat Hunting",
+      "Detection Engineering"
+    ],
+    "locale": "en",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "home-soc-lab"
+  },
+  {
+    "id": "en-project-aura-ttt",
+    "type": "project",
+    "title": "Aura Tic-Tac-Toe – Feature-Rich Multiplayer Web Application",
+    "content": "Project Name: Aura Tic-Tac-Toe – Feature-Rich Multiplayer Web Application\nStatus: Completed\nSummary: A modern, feature-rich Tic-Tac-Toe web application designed with a stunning glassmorphism UI, fluid animations, and a comprehensive suite of gameplay modes.\nDetailed Overview: Aura Tic-Tac-Toe is a highly polished, full-stack multiplayer web application designed with a stunning glassmorphism UI, fluid animations, and a comprehensive suite of gameplay modes. The project showcases a production-ready, secure, and server-authoritative architecture, featuring a React frontend and a Node.js/Socket.IO backend. It supports complex gameplay mechanics like local Pass & Play, AI Solo (with varying difficulty levels), real-time PvP with a customized Lobby system, progression systems including an in-game shop, cosmetic items, leaderboards, and robust authentication and security features.\nTechnologies / Stack: React, Node.js, Express, Socket.IO, PostgreSQL, Framer Motion, TypeScript\nKey Features:\n- Sleek Glassmorphism UI with smooth responsive animations\n- Multiple Game Modes: Solo vs. AI, Local Pass & Play, Real-time PvP, and Campaign Mode\n- Strategic Power-Ups: Undo, Destroy, Fortify, and Double Strike\n- Progression & Economy: Earn Aura Coins, complete Daily Quests, and unlock cosmetic items in the Marketplace\n- Social Hub: Friends list with online status, direct messaging, and global ELO leaderboards\n- Server-Authoritative gameplay to prevent client-side cheating\nGitHub Repository: https://github.com/angesh021/aura-tic-tac-toe\nLive Demo: https://aura-tic-tac-toe-frontend.onrender.com/",
+    "keywords": [
+      "aura tic-tac-toe – feature-rich multiplayer web application",
+      "aura-tic-tac-toe",
+      "project",
+      "lab",
+      "architecture",
+      "react",
+      "node.js",
+      "express",
+      "socket.io",
+      "postgresql",
+      "framer motion",
+      "typescript"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "Socket.IO",
+      "PostgreSQL",
+      "Framer Motion",
+      "TypeScript"
+    ],
+    "locale": "en",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "aura-tic-tac-toe"
+  },
+  {
+    "id": "en-project-admin-dashboard",
+    "type": "project",
+    "title": "Admin Dashboard Platform",
+    "content": "Project Name: Admin Dashboard Platform\nStatus: In Progress\nSummary: A comprehensive admin dashboard focusing on programming insights, security, log analysis, and data visualization.\nDetailed Overview: Developed an advanced admin dashboard designed for comprehensive system monitoring, combining programming tools, security overviews, and deep log analysis capabilities. The platform features rich data visualization for real-time traffic monitoring, threat detection, and log metrics. It incorporates secure role-based access, real-time alerting systems, and seamless log aggregation to provide administrators with actionable insights rapidly.\nTechnologies / Stack: Programming, Security, Log Analysis, Data Visualization, React, Dashboards\nKey Features:\n- Real-time Security Monitoring & Alerts\n- Advanced Log Analysis and Parsing\n- Interactive Data Visualization (Charts/Graphs)\n- Role-Based Access Control (RBAC)\n- System Health and Performance Metrics\nGitHub Repository: https://github.com/angesh021/admin-dashboard\nLive Demo: N/A",
+    "keywords": [
+      "admin dashboard platform",
+      "admin-dashboard",
+      "project",
+      "lab",
+      "architecture",
+      "programming",
+      "security",
+      "log analysis",
+      "data visualization",
+      "react",
+      "dashboards"
+    ],
+    "technologies": [
+      "Programming",
+      "Security",
+      "Log Analysis",
+      "Data Visualization",
+      "React",
+      "Dashboards"
+    ],
+    "locale": "en",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "admin-dashboard"
+  },
+  {
+    "id": "en-project-enterprise-nac",
+    "type": "project",
+    "title": "Enterprise NAC Lab (Cisco ISE + AD)",
+    "content": "Project Name: Enterprise NAC Lab (Cisco ISE + AD)\nStatus: Completed\nSummary: An end-to-end lab simulating corporate network access control with Cisco ISE, Active Directory, and 802.1X.\nDetailed Overview: Built a full enterprise-grade NAC (Network Access Control) lab environment using EVE-NG virtual platform running inside VMware Workstation, integrating Cisco Identity Services Engine (ISE) with Microsoft Active Directory to simulate real-world secure network authentication. The project replicates a corporate authentication ecosystem, allowing wired and wireless endpoints to authenticate using 802.1X, RADIUS, and Active Directory user policies. This environment was designed to test onboarding workflows, security policies, endpoint profiling, and role-based access enforcement.\nTechnologies / Stack: Cisco ISE, Active Directory, 802.1X, EVE-NG, VMware, RADIUS, PKI, Network Security, Zero Trust\nKey Features:\n- 802.1X authentication for domain-joined endpoints (PEAP/EAP-TLS)\n- MAC Authentication Bypass (MAB) for unmanaged/IoT devices\n- Active Directory integration for centralized identity & policy\n- ISE Policy Sets for authorization based on AD groups\n- Dynamic VLAN assignment and ACL enforcement based on user roles\n- RADIUS live logs monitoring for auditability and troubleshooting\nGitHub Repository: https://github.com/angesh021/enterprise-nac-lab\nLive Demo: N/A",
+    "keywords": [
+      "enterprise nac lab (cisco ise + ad)",
+      "enterprise-nac-lab",
+      "project",
+      "lab",
+      "architecture",
+      "cisco ise",
+      "active directory",
+      "802.1x",
+      "eve-ng",
+      "vmware",
+      "radius",
+      "pki",
+      "network security",
+      "zero trust"
+    ],
+    "technologies": [
+      "Cisco ISE",
+      "Active Directory",
+      "802.1X",
+      "EVE-NG",
+      "VMware",
+      "RADIUS",
+      "PKI",
+      "Network Security",
+      "Zero Trust"
+    ],
+    "locale": "en",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "enterprise-nac-lab"
+  },
+  {
+    "id": "en-project-hse-vax",
+    "type": "project",
+    "title": "HSE Vaccination APP - Security Hardening",
+    "content": "Project Name: HSE Vaccination APP - Security Hardening\nStatus: Completed\nSummary: Full-stack security audit and remediation of a national healthcare application following OWASP Top 10.\nDetailed Overview: Led a comprehensive security overhaul of a critical healthcare vaccination management system. The project involved static (SAST) and dynamic (DAST) application security testing to identify vulnerabilities. Key achievements include patching 12+ critical flaws such as SQL Injection and Cross-Site Request Forgery, implementing robust multi-factor authentication (MFA), enforcing modern password hashing with BCrypt, and upgrading the entire infrastructure to use HTTPS. These measures collectively reduced the application's exploitability risk by over 90%.\nTechnologies / Stack: OWASP Top 10, SAST, DAST, BCrypt, Security Audit, Penetration Testing, MFA\nKey Features:\n- Secure User Authentication with MFA\n- Role-Based Access Control (RBAC)\n- Input Validation & Output Encoding vs. XSS\n- Encrypted Data-in-Transit (HTTPS)\n- Secure Password Hashing using BCrypt\nGitHub Repository: https://github.com/angesh021/HSE-VAX-APP\nLive Demo: N/A",
+    "keywords": [
+      "hse vaccination app - security hardening",
+      "hse-vaccination-security",
+      "project",
+      "lab",
+      "architecture",
+      "owasp top 10",
+      "sast",
+      "dast",
+      "bcrypt",
+      "security audit",
+      "penetration testing",
+      "mfa"
+    ],
+    "technologies": [
+      "OWASP Top 10",
+      "SAST",
+      "DAST",
+      "BCrypt",
+      "Security Audit",
+      "Penetration Testing",
+      "MFA"
+    ],
+    "locale": "en",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "hse-vaccination-security"
+  },
+  {
+    "id": "en-project-network-lab",
+    "type": "project",
+    "title": "Enterprise Network Lab Design",
+    "content": "Project Name: Enterprise Network Lab Design\nStatus: Completed\nSummary: A secure, scalable enterprise network topology built with advanced routing, VLANs, and firewall policies.\nDetailed Overview: Designed and built a complex, multi-layered enterprise network topology from the ground up using Cisco Packet Tracer. The lab accurately simulates a real-world IT infrastructure, featuring advanced routing protocols like OSPF, robust VLAN segmentation to isolate traffic, and granular Access Control Lists (ACLs) for security. The architecture also incorporates IPv6 addressing, a centralized wireless controller for managing access points, and stateful firewall policies to control ingress and egress traffic, creating a secure and highly scalable network environment.\nTechnologies / Stack: Cisco, Network Architecture, VLAN, OSPF, ACLs, Firewall Policies, IPv6\nKey Features:\n- Multi-Area OSPF Routing Protocol\n- VLAN Segmentation & Inter-VLAN Routing\n- Stateful Firewall with Granular ACLs\n- Centralized Wireless LAN Controller\n- IPv4 & IPv6 Dual Stack Implementation\nGitHub Repository: https://github.com/angesh021/ccna-enterprise-lab\nLive Demo: N/A",
+    "keywords": [
+      "enterprise network lab design",
+      "enterprise-network-lab",
+      "project",
+      "lab",
+      "architecture",
+      "cisco",
+      "network architecture",
+      "vlan",
+      "ospf",
+      "acls",
+      "firewall policies",
+      "ipv6"
+    ],
+    "technologies": [
+      "Cisco",
+      "Network Architecture",
+      "VLAN",
+      "OSPF",
+      "ACLs",
+      "Firewall Policies",
+      "IPv6"
+    ],
+    "locale": "en",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "enterprise-network-lab"
+  },
+  {
+    "id": "en-skill-cat-defense---response",
+    "type": "skill",
+    "title": "Technical Skills - Defense & Response",
+    "content": "Category: Defense & Response\nSkills & Competencies:\n• Cisco ISE: Architecting Zero Trust network access and 802.1X for large-scale enterprise environments.\n• EDR/DLP: Deploying and managing advanced endpoint detection, response, and data loss prevention controls.\n• Incident Response: Providing Tier-3 analysis and remediation for endpoint security and network access incidents.\n• Vulnerability Assessment: Identifying and prioritizing system vulnerabilities using industry-standard tools and frameworks.",
+    "keywords": [
+      "defense & response",
+      "skills",
+      "competencies",
+      "expertise",
+      "tools",
+      "cisco ise",
+      "edr/dlp",
+      "incident response",
+      "vulnerability assessment"
+    ],
+    "technologies": [
+      "Cisco ISE",
+      "EDR/DLP",
+      "Incident Response",
+      "Vulnerability Assessment"
+    ],
+    "locale": "en",
+    "route": "/#about",
+    "sectionId": "about",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-skill-cat-automation---scripting",
+    "type": "skill",
+    "title": "Technical Skills - Automation & Scripting",
+    "content": "Category: Automation & Scripting\nSkills & Competencies:\n• PowerShell: Automating Windows Server tasks, security configurations, and certificate management workflows.\n• Python: Developing custom scripts for security monitoring, data parsing, and automating repetitive tasks.\n• Bash: Scripting in Linux environments for system administration and security operations.",
+    "keywords": [
+      "automation & scripting",
+      "skills",
+      "competencies",
+      "expertise",
+      "tools",
+      "powershell",
+      "python",
+      "bash"
+    ],
+    "technologies": [
+      "PowerShell",
+      "Python",
+      "Bash"
+    ],
+    "locale": "en",
+    "route": "/#about",
+    "sectionId": "about",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-skill-cat-security-operations",
+    "type": "skill",
+    "title": "Technical Skills - Security Operations",
+    "content": "Category: Security Operations\nSkills & Competencies:\n• SIEM/Splunk: Utilizing SIEM platforms for proactive threat hunting, log analysis, and incident correlation.\n• Wireshark: Performing deep packet analysis to diagnose network issues and identify malicious traffic patterns.\n• Metasploit: Leveraging penetration testing tools to validate security controls and assess exploitability.\n• Burp Suite: Conducting web application security testing to uncover and mitigate OWASP Top 10 vulnerabilities.",
+    "keywords": [
+      "security operations",
+      "skills",
+      "competencies",
+      "expertise",
+      "tools",
+      "siem/splunk",
+      "wireshark",
+      "metasploit",
+      "burp suite"
+    ],
+    "technologies": [
+      "SIEM/Splunk",
+      "Wireshark",
+      "Metasploit",
+      "Burp Suite"
+    ],
+    "locale": "en",
+    "route": "/#about",
+    "sectionId": "about",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-skill-cat-infrastructure---cloud",
+    "type": "skill",
+    "title": "Technical Skills - Infrastructure & Cloud",
+    "content": "Category: Infrastructure & Cloud\nSkills & Competencies:\n• Cloud Security: Implementing security best practices and controls in AWS and Azure environments.\n• Active Directory: Managing and securing user identities, group policies, and domain infrastructure.\n• Linux/Windows: Administering and hardening both Linux and Windows Server operating systems.\n• Network Security: Designing and implementing secure network architectures with firewalls, VLANs, and ACLs.",
+    "keywords": [
+      "infrastructure & cloud",
+      "skills",
+      "competencies",
+      "expertise",
+      "tools",
+      "cloud security",
+      "active directory",
+      "linux/windows",
+      "network security"
+    ],
+    "technologies": [
+      "Cloud Security",
+      "Active Directory",
+      "Linux/Windows",
+      "Network Security"
+    ],
+    "locale": "en",
+    "route": "/#about",
+    "sectionId": "about",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-btl1",
+    "type": "certification",
+    "title": "Certified Blue Team Level 1 (BTL1) - Issued by Security Blue Team",
+    "content": "Certification Name: Certified Blue Team Level 1 (BTL1)\nIssuer: Security Blue Team\nDate: Issued Jun 2025\nVerification / Badge URL: https://www.credly.com/badges/5cab8576-afbd-4f81-a19e-c0a750d069f7\nSkills Gained: Phishing Analysis, Digital Forensics, SIEM Operations, Incident Response, Threat Intelligence, Network Analysis\nKey Benefits:\n- Validates hands-on, practical defensive security skills.\n- Proves readiness for SOC Analyst and Incident Responder roles.\n- Covers a comprehensive range of blue team operations.",
+    "keywords": [
+      "certified blue team level 1",
+      "btl1",
+      "security blue team",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Phishing Analysis",
+      "Digital Forensics",
+      "SIEM Operations",
+      "Incident Response",
+      "Threat Intelligence",
+      "Network Analysis"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-sixsigma-white",
+    "type": "certification",
+    "title": "Six Sigma White Belt (SSWB) - Issued by Council for Six Sigma Certification",
+    "content": "Certification Name: Six Sigma White Belt (SSWB)\nIssuer: Council for Six Sigma Certification\nDate: Issued Jan 2025\nVerification / Badge URL: #\nSkills Gained: Basic Six Sigma Vocabulary, Process Improvement Awareness, Quality Concepts, Role Definition\nKey Benefits:\n- Provides a foundational understanding of the Six Sigma methodology.\n- Enables effective communication within a Six Sigma team.\n- Demonstrates a commitment to quality and efficiency.",
+    "keywords": [
+      "six sigma white belt",
+      "sswb",
+      "council for six sigma certification",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Basic Six Sigma Vocabulary",
+      "Process Improvement Awareness",
+      "Quality Concepts",
+      "Role Definition"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-sixsigma-yellow",
+    "type": "certification",
+    "title": "Six Sigma Yellow Belt (SSYB) - Issued by Council for Six Sigma Certification",
+    "content": "Certification Name: Six Sigma Yellow Belt (SSYB)\nIssuer: Council for Six Sigma Certification\nDate: Issued Feb 2025\nVerification / Badge URL: #\nSkills Gained: Six Sigma Concepts, Process Mapping Basics, Data Collection Techniques, Team Participation, Problem Definition\nKey Benefits:\n- Functions as a knowledgeable team member on Six Sigma projects.\n- Understands the core principles of process improvement.\n- Helps identify areas for improvement in daily tasks.",
+    "keywords": [
+      "six sigma yellow belt",
+      "ssyb",
+      "council for six sigma certification",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Six Sigma Concepts",
+      "Process Mapping Basics",
+      "Data Collection Techniques",
+      "Team Participation",
+      "Problem Definition"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-sixsigma-green",
+    "type": "certification",
+    "title": "Six Sigma Green Belt (SSGB) - Issued by Council for Six Sigma Certification",
+    "content": "Certification Name: Six Sigma Green Belt (SSGB)\nIssuer: Council for Six Sigma Certification\nDate: Issued Apr 2025\nVerification / Badge URL: #\nSkills Gained: DMAIC Framework, Data Collection, Process Analysis, Statistical Tools, Project Management, Hypothesis Testing\nKey Benefits:\n- Leads small to medium-sized process improvement projects.\n- Provides data analysis support to Black Belts.\n- Improves problem-solving skills within a team context.",
+    "keywords": [
+      "six sigma green belt",
+      "ssgb",
+      "council for six sigma certification",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "DMAIC Framework",
+      "Data Collection",
+      "Process Analysis",
+      "Statistical Tools",
+      "Project Management",
+      "Hypothesis Testing"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-sixsigma-black",
+    "type": "certification",
+    "title": "Six Sigma Black Belt (SSBB) - Issued by Council for Six Sigma Certification",
+    "content": "Certification Name: Six Sigma Black Belt (SSBB)\nIssuer: Council for Six Sigma Certification\nDate: Issued Jun 2025\nVerification / Badge URL: https://www.sixsigmacouncil.org/\nSkills Gained: Process Mapping, Statistical Analysis, Project Management, Root Cause Analysis, Quality Assurance, Change Management\nKey Benefits:\n- Enables data-driven decision-making to optimize processes.\n- Demonstrates leadership in improving business outcomes.\n- Reduces operational costs and increases efficiency.",
+    "keywords": [
+      "six sigma black belt",
+      "ssbb",
+      "council for six sigma certification",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Process Mapping",
+      "Statistical Analysis",
+      "Project Management",
+      "Root Cause Analysis",
+      "Quality Assurance",
+      "Change Management"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-cct",
+    "type": "certification",
+    "title": "CCT Routing and Switching (CCT) - Issued by Cisco",
+    "content": "Certification Name: CCT Routing and Switching (CCT)\nIssuer: Cisco\nDate: Issued Jan 2023\nVerification / Badge URL: https://www.credly.com/badges/67f93061-ef60-452d-bce9-f463af3a73a1\nSkills Gained: Device Identification, Cisco IOS, Hardware Diagnostics, Cabling and Interfaces, Service Restoration, Network Fundamentals\nKey Benefits:\n- Qualifies for on-site support of Cisco networking devices.\n- Ensures competence in first-line hardware support.\n- Provides a strong foundation for advanced Cisco certifications.",
+    "keywords": [
+      "cct routing and switching",
+      "cct",
+      "cisco",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Device Identification",
+      "Cisco IOS",
+      "Hardware Diagnostics",
+      "Cabling and Interfaces",
+      "Service Restoration",
+      "Network Fundamentals"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-az900",
+    "type": "certification",
+    "title": "Microsoft Certified: AZ-900 (AZ900) - Issued by Microsoft",
+    "content": "Certification Name: Microsoft Certified: AZ-900 (AZ900)\nIssuer: Microsoft\nDate: Issued Jul 2022\nVerification / Badge URL: https://www.credly.com/badges/ec8ad48f-061c-4b26-a07b-3e12cd6d482a\nSkills Gained: Cloud Concepts, Core Azure Services, Azure Security, Azure Pricing & SLAs, Identity & Governance, Compliance\nKey Benefits:\n- Demonstrates fundamental knowledge of cloud services.\n- Validates understanding of the Microsoft Azure platform.\n- Serves as a prerequisite for specialized Azure role-based certs.",
+    "keywords": [
+      "microsoft certified: az-900",
+      "az900",
+      "microsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Cloud Concepts",
+      "Core Azure Services",
+      "Azure Security",
+      "Azure Pricing & SLAs",
+      "Identity & Governance",
+      "Compliance"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-isc2-candidate",
+    "type": "certification",
+    "title": "(ISC)² Candidate (ISC²) - Issued by (ISC)²",
+    "content": "Certification Name: (ISC)² Candidate (ISC²)\nIssuer: (ISC)²\nDate: Issued Oct 2023\nVerification / Badge URL: https://www.credly.com/badges/4a8f0bb7-5f3c-4a43-9313-01b92bba573a\nSkills Gained: Ethical Conduct, Professional Development, Cybersecurity Principles, Career Planning\nKey Benefits:\n- Shows commitment to a career in cybersecurity.\n- Provides access to (ISC)² resources and networking.\n- Officially marks the journey towards CISSP or other certs.",
+    "keywords": [
+      "(isc)² candidate",
+      "isc²",
+      "(isc)²",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Ethical Conduct",
+      "Professional Development",
+      "Cybersecurity Principles",
+      "Career Planning"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-az-admin-aad",
+    "type": "certification",
+    "title": "Microsoft Azure Administrator: Azure AD (Az-AAD) - Issued by Skillsoft",
+    "content": "Certification Name: Microsoft Azure Administrator: Azure AD (Az-AAD)\nIssuer: Skillsoft\nDate: Issued Dec 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/fd2aa2da-2087-40e5-91ce-b8767a8a7d46#acc.1kWhp3Al\nSkills Gained: Azure AD, Identity Management, Enterprise State Roaming, Identity Protection, SSPR, Role-Based Access Control (RBAC)\nKey Benefits:\n- Validates core skills for managing Azure identities.\n- Crucial for securing cloud resources in Azure.\n- Demonstrates expertise in modern authentication methods.",
+    "keywords": [
+      "microsoft azure administrator: azure ad",
+      "az-aad",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Azure AD",
+      "Identity Management",
+      "Enterprise State Roaming",
+      "Identity Protection",
+      "SSPR",
+      "Role-Based Access Control (RBAC)"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-sec-risk-mgmt",
+    "type": "certification",
+    "title": "Session & Risk Management (Sec&Risk) - Issued by Skillsoft",
+    "content": "Certification Name: Session & Risk Management (Sec&Risk)\nIssuer: Skillsoft\nDate: Issued Jan 2023\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/3d5bba3a-03be-4a16-b765-8db112eb1283#acc.czIJHypk\nSkills Gained: Risk Management, Session Management, Data Confidentiality, Encryption, User Security, Security Controls\nKey Benefits:\n- Demonstrates ability to identify, assess, and prioritize risks.\n- Proves competence in implementing security controls to mitigate risk.\n- Validates knowledge of hardening browsers and servers with TLS.",
+    "keywords": [
+      "session & risk management",
+      "sec&risk",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Risk Management",
+      "Session Management",
+      "Data Confidentiality",
+      "Encryption",
+      "User Security",
+      "Security Controls"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-secplus-threats",
+    "type": "certification",
+    "title": "CompTIA Security+: Threat Actors, Intelligence Sources, & Vulnerabilities (Sec+TI) - Issued by Skillsoft",
+    "content": "Certification Name: CompTIA Security+: Threat Actors, Intelligence Sources, & Vulnerabilities (Sec+TI)\nIssuer: Skillsoft\nDate: Issued Aug 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/5e21ac63-b4ad-47ad-a004-9035d442f4d2#acc.q0IKuYZQ\nSkills Gained: Threat Intelligence, Threat Actor Profiling, Vulnerability Scanning, MITRE ATT&CK, Indicator of Compromise (IoC), Cyber Kill Chain\nKey Benefits:\n- Demonstrates specialized knowledge in threat analysis.\n- Validates ability to identify and analyze adversaries.\n- Core skill for threat hunting and SOC roles.",
+    "keywords": [
+      "comptia security+: threat actors, intelligence sources, & vulnerabilities",
+      "sec+ti",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Threat Intelligence",
+      "Threat Actor Profiling",
+      "Vulnerability Scanning",
+      "MITRE ATT&CK",
+      "Indicator of Compromise (IoC)",
+      "Cyber Kill Chain"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-win10-ad",
+    "type": "certification",
+    "title": "Windows 10: Active Directory Management (Win10AD) - Issued by Skillsoft",
+    "content": "Certification Name: Windows 10: Active Directory Management (Win10AD)\nIssuer: Skillsoft\nDate: Issued May 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/70aaab52-d606-4ec3-96dd-bf357d594e4f#acc.mncpXQBM\nSkills Gained: Active Directory, Group Policy (GPO), User & Group Mgmt, LDAP Queries, Client Configuration, Troubleshooting\nKey Benefits:\n- Proves competence in managing enterprise Windows clients.\n- Essential skill for endpoint and identity management roles.\n- Validates understanding of core Microsoft infrastructure.",
+    "keywords": [
+      "windows 10: active directory management",
+      "win10ad",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Active Directory",
+      "Group Policy (GPO)",
+      "User & Group Mgmt",
+      "LDAP Queries",
+      "Client Configuration",
+      "Troubleshooting"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-ws2016-gpo",
+    "type": "certification",
+    "title": "Windows Server 2016: AD Group Policy (WS2016-GPO) - Issued by Skillsoft",
+    "content": "Certification Name: Windows Server 2016: AD Group Policy (WS2016-GPO)\nIssuer: Skillsoft\nDate: Issued Jun 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/b09f7ed2-7758-43bd-8a54-314fb83d3a71#acc.rO5b6gDM\nSkills Gained: Active Directory, Group Policy (GPO), Centralized Management, Windows Server 2016, Security Configuration\nKey Benefits:\n- Demonstrates expertise in managing Windows infrastructure via GPOs.\n- Validates skills for system administrator and identity management roles.\n- Prepares for 70-742 certification exam topics.",
+    "keywords": [
+      "windows server 2016: ad group policy",
+      "ws2016-gpo",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Active Directory",
+      "Group Policy (GPO)",
+      "Centralized Management",
+      "Windows Server 2016",
+      "Security Configuration"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-cissp-cns",
+    "type": "certification",
+    "title": "CISSP 2021: Communication & Network Security (CISSP) - Issued by (ISC)²",
+    "content": "Certification Name: CISSP 2021: Communication & Network Security (CISSP)\nIssuer: (ISC)²\nDate: Issued Mar 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/cc7ec790-265d-4455-9676-4ba492975a97#acc.aQMhnYBe\nSkills Gained: Network Architecture, TCP/IP Security, Cryptography, Secure Protocols, Wireless Security, Firewall Management\nKey Benefits:\n- Validates deep technical knowledge in network security.\n- Covers a key domain of the CISSP CBK.\n- Demonstrates ability to design and protect networks.",
+    "keywords": [
+      "cissp 2021: communication & network security",
+      "cissp",
+      "(isc)²",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Network Architecture",
+      "TCP/IP Security",
+      "Cryptography",
+      "Secure Protocols",
+      "Wireless Security",
+      "Firewall Management"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-cy-analyst",
+    "type": "certification",
+    "title": "CompTIA CySA+: Threat Monitoring (CySA+) - Issued by Skillsoft",
+    "content": "Certification Name: CompTIA CySA+: Threat Monitoring (CySA+)\nIssuer: Skillsoft\nDate: Issued Feb 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/f03eecbb-42d5-439f-8563-984cd933fbe3#acc.j58neDcW\nSkills Gained: Threat Detection, Vulnerability Management, Behavioral Analytics, Incident Response, Log Analysis, SOC Procedures\nKey Benefits:\n- Applies behavioral analytics to improve threat visibility.\n- Validates skills for intermediate-level SOC analysts.\n- Focuses on proactive threat hunting and defense.",
+    "keywords": [
+      "comptia cysa+: threat monitoring",
+      "cysa+",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Threat Detection",
+      "Vulnerability Management",
+      "Behavioral Analytics",
+      "Incident Response",
+      "Log Analysis",
+      "SOC Procedures"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-cloud-plus",
+    "type": "certification",
+    "title": "CompTIA Cloud+: Cloud Security Controls (Cld+) - Issued by Skillsoft",
+    "content": "Certification Name: CompTIA Cloud+: Cloud Security Controls (Cld+)\nIssuer: Skillsoft\nDate: Issued Feb 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/9e24b963-2f8b-4900-bf1f-40883eec3e45#acc.Z0IVYFWK\nSkills Gained: Cloud Deployment, Security Controls, Cloud Architecture, Disaster Recovery, Automation, Troubleshooting\nKey Benefits:\n- Vendor-neutral, covering multiple cloud platforms.\n- Proves hands-on expertise in cloud infrastructure.\n- Ensures ability to secure and maintain cloud environments.",
+    "keywords": [
+      "comptia cloud+: cloud security controls",
+      "cld+",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Cloud Deployment",
+      "Security Controls",
+      "Cloud Architecture",
+      "Disaster Recovery",
+      "Automation",
+      "Troubleshooting"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-cert-ccna",
+    "type": "certification",
+    "title": "Cisco Certified Network Associate (CCNA) (CCNA) - Issued by Cisco",
+    "content": "Certification Name: Cisco Certified Network Associate (CCNA) (CCNA)\nIssuer: Cisco\nDate: Issued Jun 2025\nVerification / Badge URL: https://www.credly.com/badges/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png\nSkills Gained: Network Fundamentals, Network Access, IP Connectivity & Services, Security Fundamentals, Automation & Programmability\nKey Benefits:\n- Validates hands-on knowledge of enterprise routing, switching, and security.\n- Demonstrates solid foundation in modern IP network configuration and troubleshooting.\n- Equips you to build, manage, and secure dual-stack wired and wireless topologies.",
+    "keywords": [
+      "cisco certified network associate (ccna)",
+      "ccna",
+      "cisco",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Network Fundamentals",
+      "Network Access",
+      "IP Connectivity & Services",
+      "Security Fundamentals",
+      "Automation & Programmability"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-education-0",
+    "type": "education",
+    "title": "Master of Science (M.Sc.) in Cybersecurity - University College Dublin (09/2023 - 08/2024)",
+    "content": "Degree: Master of Science (M.Sc.) in Cybersecurity\nInstitution: University College Dublin\nPeriod: 09/2023 - 08/2024\nLocation: Dublin, Ireland\nGrade / Result: Second Class Honours, First Division grade\nFocus Area: Advanced Threat Modeling & Simulated Enterprise Attacks\nKey Subject Areas: Penetration Testing, Digital Forensics, Secure Systems Architecture, Malware Analysis\nDescription: An intensive postgraduate program focused on equipping students with the advanced technical skills and strategic mindset required to defend complex enterprise systems against modern cyber threats.\nHighlights & Coursework:\n- Executed complex threat modeling and led simulated red team exercises against enterprise-grade virtual labs using Metasploit, Burp Suite, and Wireshark.\n- Engineered custom malware detection scripts and conducted in-depth forensic data analysis with industry-standard SIEM tools like Splunk.\n- Designed and implemented secure, multi-layered cloud-native architectures in AWS, focusing on IAM, network security, and data protection.\n- Researched and presented on the legal, ethical, and regulatory frameworks governing modern cybersecurity operations and incident response.",
+    "keywords": [
+      "master of science (m.sc.) in cybersecurity",
+      "university college dublin",
+      "education",
+      "degree",
+      "university",
+      "college",
+      "academic background"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-education-1",
+    "type": "education",
+    "title": "Bachelor of Science (B.Sc.) in Computer Science - Technological University Dublin (09/2020 - 06/2023)",
+    "content": "Degree: Bachelor of Science (B.Sc.) in Computer Science\nInstitution: Technological University Dublin\nPeriod: 09/2020 - 06/2023\nLocation: Dublin, Ireland\nGrade / Result: Second Class Honours, First Division grade\nFocus Area: Full-Stack Web Application Development & Network Security\nKey Subject Areas: Algorithms & Data Structures, Operating Systems, Network Fundamentals, Software Development\nDescription: A comprehensive undergraduate degree providing a deep theoretical and practical foundation in computing. The curriculum covered core principles of software engineering, network infrastructure, and algorithmic problem-solving.\nHighlights & Coursework:\n- Mastered core CS principles including advanced algorithms, data structures, operating system design, and computer networking.\n- Developed a diverse portfolio of projects, including full-stack web applications, system automation scripts, and secure network laboratory environments.\n- Gained hands-on proficiency with Python, C++, Java, Bash, PowerShell, and key infrastructure technologies including AWS and Cisco networking.",
+    "keywords": [
+      "bachelor of science (b.sc.) in computer science",
+      "technological university dublin",
+      "education",
+      "degree",
+      "university",
+      "college",
+      "academic background"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-education-2",
+    "type": "education",
+    "title": "Diploma in Software Development (FETAC L6) - Rathmines College (09/2019 - 06/2020)",
+    "content": "Degree: Diploma in Software Development (FETAC L6)\nInstitution: Rathmines College\nPeriod: 09/2019 - 06/2020\nLocation: Dublin, Ireland\nGrade / Result: Distinction\nFocus Area: Robust Application Development\nKey Subject Areas: Object-Oriented Programming, Database Management, Project Management, Java & C++\nDescription: A practice-oriented program centered on object-oriented programming and database design, culminating in the development of a portfolio of functional software applications.\nHighlights & Coursework:\n- Achieved Distinction by building a portfolio of robust, well-documented applications using Java and C++.\n- Acquired practical skills in software architecture, agile project management methodologies, and relational database design and implementation.",
+    "keywords": [
+      "diploma in software development (fetac l6)",
+      "rathmines college",
+      "education",
+      "degree",
+      "university",
+      "college",
+      "academic background"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-education-3",
+    "type": "education",
+    "title": "Certificate in Pre-Nursing Studies (FETAC L5) - Progressive College (02/2017 - 10/2017)",
+    "content": "Degree: Certificate in Pre-Nursing Studies (FETAC L5)\nInstitution: Progressive College\nPeriod: 02/2017 - 10/2017\nLocation: Dublin, Ireland\nGrade / Result: Merit\nFocus Area: Foundational Life Sciences\nKey Subject Areas: Human Biology, Anatomy & Physiology, Patient Care Skills, Microbiology\nDescription: A foundational program providing essential knowledge in life sciences and patient care, developing a strong basis in anatomy, microbiology, and professional ethics.\nHighlights & Coursework:\n- Acquired foundational knowledge in human biology, anatomy, and patient care protocols, earning a Merit grade.\n- Developed strong analytical and observation skills crucial for systematic problem-solving in high-stakes environments.",
+    "keywords": [
+      "certificate in pre-nursing studies (fetac l5)",
+      "progressive college",
+      "education",
+      "degree",
+      "university",
+      "college",
+      "academic background"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-education-4",
+    "type": "education",
+    "title": "A-Level Cambridge Certificate, Science - Vacoas State Secondary School (01/2008 - 10/2014)",
+    "content": "Degree: A-Level Cambridge Certificate, Science\nInstitution: Vacoas State Secondary School\nPeriod: 01/2008 - 10/2014\nLocation: Vacoas, Mauritius\nGrade / Result: Pass\nFocus Area: Analytical & Scientific Reasoning\nKey Subject Areas: Physics, Chemistry, Biology, Advanced Mathematics\nDescription: Rigorous secondary education focused on the core sciences, which cultivated the analytical, quantitative, and problem-solving skills essential for a career in technology and security.\nHighlights & Coursework:\n- Established a strong analytical and problem-solving foundation through advanced, comprehensive studies in Physics, Chemistry, and Biology.",
+    "keywords": [
+      "a-level cambridge certificate, science",
+      "vacoas state secondary school",
+      "education",
+      "degree",
+      "university",
+      "college",
+      "academic background"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "en-recruiter-faq-0",
+    "type": "recruiter_faq",
+    "title": "Recruiter QA: What is Angesh's current availability or notice period?",
+    "content": "Question: What is Angesh's current availability or notice period?\nAnswer: Angesh is open to discussing new opportunities. He has a standard notice period (typically 2 to 4 weeks), which is negotiable based on the complexity and requirements of the role.",
+    "keywords": [
+      "recruiter",
+      "faq",
+      "hiring",
+      "availability",
+      "notice period",
+      "start date",
+      "hire",
+      "when can you start"
+    ],
+    "locale": "en",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-recruiter-faq-1",
+    "type": "recruiter_faq",
+    "title": "Recruiter QA: What is Angesh's preferred work arrangement (remote, hybrid, on-site)?",
+    "content": "Question: What is Angesh's preferred work arrangement (remote, hybrid, on-site)?\nAnswer: Angesh is comfortable with hybrid or fully remote work models, as they offer great collaboration and focus. He is also open to full-time on-site work depending on the location and the scope of the project.",
+    "keywords": [
+      "recruiter",
+      "faq",
+      "hiring",
+      "remote",
+      "hybrid",
+      "on-site",
+      "work from home",
+      "office",
+      "telecommute"
+    ],
+    "locale": "en",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-recruiter-faq-2",
+    "type": "recruiter_faq",
+    "title": "Recruiter QA: Is Angesh open to relocation?",
+    "content": "Question: Is Angesh open to relocation?\nAnswer: Yes, Angesh is open to relocation for the right professional opportunity, depending on the role's scope, compensation, and location details.",
+    "keywords": [
+      "recruiter",
+      "faq",
+      "hiring",
+      "relocate",
+      "relocation",
+      "move",
+      "other cities",
+      "travel",
+      "abroad"
+    ],
+    "locale": "en",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-recruiter-faq-3",
+    "type": "recruiter_faq",
+    "title": "Recruiter QA: What are Angesh's salary expectations?",
+    "content": "Question: What are Angesh's salary expectations?\nAnswer: Angesh's compensation expectations are flexible and open to discussion. He is looking for a package that aligns with the role's responsibilities, scope, cost of living, and his background in cybersecurity and network access control.",
+    "keywords": [
+      "recruiter",
+      "faq",
+      "hiring",
+      "salary",
+      "compensation",
+      "money",
+      "package",
+      "range",
+      "pay",
+      "rate"
+    ],
+    "locale": "en",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-recruiter-faq-4",
+    "type": "recruiter_faq",
+    "title": "Recruiter QA: What are Angesh's core areas of expertise?",
+    "content": "Question: What are Angesh's core areas of expertise?\nAnswer: Angesh specializes in Network Access Control (NAC), specifically deploying and managing Cisco ISE systems, 802.1X authentication, Active Directory integration, device profiling, posture compliance, and defensive network architecture. He also has strong experience in security automation using Python, PowerShell, and bash, and threat hunting in Wazuh SIEM.",
+    "keywords": [
+      "recruiter",
+      "faq",
+      "hiring",
+      "expertise",
+      "specialization",
+      "cisco ise",
+      "nac",
+      "802.1x",
+      "cybersecurity",
+      "what do you do best",
+      "skills"
+    ],
+    "locale": "en",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "en-future-plan-az500",
+    "type": "personal",
+    "title": "Planned Certification: Microsoft Certified: Azure Security Engineer (AZ-500) (Planned)",
+    "content": "Certification: Microsoft Certified: Azure Security Engineer (AZ-500)\nStatus: Planned\nKey Competencies: Identity & Access Management, Platform Protection, Security Operations, Data & Application Security",
+    "keywords": [
+      "microsoft certified: azure security engineer (az-500)",
+      "future plan",
+      "planned certification",
+      "learning roadmap"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 7,
+    "isPublic": true
+  },
+  {
+    "id": "en-future-plan-isc2cc",
+    "type": "personal",
+    "title": "Planned Certification: (ISC)² Certified in Cybersecurity (CC) (Planned)",
+    "content": "Certification: (ISC)² Certified in Cybersecurity (CC)\nStatus: Planned\nKey Competencies: Security Principles, BC, DR & Incident Response, Access Controls Concepts, Network Security",
+    "keywords": [
+      "(isc)² certified in cybersecurity (cc)",
+      "future plan",
+      "planned certification",
+      "learning roadmap"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 7,
+    "isPublic": true
+  },
+  {
+    "id": "en-future-plan-az204",
+    "type": "personal",
+    "title": "Planned Certification: Microsoft Certified: Azure Developer Associate (AZ-204) (Researching)",
+    "content": "Certification: Microsoft Certified: Azure Developer Associate (AZ-204)\nStatus: Researching\nKey Competencies: Secure Azure Compute Solutions, Azure Storage Security, API Management Security, App Authentication",
+    "keywords": [
+      "microsoft certified: azure developer associate (az-204)",
+      "future plan",
+      "planned certification",
+      "learning roadmap"
+    ],
+    "locale": "en",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 7,
+    "isPublic": true
+  },
+  {
+    "id": "fr-profile-hero",
+    "type": "profile",
+    "title": "Angesh Chanderdip - Profil Professionnel",
+    "content": "Nom: Angesh Chanderdip.\nTitre actuel: Ingénieur en Cybersécurité / Spécialiste du contrôle d'accès réseau (NAC) et de la sécurité des points d'accès.\nLocalisation: Québec, Canada (auparavant Dublin, Irlande).\nEmail: angesh021@gmail.com\nLinkedIn: https://www.linkedin.com/in/angesh-chanderdip/\nGitHub: https://github.com/angesh021\nTéléchargement du CV: /AngeshChanderdip_Resume.pdf\nSpécialisation: Contrôle d'accès réseau (NAC), Cisco ISE, 802.1X, Active Directory, SIEM Wazuh, détection de menaces, automatisation Python/PowerShell/Bash.\nRésumé: Ingénieur en cybersécurité diplômé d'un Master à l'University College Dublin, fort d'une expérience marquante chez General Motors et GTECHNA, certifié BTL1, CompTIA Security+ et CCNA.",
+    "keywords": [
+      "angesh",
+      "chanderdip",
+      "profile",
+      "bio",
+      "summary",
+      "contact",
+      "email",
+      "linkedin",
+      "github",
+      "cybersecurity",
+      "engineer"
+    ],
+    "technologies": [
+      "Cisco ISE",
+      "802.1X",
+      "Active Directory",
+      "Wazuh SIEM",
+      "Python",
+      "PowerShell"
+    ],
+    "locale": "fr",
+    "route": "/#hero",
+    "sectionId": "hero",
+    "priority": 10,
+    "isPublic": true
+  },
+  {
+    "id": "fr-experience-0",
+    "type": "experience",
+    "title": "Spécialiste du Support Applicatif at GTECHNA (04/2026 - Present)",
+    "content": "Role: Spécialiste du Support Applicatif\nCompany: GTECHNA\nPeriod: 04/2026 - Present\nLocation: Québec, Canada\nKey Technologies & Skills: SQL Server, PostgreSQL, VPN et Réseaux, Essais UAT, Conseil Technique\nImpact Metrics: Taux de Résolution des Anomalies UAT: 100%, Réduction du Temps de Déploiement: 40%, Mises en Production Réussies en Am. du Nord: 10\nResponsibilities & Achievements:\n- Mise en œuvre et configuration avec succès de solutions logicielles d'entreprise dans divers environnements clients, en utilisant SQL Server, PostgreSQL, des connexions VPN et des infrastructures de serveurs.\n- Réduction des risques de déploiement par la conduite de tests d'intégration stricts, de dépannages et d'essais utilisateur (UAT), garantissant un passage en production sécurisé.\n- Accompagnement de l'adoption utilisateur via la rédaction de documentation technique, de guides et d'animations de séances de transfert de compétences.\n- Conseil technique privilégié auprès d'équipes multidisciplinaires (développement, produit, assurance qualité et support) pour aligner les corrections sur les besoins des usagers.\n- Amélioration de la vélocité d'onboarding par la programmation système de règles métier, de procédures de configuration standardisées et la réduction de la complexité.\n- Contribution à l'évolution produit par l'analyse et la structuration des retours clients complexes à destination des chefs de produit.\n- Soutien proactif et traitement réactif d'anomalies complexes applicatives, de pannes de connectivité ou d'infrastructures de données.\n- Configuration et exploitation quotidienne de Jira, Confluence, bases SQL Server/PostgreSQL, réseaux Linux et systèmes virtualisés.\n- Partenariat actif durant toutes les phases de cadrage technologique, d'implémentation et de clôture projet pour traduire les objectifs métiers en paramètres techniques stables.\n- Mobilisation de compétences bilingues (Français/Anglais) de haut niveau pour assister fluidement la clientèle du Québec et de toute l'Amérique du Nord.\nNotable Experience (Le pont bilingue): Lors d’une migration d’envergure pour un grand organisme public de transport au Québec, un goulot d'étranglement PostgreSQL menaçait les validations de fin de journée. Grâce à mes compétences bilingues, j'ai animé en temps réel la collaboration technique entre des administrateurs réseau locaux exclusivement francophones et nos ingénieurs systèmes anglophones. Nous avons identifié un conflit d’index, déployé un correctif ciblé en trois heures et complété la bascule sans impact pour les milliers d'usagers quotidiens.\nLegacy Impact: Création et déploiement d'un guide technique d'intégration officiel unifié pour de l'onboarding de VPN et environnement virtuel.",
+    "keywords": [
+      "gtechna",
+      "spécialiste du support applicatif",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "sql server",
+      "postgresql",
+      "vpn et réseaux",
+      "essais uat",
+      "conseil technique"
+    ],
+    "technologies": [
+      "SQL Server",
+      "PostgreSQL",
+      "VPN et Réseaux",
+      "Essais UAT",
+      "Conseil Technique"
+    ],
+    "locale": "fr",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-experience-1",
+    "type": "experience",
+    "title": "Ingénieur en Sécurité des Terminaux et Contrôle d'Accès Réseau at General Motors (02/2022 - 07/2025)",
+    "content": "Role: Ingénieur en Sécurité des Terminaux et Contrôle d'Accès Réseau\nCompany: General Motors\nPeriod: 02/2022 - 07/2025\nLocation: Dublin, Irlande\nKey Technologies & Skills: Cisco ISE, 802.1X, ZeroTrust, EDR/DLP, Python, PowerShell, Incident Response, ServiceNow\nImpact Metrics: Serveurs de sécurité supervisés: 300, Réduction des tâches manuelles: 90%, Pannes matérielles interceptées: 140\nResponsibilities & Achievements:\n- Responsable de la modernisation de la sécurité globale d'un leader automobile mondial figurant au classement Fortune 500. Ma mission consistait à architecturer et à déployer les frameworks Cisco ISE et d'authentification 802.1X pour imposer un contrôle d'accès strict de type Zero Trust. J'ai programmé des pipelines d'automatisation robustes en Python et PowerShell pour réduire considérablement les initiatives manuelles, surveillé de près plus de 300 serveurs de sécurité critiques, et standardisé une architecture Wi-Fi sécurisée unifiée à travers les implantations internationales du groupe, soutenant activement la transition de maturité cyber de l'organisation.\n- Confronté à des cycles d'incidents d'expiration de certificats sur plus de 300 instances ISE; réduction du temps de maintenance annuel de 90 % via le développement de modules automatisés intégrant l'API DigiCert.\n- Standardisation des modèles d'application de sécurité 802.1X sur les segments de réseaux filaires de l'entreprise, réduisant l'intrusion de dispositifs non autorisés de l'ordre de 85 %.\n- Diminution drastique des arrêts de services d'identité par la pose d'une infrastructure d'alerte en temps réel sur l'intégrité matérielle des serveurs Cisco ISE.\n- Direction du déploiement de l'architecture Premium Guest (Prisma) Wi-Fi utilisant de la centralisation de profils sur six sites stratégiques mondiaux.\nNotable Experience (La Panne Mondiale): Lors d'une panne globale d'infrastructure, la synchronisation de Microsoft Active Directory avec les serveurs AAA Cisco ISE a échoué, paralysant de fait la chaîne d'assemblage automobile sur plusieurs usines. J'ai pris les rênes de la cellule d'urgence de niveau 3, identifié un bogue de réplication de clés de forêt AD et écrit en urgence un script PowerShell forçant la resynchronisation forcée. Les services de connectivité ont été restaurés en moins d'une heure, prévenant des millions de pertes financières d'arrêt de production.\nLegacy Impact: Auteur du script d'automatisation PowerShell de référence pour la synchronisation AD-ISE du groupe GM, élimant définitivement un point de défaillance unique critique dans l'infrastructure de production.",
+    "keywords": [
+      "general motors",
+      "ingénieur en sécurité des terminaux et contrôle d'accès réseau",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "cisco ise",
+      "802.1x",
+      "zerotrust",
+      "edr/dlp",
+      "python",
+      "powershell",
+      "incident response",
+      "servicenow"
+    ],
+    "technologies": [
+      "Cisco ISE",
+      "802.1X",
+      "ZeroTrust",
+      "EDR/DLP",
+      "Python",
+      "PowerShell",
+      "Incident Response",
+      "ServiceNow"
+    ],
+    "locale": "fr",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-experience-2",
+    "type": "experience",
+    "title": "Éducateur STEM | Sensibilisation Cybersécurité & IA at Junior Achievement Ireland (05/2024 - 05/2024)",
+    "content": "Role: Éducateur STEM | Sensibilisation Cybersécurité & IA\nCompany: Junior Achievement Ireland\nPeriod: 05/2024 - 05/2024\nLocation: Dublin, Irlande\nKey Technologies & Skills: Éducation STEM, Prise de parole, Mentorat de jeunes, E-learning\nImpact Metrics: Élèves sensibilisés: 30+, Modules de cours dispensés: 4 sess, Taux d'engagement: 100%\nResponsibilities & Achievements:\n- Intervention bénévole dans le cadre du programme JAI TecKno au sein de l'école primaire Loreto, enseignant les fondamentaux du numérique et de la sécurité des données à une classe de 30 enfants durant quatre sessions majeures :\n- 🛡️ Sensibilisation à la cybersécurité – Apprentissage ludique des réflexes contre le phishing, de la construction de mots de passe impénétrables, et de la préservation de son identité numérique.\n- 🤖 Robotique et IA – Explications claires et simples sur la manière dont les modèles prédictifs régissent nos objets quotidiens (aspirateurs autonomes, reconnaissance faciale).\n- 📊 Analyse de données – Introduction concrète au tri et à la structuration d'informations visuelles.\n- 💻 Pensée computationnelle – Initiation logique, algorithmique et opportunités professionnelles futures dans le monde du logiciel.\nNotable Experience (Briser le code): Pour expliquer le chiffrement aux enfants, j'ai organisé un grand déchiffrage basé sur un simple 'chiffre de César' écrit au tableau. Les petits d'abord réservés ont explosé de joie dès qu'un premier élève a réussi le calcul démasquant le message rigolo. Par la suite, ils ont rivalisé d'ingéniosité pour poser leurs propres énigmes chiffrées à la classe. Ce fut la plus belle démonstration qu'une approche ludique s'avère extrêmement précieuse pour rendre captivante la cybersécurité.\nLegacy Impact: Perfectionnement pratique de mes aptitudes oratoires de vulgarisation scientifique et de médiation auprès des plus jeunes, contribuant au partage citoyen des enjeux de défense numérique.",
+    "keywords": [
+      "junior achievement ireland",
+      "éducateur stem | sensibilisation cybersécurité & ia",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "éducation stem",
+      "prise de parole",
+      "mentorat de jeunes",
+      "e-learning"
+    ],
+    "technologies": [
+      "Éducation STEM",
+      "Prise de parole",
+      "Mentorat de jeunes",
+      "E-learning"
+    ],
+    "locale": "fr",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-experience-3",
+    "type": "experience",
+    "title": "Mentor Bénévole - Défi d'Innovation Durable at Junior Achievement Ireland (03/2024 - 03/2024)",
+    "content": "Role: Mentor Bénévole - Défi d'Innovation Durable\nCompany: Junior Achievement Ireland\nPeriod: 03/2024 - 03/2024\nLocation: Dublin, Irlande\nKey Technologies & Skills: Mentorat, Leadership d'équipe, Communication, Développement Durable\nImpact Metrics: Élèves mentorés: 100+, Campus scolaires: 3 écoles, Objectifs ODD ciblés: 5+\nResponsibilities & Achievements:\n- Mentor scolaire bénévole dans le cadre de la compétition d'idéation 'Sustainability Innovation Challenge' co-portée par JAI et le cabinet conseil Accenture.\n- Conseils de proximité pour accompagner la structuration de modèles d'affaires novateurs respectant la charte environnementale des objectifs de développement durable des Nations Unies (ODD).\n- Renforcement des capacités en matière d'idéation agile, d'association d'idées, de leadership coopératif et de vulgarisation de projets complexes.\n- Coaching technique sur la préparation de cartes heuristiques et de pitchs de défense vidéo.\nNotable Experience (Le déclic): Un groupe de collégiens timides n'arrivait pas à pitcher leur concept d'application de compostage urbain. Je les ai aidés à transformer leurs chiffres en une histoire touchante ciblant la réduction du gaspillage dans les cantines scolaires. En voyant les visages s'illuminer d'assurance en réalisant qu'ils possédaient une clé pour améliorer le quotidien de leurs voisins, j'ai redécouvert toute la gratification de transmettre la technologie.\nLegacy Impact: Soutien d'importance à une initiative écoresponsable, stimulant l'esprit d'entreprise durable de près de 100 jeunes engagés à proposer des modèles pour limiter notre impact carbone.",
+    "keywords": [
+      "junior achievement ireland",
+      "mentor bénévole - défi d'innovation durable",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "mentorat",
+      "leadership d'équipe",
+      "communication",
+      "développement durable"
+    ],
+    "technologies": [
+      "Mentorat",
+      "Leadership d'équipe",
+      "Communication",
+      "Développement Durable"
+    ],
+    "locale": "fr",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-experience-4",
+    "type": "experience",
+    "title": "Aide-infirmier at Beaumont Hospital (10/2018 - 02/2022)",
+    "content": "Role: Aide-infirmier\nCompany: Beaumont Hospital\nPeriod: 10/2018 - 02/2022\nLocation: Dublin, Irlande\nKey Technologies & Skills: Soins et confort, Constantes vitales, Fiches de soins, Collaboration, Empathie clinique, Environnement intense\nImpact Metrics: Patients soignés par jour (Moyenne): 20, Taux de satisfaction des résidents: 99%, Exactitude des relevés de constantes: 100%\nResponsibilities & Achievements:\n- Apporter des soins d'aide de première ligne fondamentaux, assurant la prise en charge clinique et psychologique continue des usagers au sein d'unités de cardiologie et d'urgence sous forte charge de travail, en relation continue avec les praticiens hospitaliers.\n- Soins d'aide personnalisés (habillage, physiologie, nutrition) maintenant l'autonomie physique des malades.\n- Collaboration technique d'assistance lors des pansements complexes ou des investigations médicales de routine.\nNotable Experience (Le signal humain): Je m'occupais d'un malade âgé non-verbal de comportement jugé agité et asocial. En observant patiemment ses mimiques, j'ai constaté qu'il se contractait uniquement lorsque les reflets du soleil frappaient directement ses yeux. Adapter délicatement ses volets a immédiatement dissipé sa colère et l'a rendu calme et coopératif. Cela m'a appris que les systèmes complexes — humains ou digitaux — exigent l'examen minutieux des plus discrets signaux. En cybersécurité, un infime enregistrement inhabituel en apparence caché s'avère souvent précurseur d'une faille.\nLegacy Impact: Développement de protocoles de soins axés sur les manifestations d'affection et les signes non-verbaux pour élever l'autonomie et le confort des convalescents isolés.",
+    "keywords": [
+      "beaumont hospital",
+      "aide-infirmier",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "soins et confort",
+      "constantes vitales",
+      "fiches de soins",
+      "collaboration",
+      "empathie clinique",
+      "environnement intense"
+    ],
+    "technologies": [
+      "Soins et confort",
+      "Constantes vitales",
+      "Fiches de soins",
+      "Collaboration",
+      "Empathie clinique",
+      "Environnement intense"
+    ],
+    "locale": "fr",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-experience-5",
+    "type": "experience",
+    "title": "Assistant de soins de santé at CareChoice Nursing Home (04/2018 - 09/2018)",
+    "content": "Role: Assistant de soins de santé\nCompany: CareChoice Nursing Home\nPeriod: 04/2018 - 09/2018\nLocation: Dublin, Irlande\nKey Technologies & Skills: Assistance clinique, Dignité patient, Sécurité, Hygiène clinique, Saisie de fiches, Mobilité physique\nImpact Metrics: Conformité à la lutte anti-infectieuse: 100%, Baisse du niveau d'anxiété patient: 25%, Amélioration de l'efficacité d'équipe: 15%\nResponsibilities & Achievements:\n- Soutien opérationnel de premier plan au sein d'une unité gériatrique médicalisée, veillant au bien-être physique des résidents, à la lutte contre les chutes et à l'administration des actes ordinaires d'hygiène.\n- Aide active aux examens cliniques et maintien d'un niveau d'asepsie irréprochable au sein des locaux.\n- Accompagnement de personnes dépendantes, favorisant le travail d'entretien de leur souplesse motrice.\nNotable Experience (L'écoute bienveillante): Un nouveau résident particulièrement inquiet refusait systématiquement toute mesure de constantes. Au lieu de me replier sur la contrainte temporelle, j'ai choisi de passer de nombreuses minutes à lui exposer de façon simple l'utilité du brassard de tension. Une fois son sentiment d'impuissance chassé par l'explication, il a de lui-même consenti au soin. La réassurance psychologique s'avère tout aussi indissociable d'un bon accompagnement que n'importe quelle démarche clinique.\nLegacy Impact: Reconnu pour une rigueur d'observation constante et une excellente communication interpersonnelle, servant de passerelle fiable entre les résidents et l'équipe d'encadrement médical.",
+    "keywords": [
+      "carechoice nursing home",
+      "assistant de soins de santé",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "assistance clinique",
+      "dignité patient",
+      "sécurité",
+      "hygiène clinique",
+      "saisie de fiches",
+      "mobilité physique"
+    ],
+    "technologies": [
+      "Assistance clinique",
+      "Dignité patient",
+      "Sécurité",
+      "Hygiène clinique",
+      "Saisie de fiches",
+      "Mobilité physique"
+    ],
+    "locale": "fr",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-experience-6",
+    "type": "experience",
+    "title": "Assistant de soins de santé at FirstCare Ireland (03/2017 - 04/2018)",
+    "content": "Role: Assistant de soins de santé\nCompany: FirstCare Ireland\nPeriod: 03/2017 - 04/2018\nLocation: Dublin, Irlande\nKey Technologies & Skills: Actes ordinaires (ADLs), Soutien affectif, Socialisation, Nutrition, Sécurisation\nImpact Metrics: Hausse de la participation aux activités: 40%, Note de satisfaction globale: 98%\nResponsibilities & Achievements:\n- Prise en charge humaine globale de personnes âgées, assurant les mobilisations fonctionnelles ordinaires combinées à une forte implication dans les activités d'animation et de convivialité.\n- Respect scrupuleux du rythme de vie individuel, de l'indépendance de déplacement et des routines de vie propres de chaque résident.\n- Coordination continue avec l'équipe de soins et les familles d'usagers pour assurer la bientraitance de l'écosystème de vie.\nNotable Experience (La mélodie retrouvée): J'ai appris de la famille qu'une nouvelle résidente jouait du piano autrefois mais s'en croyait incapable des suites de douleurs articulaires prononcées. Je lui ai procuré un petit orgue transportable et l'ai invitée à simplement taper de petits rythmes. Incroyablement, ses mains se sont mises à glisser spontanément sur des chants traditionnels irlandais, attirant la curiosité émerveillée d'autres pensionnaires. Cette expérience exprime que notre vocation est d'entretenir les plaisirs intimes de l'esprit au-delà de la seule assistance physique.\nLegacy Impact: Conception d'initiatives axées sur la créativité et le bien-être émotionnel, augmentant de manière notable le niveau de participation sociale des résidents isolés.",
+    "keywords": [
+      "firstcare ireland",
+      "assistant de soins de santé",
+      "experience",
+      "work history",
+      "career",
+      "job",
+      "actes ordinaires (adls)",
+      "soutien affectif",
+      "socialisation",
+      "nutrition",
+      "sécurisation"
+    ],
+    "technologies": [
+      "Actes ordinaires (ADLs)",
+      "Soutien affectif",
+      "Socialisation",
+      "Nutrition",
+      "Sécurisation"
+    ],
+    "locale": "fr",
+    "route": "/#experience",
+    "sectionId": "experience",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-project-home-soc-lab",
+    "type": "project",
+    "title": "Home SOC Lab – Ingénierie de Détection Avancée",
+    "content": "Project Name: Home SOC Lab – Ingénierie de Détection Avancée\nStatus: Completed\nSummary: Un environnement SOC complet et isolé sur VMware pour démontrer l'analyse des journaux, la recherche de menaces et l'ingénierie de détection.\nDetailed Overview: Ce projet est un environnement complet et isolé de Centre d'Opérations de Sécurité (SOC) bâti sur VMware. Il met en évidence les capacités directes de la « Blue Team » (Équipe Bleue) en simulant des comportements d'attaquants et en les détectant grâce à une stack d'outils puissants comprenant Wazuh SIEM, Sysmon EDR, Zeek NSM et Suricata IDS/IPS. Il propose des scénarios d'attaques réels cartographiés selon les méthodologies MITRE ATT&CK, des règles de corrélation personnalisées et des flux complets de recherche de menaces à l'aide de la télémétrie asynchrone réseaux et des points finaux.\nTechnologies / Stack: Wazuh SIEM, Zeek NSM, Suricata IDS/IPS, Sysmon EDR, Équipe Bleue, Recherche de Menaces, Ingénierie de Détection\nKey Features:\n- Détection et réponse des points finaux (EDR) avec Sysmon\n- Gestion des informations et des événements de sécurité (SIEM) avec Wazuh\n- Détection d'intrusion réseau (IDS/IPS) avec Suricata\n- Surveillance comportementale du réseau intégrée à Zeek\n- Règles de corrélation personnalisées et cartographie MITRE ATT&CK\n- Chaînes d'attaque documentées et flux de recherche de menaces\nGitHub Repository: https://github.com/angesh021/home-soc-lab\nLive Demo: https://wazuh-siem.angesh.sec",
+    "keywords": [
+      "home soc lab – ingénierie de détection avancée",
+      "home-soc-lab",
+      "project",
+      "lab",
+      "architecture",
+      "wazuh siem",
+      "zeek nsm",
+      "suricata ids/ips",
+      "sysmon edr",
+      "équipe bleue",
+      "recherche de menaces",
+      "ingénierie de détection"
+    ],
+    "technologies": [
+      "Wazuh SIEM",
+      "Zeek NSM",
+      "Suricata IDS/IPS",
+      "Sysmon EDR",
+      "Équipe Bleue",
+      "Recherche de Menaces",
+      "Ingénierie de Détection"
+    ],
+    "locale": "fr",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "home-soc-lab"
+  },
+  {
+    "id": "fr-project-aura-ttt",
+    "type": "project",
+    "title": "Aura Tic-Tac-Toe – Application Web Multijoueur Complète",
+    "content": "Project Name: Aura Tic-Tac-Toe – Application Web Multijoueur Complète\nStatus: Completed\nSummary: Une application web Tic-Tac-Toe moderne et riche en fonctionnalités, dotée d'une interface en glassmorphisme, d'animations fluides et de plusieurs modes de jeu.\nDetailed Overview: Aura Tic-Tac-Toe est une application web multijoueur complète et hautement perfectionnée, conçue avec une superbe interface en glassmorphisme, des animations fluides et une suite complète de modes de jeu. Le projet présente une architecture sécurisée et faisant autorité côté serveur, comprenant un frontend React et un backend Node.js/Socket.IO. Il prend en charge des mécanismes de jeu complexes tels que le Pass & Play local, le Solo contre l'IA (avec différents niveaux de difficulté), le PvP en temps réel avec un système de salon (Lobby) personnalisé, des systèmes de progression incluant une boutique de cosmétiques, des classements ELO, ainsi qu'une authentification JWT robuste et des fonctionnalités de sécurité renforcées.\nTechnologies / Stack: React, Node.js, Express, Socket.IO, PostgreSQL, Framer Motion, TypeScript\nKey Features:\n- Interface fluide en glassmorphisme avec des animations réactives\n- Plusieurs modes de jeu : Solo contre l'IA, Pass & Play local, PvP en temps réel et Mode Campagne\n- Bonus stratégiques en jeu : Annuler, Détruire, Fortifier et Double Frappe\n- Progression & Économie : Gagnez des Aura Coins, accomplissez des quêtes quotidiennes et débloquez des cosmétiques dans la boutique\n- Hub Social : Liste d'amis avec statut en ligne, messagerie directe et classements ELO mondiaux\n- Gameplay faisant autorité sur le serveur pour empêcher la triche côté client\nGitHub Repository: https://github.com/angesh021/aura-tic-tac-toe\nLive Demo: https://aura-tic-tac-toe-frontend.onrender.com/",
+    "keywords": [
+      "aura tic-tac-toe – application web multijoueur complète",
+      "aura-tic-tac-toe",
+      "project",
+      "lab",
+      "architecture",
+      "react",
+      "node.js",
+      "express",
+      "socket.io",
+      "postgresql",
+      "framer motion",
+      "typescript"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "Socket.IO",
+      "PostgreSQL",
+      "Framer Motion",
+      "TypeScript"
+    ],
+    "locale": "fr",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "aura-tic-tac-toe"
+  },
+  {
+    "id": "fr-project-admin-dashboard",
+    "type": "project",
+    "title": "Plateforme Tableau de Bord Administrateur",
+    "content": "Project Name: Plateforme Tableau de Bord Administrateur\nStatus: In Progress\nSummary: Un tableau de bord administrateur complet axé sur l'analyse de programmation, la sécurité, l'analyse des journaux et la visualisation de données.\nDetailed Overview: Développement d'un tableau de bord d'administration avancé conçu pour une surveillance complète du système, combinant des outils de programmation, une vue d'ensemble de la sécurité et des capacités d'analyse approfondie des journaux (log analysis). La plateforme offre une riche visualisation de données pour le suivi du trafic en temps réel, la détection des menaces et les métriques liées aux journaux. Elle intègre un contrôle d'accès sécurisé basé sur les rôles, des systèmes d'alerte en temps réel et une agrégation fluide des journaux pour fournir rapidement aux administrateurs des informations exploitables.\nTechnologies / Stack: Programmation, Sécurité, Analyse de logs, Visualisation de données, React, Tableaux de bord\nKey Features:\n- Surveillance de la sécurité et alertes en temps réel\n- Analyse et traitement avancés des fichiers journaux\n- Visualisation de données interactive (Graphiques/Diagrammes)\n- Contrôle d'accès basé sur les rôles (RBAC)\n- Indicateurs de santé et de performance du système\nGitHub Repository: https://github.com/angesh021/admin-dashboard\nLive Demo: N/A",
+    "keywords": [
+      "plateforme tableau de bord administrateur",
+      "admin-dashboard",
+      "project",
+      "lab",
+      "architecture",
+      "programmation",
+      "sécurité",
+      "analyse de logs",
+      "visualisation de données",
+      "react",
+      "tableaux de bord"
+    ],
+    "technologies": [
+      "Programmation",
+      "Sécurité",
+      "Analyse de logs",
+      "Visualisation de données",
+      "React",
+      "Tableaux de bord"
+    ],
+    "locale": "fr",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "admin-dashboard"
+  },
+  {
+    "id": "fr-project-enterprise-nac",
+    "type": "project",
+    "title": "Laboratoire NAC d'Entreprise (Cisco ISE + AD)",
+    "content": "Project Name: Laboratoire NAC d'Entreprise (Cisco ISE + AD)\nStatus: Completed\nSummary: Un laboratoire de bout en bout simulant le contrôle d'accès réseau d'entreprise avec Cisco ISE, Active Directory et 802.1X.\nDetailed Overview: Conception et déploiement d’un environnement complet de contrôle d’accès réseau (NAC) d'entreprise sur la plateforme virtuelle EVE-NG exécutée sous VMware Workstation. L'architecture intègre Cisco Identity Services Engine (ISE) avec Microsoft Active Directory pour simuler une authentification réseau hautement sécurisée. Le projet réplique fidèlement un écosystème d'authentification d'entreprise, permettant aux équipements filaires et sans fil de s'authentifier à l'aide de protocoles tels que 802.1X, RADIUS et de stratégies utilisateur Active Directory. Cet environnement a été conçu pour tester les flux de travail d'inscription des terminaux, le profilage des machines et l'application des contrôles d'accès basés sur les rôles.\nTechnologies / Stack: Cisco ISE, Active Directory, 802.1X, EVE-NG, VMware, RADIUS, PKI, Sécurité Réseau, Zero Trust\nKey Features:\n- Authentification 802.1X pour les machines jointes au domaine (PEAP/EAP-TLS)\n- Contournement d'authentification MAC (MAB) pour les objets connectés et IoT non gérés\n- Intégration d'Active Directory pour centraliser la gestion des identités et des stratégies\n- Jeux de règles de politique Cisco ISE pour l'autorisation basée sur les groupes AD\n- Attribution dynamique de VLAN et application d'ACL basées sur les rôles utilisateur\n- Suivi des journaux d'activité en direct RADIUS pour l'audit et le dépannage\nGitHub Repository: https://github.com/angesh021/enterprise-nac-lab\nLive Demo: N/A",
+    "keywords": [
+      "laboratoire nac d'entreprise (cisco ise + ad)",
+      "enterprise-nac-lab",
+      "project",
+      "lab",
+      "architecture",
+      "cisco ise",
+      "active directory",
+      "802.1x",
+      "eve-ng",
+      "vmware",
+      "radius",
+      "pki",
+      "sécurité réseau",
+      "zero trust"
+    ],
+    "technologies": [
+      "Cisco ISE",
+      "Active Directory",
+      "802.1X",
+      "EVE-NG",
+      "VMware",
+      "RADIUS",
+      "PKI",
+      "Sécurité Réseau",
+      "Zero Trust"
+    ],
+    "locale": "fr",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "enterprise-nac-lab"
+  },
+  {
+    "id": "fr-project-hse-vax",
+    "type": "project",
+    "title": "Sécurisation & Durcissement - Application HSE Vaccination",
+    "content": "Project Name: Sécurisation & Durcissement - Application HSE Vaccination\nStatus: Completed\nSummary: Examen complet de la sécurité (SAST/DAST) et correction d'une application nationale de santé selon le Top 10 OWASP.\nDetailed Overview: Direction d'une refonte complète de la sécurité d'un système critique de gestion des vaccinations nationales d'Irlande (HSE). Le projet comprenait des tests de sécurité applicative statiques (SAST) et dynamiques (DAST). Les réalisations clés incluent la correction de plus de 12 failles critiques telles que l'injection SQL et la falsification de requêtes intersites (CSRF), la configuration d'une authentification multifacteur (MFA) robuste, l'application d'un hachage de mot de passe renforcé avec BCrypt, et la migration complète vers HTTPS. Ces initiatives ont réduit le risque d'exploitation de plus de 90 %.\nTechnologies / Stack: OWASP Top 10, SAST, DAST, BCrypt, Audit de Sécurité, Tests d'Intrusion, MFA\nKey Features:\n- Authentification sécurisée des utilisateurs avec double facteur (MFA)\n- Contrôle d'accès basé sur les rôles de sécurité (RBAC)\n- Validation stricte des options d'entrée et encodage des sorties contre les failles XSS\n- Données en transit entièrement chiffrées (HTTPS)\n- Hachage hautement sécurisé des mots de passe à l'aide de l'algorithme BCrypt\nGitHub Repository: https://github.com/angesh021/HSE-VAX-APP\nLive Demo: N/A",
+    "keywords": [
+      "sécurisation & durcissement - application hse vaccination",
+      "hse-vaccination-security",
+      "project",
+      "lab",
+      "architecture",
+      "owasp top 10",
+      "sast",
+      "dast",
+      "bcrypt",
+      "audit de sécurité",
+      "tests d'intrusion",
+      "mfa"
+    ],
+    "technologies": [
+      "OWASP Top 10",
+      "SAST",
+      "DAST",
+      "BCrypt",
+      "Audit de Sécurité",
+      "Tests d'Intrusion",
+      "MFA"
+    ],
+    "locale": "fr",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "hse-vaccination-security"
+  },
+  {
+    "id": "fr-project-network-lab",
+    "type": "project",
+    "title": "Conception de Réseau d'Entreprise Lab",
+    "content": "Project Name: Conception de Réseau d'Entreprise Lab\nStatus: Completed\nSummary: Une topologie réseau d'entreprise sécurisée et évolutive intégrant routage d'infrastructure, VLAN et politiques de pare-feu.\nDetailed Overview: Conception et déploiement d’une topologie réseau d’entreprise multicouche complexe au sein de Cisco Packet Tracer. Le laboratoire simule une infrastructure d'entreprise réelle avec des protocoles de routage dynamique tels qu'OSPF, une segmentation robuste en VLAN pour isoler le trafic, et des listes de contrôle d'accès granulaires (ACL) pour sécuriser les flux de données. L'architecture intègre également l'adressage IPv6, un contrôleur sans fil centralisé pour gérer les points d'accès et des politiques de pare-feu dynamique pour contrôler l'entrée et la sortie du trafic.\nTechnologies / Stack: Cisco, Architecture Réseau, VLAN, OSPF, ACLs, Stratégies Pare-feu, IPv6\nKey Features:\n- Protocole de routage dynamique OSPF multi-zones\n- Segmentation VLAN et routage inter-VLAN\n- Pare-feu dynamique avec règles de filtrage (ACL) strictes\n- Contrôleur de réseau local sans fil centralisé (WLC)\n- Mise en œuvre du double empilement IPv4 et IPv6\nGitHub Repository: https://github.com/angesh021/ccna-enterprise-lab\nLive Demo: N/A",
+    "keywords": [
+      "conception de réseau d'entreprise lab",
+      "enterprise-network-lab",
+      "project",
+      "lab",
+      "architecture",
+      "cisco",
+      "architecture réseau",
+      "vlan",
+      "ospf",
+      "acls",
+      "stratégies pare-feu",
+      "ipv6"
+    ],
+    "technologies": [
+      "Cisco",
+      "Architecture Réseau",
+      "VLAN",
+      "OSPF",
+      "ACLs",
+      "Stratégies Pare-feu",
+      "IPv6"
+    ],
+    "locale": "fr",
+    "route": "/#projects",
+    "sectionId": "projects",
+    "priority": 9,
+    "isPublic": true,
+    "projectSlug": "enterprise-network-lab"
+  },
+  {
+    "id": "fr-skill-cat-d-fense---r-ponse",
+    "type": "skill",
+    "title": "Technical Skills - Défense & Réponse",
+    "content": "Category: Défense & Réponse\nSkills & Competencies:\n• Cisco ISE: Architecture de contrôle d'accès réseau Zero Trust et déploiement 802.1X à l'échelle de l'entreprise.\n• EDR/DLP: Mise en œuvre et administration d'outils avancés de détection des terminaux et de prévention des pertes de données.\n• Incident Response: Analyse experte de niveau 3 et remédiation des menaces sur les postes et contrôles d'accès réseau.\n• Vulnerability Assessment: Identification et priorisation des faiblesses systèmes à l'aide de frameworks et d'outils de référence.",
+    "keywords": [
+      "défense & réponse",
+      "skills",
+      "competencies",
+      "expertise",
+      "tools",
+      "cisco ise",
+      "edr/dlp",
+      "incident response",
+      "vulnerability assessment"
+    ],
+    "technologies": [
+      "Cisco ISE",
+      "EDR/DLP",
+      "Incident Response",
+      "Vulnerability Assessment"
+    ],
+    "locale": "fr",
+    "route": "/#about",
+    "sectionId": "about",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-skill-cat-automatisation---scripting",
+    "type": "skill",
+    "title": "Technical Skills - Automatisation & Scripting",
+    "content": "Category: Automatisation & Scripting\nSkills & Competencies:\n• PowerShell: Automatisation de l'administration Windows Server, sécurisation d'Active Directory et gestion des certificats.\n• Python: Développement de scripts sur mesure pour la surveillance cyber, le traitement de logs et la simplification de tâches.\n• Bash: Écriture de scripts shell sous Linux pour l'administration système et l'orchestration de sécurité.",
+    "keywords": [
+      "automatisation & scripting",
+      "skills",
+      "competencies",
+      "expertise",
+      "tools",
+      "powershell",
+      "python",
+      "bash"
+    ],
+    "technologies": [
+      "PowerShell",
+      "Python",
+      "Bash"
+    ],
+    "locale": "fr",
+    "route": "/#about",
+    "sectionId": "about",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-skill-cat-op-rations-de-s-curit-",
+    "type": "skill",
+    "title": "Technical Skills - Opérations de Sécurité",
+    "content": "Category: Opérations de Sécurité\nSkills & Competencies:\n• SIEM/Splunk: Exploitation de plateformes SIEM d'entreprise pour la recherche de menaces, la corrélation d'alertes et la centralisation des logs.\n• Wireshark: Analyse approfondie des trames réseau et des flux de paquets pour diagnostiquer et intercepter des vagues de trafic suspect.\n• Metasploit: Validation de la robustesse des systèmes et réalisation de simulations de piratage éthique pour tester les défenses.\n• Burp Suite: Tests de pénétration d'applications Web visant à déceler, analyser et colmater les vulnérables majeures du Top 10 OWASP.",
+    "keywords": [
+      "opérations de sécurité",
+      "skills",
+      "competencies",
+      "expertise",
+      "tools",
+      "siem/splunk",
+      "wireshark",
+      "metasploit",
+      "burp suite"
+    ],
+    "technologies": [
+      "SIEM/Splunk",
+      "Wireshark",
+      "Metasploit",
+      "Burp Suite"
+    ],
+    "locale": "fr",
+    "route": "/#about",
+    "sectionId": "about",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-skill-cat-infrastructure---cloud",
+    "type": "skill",
+    "title": "Technical Skills - Infrastructure & Cloud",
+    "content": "Category: Infrastructure & Cloud\nSkills & Competencies:\n• Cloud Security: Mise en place de règles de sécurité réseau et d'accès conformes aux meilleures pratiques AWS et Microsoft Azure.\n• Active Directory: Administration, durcissement et sécurisation des identités utilisateurs, stratégies de groupe (GPO) et infrastructures AD.\n• Linux/Windows: Configuration, administration avancée et durcissement global des systèmes d'exploitation Linux et Windows Server.\n• Network Security: Conception, segmentations réseaux hautement isolés avec firewalls, DMZ, VLAN avancés et politiques de filtrage strictes.",
+    "keywords": [
+      "infrastructure & cloud",
+      "skills",
+      "competencies",
+      "expertise",
+      "tools",
+      "cloud security",
+      "active directory",
+      "linux/windows",
+      "network security"
+    ],
+    "technologies": [
+      "Cloud Security",
+      "Active Directory",
+      "Linux/Windows",
+      "Network Security"
+    ],
+    "locale": "fr",
+    "route": "/#about",
+    "sectionId": "about",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-btl1",
+    "type": "certification",
+    "title": "Certified Blue Team Level 1 (BTL1) - Issued by Security Blue Team",
+    "content": "Certification Name: Certified Blue Team Level 1 (BTL1)\nIssuer: Security Blue Team\nDate: Issued Jun 2025\nVerification / Badge URL: https://www.credly.com/badges/5cab8576-afbd-4f81-a19e-c0a750d069f7\nSkills Gained: Phishing Analysis, Digital Forensics, SIEM Operations, Incident Response, Threat Intelligence, Network Analysis\nKey Benefits:\n- Validates hands-on, practical defensive security skills.\n- Proves readiness for SOC Analyst and Incident Responder roles.\n- Covers a comprehensive range of blue team operations.",
+    "keywords": [
+      "certified blue team level 1",
+      "btl1",
+      "security blue team",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Phishing Analysis",
+      "Digital Forensics",
+      "SIEM Operations",
+      "Incident Response",
+      "Threat Intelligence",
+      "Network Analysis"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-sixsigma-white",
+    "type": "certification",
+    "title": "Six Sigma White Belt (SSWB) - Issued by Council for Six Sigma Certification",
+    "content": "Certification Name: Six Sigma White Belt (SSWB)\nIssuer: Council for Six Sigma Certification\nDate: Issued Jan 2025\nVerification / Badge URL: #\nSkills Gained: Basic Six Sigma Vocabulary, Process Improvement Awareness, Quality Concepts, Role Definition\nKey Benefits:\n- Provides a foundational understanding of the Six Sigma methodology.\n- Enables effective communication within a Six Sigma team.\n- Demonstrates a commitment to quality and efficiency.",
+    "keywords": [
+      "six sigma white belt",
+      "sswb",
+      "council for six sigma certification",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Basic Six Sigma Vocabulary",
+      "Process Improvement Awareness",
+      "Quality Concepts",
+      "Role Definition"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-sixsigma-yellow",
+    "type": "certification",
+    "title": "Six Sigma Yellow Belt (SSYB) - Issued by Council for Six Sigma Certification",
+    "content": "Certification Name: Six Sigma Yellow Belt (SSYB)\nIssuer: Council for Six Sigma Certification\nDate: Issued Feb 2025\nVerification / Badge URL: #\nSkills Gained: Six Sigma Concepts, Process Mapping Basics, Data Collection Techniques, Team Participation, Problem Definition\nKey Benefits:\n- Functions as a knowledgeable team member on Six Sigma projects.\n- Understands the core principles of process improvement.\n- Helps identify areas for improvement in daily tasks.",
+    "keywords": [
+      "six sigma yellow belt",
+      "ssyb",
+      "council for six sigma certification",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Six Sigma Concepts",
+      "Process Mapping Basics",
+      "Data Collection Techniques",
+      "Team Participation",
+      "Problem Definition"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-sixsigma-green",
+    "type": "certification",
+    "title": "Six Sigma Green Belt (SSGB) - Issued by Council for Six Sigma Certification",
+    "content": "Certification Name: Six Sigma Green Belt (SSGB)\nIssuer: Council for Six Sigma Certification\nDate: Issued Apr 2025\nVerification / Badge URL: #\nSkills Gained: DMAIC Framework, Data Collection, Process Analysis, Statistical Tools, Project Management, Hypothesis Testing\nKey Benefits:\n- Leads small to medium-sized process improvement projects.\n- Provides data analysis support to Black Belts.\n- Improves problem-solving skills within a team context.",
+    "keywords": [
+      "six sigma green belt",
+      "ssgb",
+      "council for six sigma certification",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "DMAIC Framework",
+      "Data Collection",
+      "Process Analysis",
+      "Statistical Tools",
+      "Project Management",
+      "Hypothesis Testing"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-sixsigma-black",
+    "type": "certification",
+    "title": "Six Sigma Black Belt (SSBB) - Issued by Council for Six Sigma Certification",
+    "content": "Certification Name: Six Sigma Black Belt (SSBB)\nIssuer: Council for Six Sigma Certification\nDate: Issued Jun 2025\nVerification / Badge URL: https://www.sixsigmacouncil.org/\nSkills Gained: Process Mapping, Statistical Analysis, Project Management, Root Cause Analysis, Quality Assurance, Change Management\nKey Benefits:\n- Enables data-driven decision-making to optimize processes.\n- Demonstrates leadership in improving business outcomes.\n- Reduces operational costs and increases efficiency.",
+    "keywords": [
+      "six sigma black belt",
+      "ssbb",
+      "council for six sigma certification",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Process Mapping",
+      "Statistical Analysis",
+      "Project Management",
+      "Root Cause Analysis",
+      "Quality Assurance",
+      "Change Management"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-cct",
+    "type": "certification",
+    "title": "CCT Routing and Switching (CCT) - Issued by Cisco",
+    "content": "Certification Name: CCT Routing and Switching (CCT)\nIssuer: Cisco\nDate: Issued Jan 2023\nVerification / Badge URL: https://www.credly.com/badges/67f93061-ef60-452d-bce9-f463af3a73a1\nSkills Gained: Device Identification, Cisco IOS, Hardware Diagnostics, Cabling and Interfaces, Service Restoration, Network Fundamentals\nKey Benefits:\n- Qualifies for on-site support of Cisco networking devices.\n- Ensures competence in first-line hardware support.\n- Provides a strong foundation for advanced Cisco certifications.",
+    "keywords": [
+      "cct routing and switching",
+      "cct",
+      "cisco",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Device Identification",
+      "Cisco IOS",
+      "Hardware Diagnostics",
+      "Cabling and Interfaces",
+      "Service Restoration",
+      "Network Fundamentals"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-az900",
+    "type": "certification",
+    "title": "Microsoft Certified: AZ-900 (AZ900) - Issued by Microsoft",
+    "content": "Certification Name: Microsoft Certified: AZ-900 (AZ900)\nIssuer: Microsoft\nDate: Issued Jul 2022\nVerification / Badge URL: https://www.credly.com/badges/ec8ad48f-061c-4b26-a07b-3e12cd6d482a\nSkills Gained: Cloud Concepts, Core Azure Services, Azure Security, Azure Pricing & SLAs, Identity & Governance, Compliance\nKey Benefits:\n- Demonstrates fundamental knowledge of cloud services.\n- Validates understanding of the Microsoft Azure platform.\n- Serves as a prerequisite for specialized Azure role-based certs.",
+    "keywords": [
+      "microsoft certified: az-900",
+      "az900",
+      "microsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Cloud Concepts",
+      "Core Azure Services",
+      "Azure Security",
+      "Azure Pricing & SLAs",
+      "Identity & Governance",
+      "Compliance"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-isc2-candidate",
+    "type": "certification",
+    "title": "(ISC)² Candidate (ISC²) - Issued by (ISC)²",
+    "content": "Certification Name: (ISC)² Candidate (ISC²)\nIssuer: (ISC)²\nDate: Issued Oct 2023\nVerification / Badge URL: https://www.credly.com/badges/4a8f0bb7-5f3c-4a43-9313-01b92bba573a\nSkills Gained: Ethical Conduct, Professional Development, Cybersecurity Principles, Career Planning\nKey Benefits:\n- Shows commitment to a career in cybersecurity.\n- Provides access to (ISC)² resources and networking.\n- Officially marks the journey towards CISSP or other certs.",
+    "keywords": [
+      "(isc)² candidate",
+      "isc²",
+      "(isc)²",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Ethical Conduct",
+      "Professional Development",
+      "Cybersecurity Principles",
+      "Career Planning"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-az-admin-aad",
+    "type": "certification",
+    "title": "Microsoft Azure Administrator: Azure AD (Az-AAD) - Issued by Skillsoft",
+    "content": "Certification Name: Microsoft Azure Administrator: Azure AD (Az-AAD)\nIssuer: Skillsoft\nDate: Issued Dec 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/fd2aa2da-2087-40e5-91ce-b8767a8a7d46#acc.1kWhp3Al\nSkills Gained: Azure AD, Identity Management, Enterprise State Roaming, Identity Protection, SSPR, Role-Based Access Control (RBAC)\nKey Benefits:\n- Validates core skills for managing Azure identities.\n- Crucial for securing cloud resources in Azure.\n- Demonstrates expertise in modern authentication methods.",
+    "keywords": [
+      "microsoft azure administrator: azure ad",
+      "az-aad",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Azure AD",
+      "Identity Management",
+      "Enterprise State Roaming",
+      "Identity Protection",
+      "SSPR",
+      "Role-Based Access Control (RBAC)"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-sec-risk-mgmt",
+    "type": "certification",
+    "title": "Session & Risk Management (Sec&Risk) - Issued by Skillsoft",
+    "content": "Certification Name: Session & Risk Management (Sec&Risk)\nIssuer: Skillsoft\nDate: Issued Jan 2023\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/3d5bba3a-03be-4a16-b765-8db112eb1283#acc.czIJHypk\nSkills Gained: Risk Management, Session Management, Data Confidentiality, Encryption, User Security, Security Controls\nKey Benefits:\n- Demonstrates ability to identify, assess, and prioritize risks.\n- Proves competence in implementing security controls to mitigate risk.\n- Validates knowledge of hardening browsers and servers with TLS.",
+    "keywords": [
+      "session & risk management",
+      "sec&risk",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Risk Management",
+      "Session Management",
+      "Data Confidentiality",
+      "Encryption",
+      "User Security",
+      "Security Controls"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-secplus-threats",
+    "type": "certification",
+    "title": "CompTIA Security+: Threat Actors, Intelligence Sources, & Vulnerabilities (Sec+TI) - Issued by Skillsoft",
+    "content": "Certification Name: CompTIA Security+: Threat Actors, Intelligence Sources, & Vulnerabilities (Sec+TI)\nIssuer: Skillsoft\nDate: Issued Aug 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/5e21ac63-b4ad-47ad-a004-9035d442f4d2#acc.q0IKuYZQ\nSkills Gained: Threat Intelligence, Threat Actor Profiling, Vulnerability Scanning, MITRE ATT&CK, Indicator of Compromise (IoC), Cyber Kill Chain\nKey Benefits:\n- Demonstrates specialized knowledge in threat analysis.\n- Validates ability to identify and analyze adversaries.\n- Core skill for threat hunting and SOC roles.",
+    "keywords": [
+      "comptia security+: threat actors, intelligence sources, & vulnerabilities",
+      "sec+ti",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Threat Intelligence",
+      "Threat Actor Profiling",
+      "Vulnerability Scanning",
+      "MITRE ATT&CK",
+      "Indicator of Compromise (IoC)",
+      "Cyber Kill Chain"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-win10-ad",
+    "type": "certification",
+    "title": "Windows 10: Active Directory Management (Win10AD) - Issued by Skillsoft",
+    "content": "Certification Name: Windows 10: Active Directory Management (Win10AD)\nIssuer: Skillsoft\nDate: Issued May 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/70aaab52-d606-4ec3-96dd-bf357d594e4f#acc.mncpXQBM\nSkills Gained: Active Directory, Group Policy (GPO), User & Group Mgmt, LDAP Queries, Client Configuration, Troubleshooting\nKey Benefits:\n- Proves competence in managing enterprise Windows clients.\n- Essential skill for endpoint and identity management roles.\n- Validates understanding of core Microsoft infrastructure.",
+    "keywords": [
+      "windows 10: active directory management",
+      "win10ad",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Active Directory",
+      "Group Policy (GPO)",
+      "User & Group Mgmt",
+      "LDAP Queries",
+      "Client Configuration",
+      "Troubleshooting"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-ws2016-gpo",
+    "type": "certification",
+    "title": "Windows Server 2016: AD Group Policy (WS2016-GPO) - Issued by Skillsoft",
+    "content": "Certification Name: Windows Server 2016: AD Group Policy (WS2016-GPO)\nIssuer: Skillsoft\nDate: Issued Jun 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/b09f7ed2-7758-43bd-8a54-314fb83d3a71#acc.rO5b6gDM\nSkills Gained: Active Directory, Group Policy (GPO), Centralized Management, Windows Server 2016, Security Configuration\nKey Benefits:\n- Demonstrates expertise in managing Windows infrastructure via GPOs.\n- Validates skills for system administrator and identity management roles.\n- Prepares for 70-742 certification exam topics.",
+    "keywords": [
+      "windows server 2016: ad group policy",
+      "ws2016-gpo",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Active Directory",
+      "Group Policy (GPO)",
+      "Centralized Management",
+      "Windows Server 2016",
+      "Security Configuration"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-cissp-cns",
+    "type": "certification",
+    "title": "CISSP 2021: Communication & Network Security (CISSP) - Issued by (ISC)²",
+    "content": "Certification Name: CISSP 2021: Communication & Network Security (CISSP)\nIssuer: (ISC)²\nDate: Issued Mar 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/cc7ec790-265d-4455-9676-4ba492975a97#acc.aQMhnYBe\nSkills Gained: Network Architecture, TCP/IP Security, Cryptography, Secure Protocols, Wireless Security, Firewall Management\nKey Benefits:\n- Validates deep technical knowledge in network security.\n- Covers a key domain of the CISSP CBK.\n- Demonstrates ability to design and protect networks.",
+    "keywords": [
+      "cissp 2021: communication & network security",
+      "cissp",
+      "(isc)²",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Network Architecture",
+      "TCP/IP Security",
+      "Cryptography",
+      "Secure Protocols",
+      "Wireless Security",
+      "Firewall Management"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-cy-analyst",
+    "type": "certification",
+    "title": "CompTIA CySA+: Threat Monitoring (CySA+) - Issued by Skillsoft",
+    "content": "Certification Name: CompTIA CySA+: Threat Monitoring (CySA+)\nIssuer: Skillsoft\nDate: Issued Feb 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/f03eecbb-42d5-439f-8563-984cd933fbe3#acc.j58neDcW\nSkills Gained: Threat Detection, Vulnerability Management, Behavioral Analytics, Incident Response, Log Analysis, SOC Procedures\nKey Benefits:\n- Applies behavioral analytics to improve threat visibility.\n- Validates skills for intermediate-level SOC analysts.\n- Focuses on proactive threat hunting and defense.",
+    "keywords": [
+      "comptia cysa+: threat monitoring",
+      "cysa+",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Threat Detection",
+      "Vulnerability Management",
+      "Behavioral Analytics",
+      "Incident Response",
+      "Log Analysis",
+      "SOC Procedures"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-cloud-plus",
+    "type": "certification",
+    "title": "CompTIA Cloud+: Cloud Security Controls (Cld+) - Issued by Skillsoft",
+    "content": "Certification Name: CompTIA Cloud+: Cloud Security Controls (Cld+)\nIssuer: Skillsoft\nDate: Issued Feb 2022\nVerification / Badge URL: https://skillsoft.digitalbadges.skillsoft.com/9e24b963-2f8b-4900-bf1f-40883eec3e45#acc.Z0IVYFWK\nSkills Gained: Cloud Deployment, Security Controls, Cloud Architecture, Disaster Recovery, Automation, Troubleshooting\nKey Benefits:\n- Vendor-neutral, covering multiple cloud platforms.\n- Proves hands-on expertise in cloud infrastructure.\n- Ensures ability to secure and maintain cloud environments.",
+    "keywords": [
+      "comptia cloud+: cloud security controls",
+      "cld+",
+      "skillsoft",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Cloud Deployment",
+      "Security Controls",
+      "Cloud Architecture",
+      "Disaster Recovery",
+      "Automation",
+      "Troubleshooting"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-cert-ccna",
+    "type": "certification",
+    "title": "Cisco Certified Network Associate (CCNA) (CCNA) - Issued by Cisco",
+    "content": "Certification Name: Cisco Certified Network Associate (CCNA) (CCNA)\nIssuer: Cisco\nDate: Issued Jun 2025\nVerification / Badge URL: https://www.credly.com/badges/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png\nSkills Gained: Network Fundamentals, Network Access, IP Connectivity & Services, Security Fundamentals, Automation & Programmability\nKey Benefits:\n- Validates hands-on knowledge of enterprise routing, switching, and security.\n- Demonstrates solid foundation in modern IP network configuration and troubleshooting.\n- Equips you to build, manage, and secure dual-stack wired and wireless topologies.",
+    "keywords": [
+      "cisco certified network associate (ccna)",
+      "ccna",
+      "cisco",
+      "certification",
+      "credential",
+      "badge",
+      "security certification"
+    ],
+    "technologies": [
+      "Network Fundamentals",
+      "Network Access",
+      "IP Connectivity & Services",
+      "Security Fundamentals",
+      "Automation & Programmability"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-education-0",
+    "type": "education",
+    "title": "Master of Science (M.Sc.) en Cybersécurité - University College Dublin (09/2023 - 08/24)",
+    "content": "Degree: Master of Science (M.Sc.) en Cybersécurité\nInstitution: University College Dublin\nPeriod: 09/2023 - 08/24\nLocation: Dublin, Irlande\nGrade / Result: Mention très bien (Second Class Honours, First Division)\nFocus Area: Modélisation avancée des menaces et attaques d'entreprises simulées\nKey Subject Areas: Tests d’intrusion, Investigation numérique, Architecture de systèmes sécurisés, Analyse de logiciels malveillants\nDescription: Un programme de troisième cycle intensif axé sur l'acquisition de compétences techniques avancées et d'un esprit stratégique requis pour défendre les systèmes d'entreprise complexes contre les cybermenaces modernes.\nHighlights & Coursework:\n- Exécution de modélisations de menaces complexes et direction d'exercices d'équipe rouge simulés contre des laboratoires virtuels d'entreprise à l'aide de Metasploit, Burp Suite et Wireshark.\n- Conception de scripts de détection de logiciels malveillants personnalisés et analyse approfondie des données médico-légales avec des outils SIEM conformes aux normes de l'industrie comme Splunk.\n- Conception et mise en œuvre d'architectures cloud-natives sécurisées et de niveau entreprise dans AWS, en se confiant à l'IAM, l'infrastructure VPC et la protection des données.\n- Recherche et présentation de rapports sur les cadres juridiques, éthiques et réglementaires régissant les opérations modernes de cybersécurité et la réponse aux incidents.",
+    "keywords": [
+      "master of science (m.sc.) en cybersécurité",
+      "university college dublin",
+      "education",
+      "degree",
+      "university",
+      "college",
+      "academic background"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-education-1",
+    "type": "education",
+    "title": "Bachelor of Science (B.Sc.) en Informatique - Technological University Dublin (09/2020 - 06/2023)",
+    "content": "Degree: Bachelor of Science (B.Sc.) en Informatique\nInstitution: Technological University Dublin\nPeriod: 09/2020 - 06/2023\nLocation: Dublin, Irlande\nGrade / Result: Mention très bien (Second Class Honours, First Division)\nFocus Area: Développement d'applications Web Full-Stack et sécurité réseau\nKey Subject Areas: Algorithmes & structures de données, Systèmes d'exploitation, Bases de la réseautique, Développement logiciel\nDescription: Un diplôme universitaire de premier cycle complet offrant une base théorique et pratique approfondie en informatique. Le programme couvrait les principes fondamentaux du génie logiciel, de l'infrastructure réseau et de la résolution de problèmes algorithmiques.\nHighlights & Coursework:\n- Maîtrise des principes fondamentaux de l'informatique, y compris les algorithmes avancés, les structures de données, la conception de systèmes d'exploitation et la réseautique informatique.\n- Développement d'un portefeuille diversifié de projets, comprenant des applications web full-stack, des scripts d'automatisation de système et des environnements de laboratoire réseau sécurisés.\n- Compétence pratique acquise en Python, C++, Java, Bash, PowerShell et technologies d'infrastructure clés, notamment AWS et la réseautique Cisco.",
+    "keywords": [
+      "bachelor of science (b.sc.) en informatique",
+      "technological university dublin",
+      "education",
+      "degree",
+      "university",
+      "college",
+      "academic background"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-education-2",
+    "type": "education",
+    "title": "Diplôme en Développement Logiciel (FETAC L6) - Rathmines College (09/2019 - 06/2020)",
+    "content": "Degree: Diplôme en Développement Logiciel (FETAC L6)\nInstitution: Rathmines College\nPeriod: 09/2019 - 06/2020\nLocation: Dublin, Irlande\nGrade / Result: Distinction (Excellent)\nFocus Area: Développement d'applications robustes\nKey Subject Areas: Programmation orientée objet, Gestion de bases de données, Gestion de projet, Java & C++\nDescription: Un programme axé sur la pratique centré sur la programmation orientée objet et la conception de bases de données, culminant dans le développement d'un portefeuille d'applications logicielles fonctionnelles.\nHighlights & Coursework:\n- Obtention de la mention Distinction en construisant un portefeuille d'applications robustes et bien documentées en Java et C++.\n- Acquisition de compétences pratiques en architecture logicielle, méthodologies de gestion de projet agiles, et conception et mise en œuvre de bases de données relationnelles.",
+    "keywords": [
+      "diplôme en développement logiciel (fetac l6)",
+      "rathmines college",
+      "education",
+      "degree",
+      "university",
+      "college",
+      "academic background"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-education-3",
+    "type": "education",
+    "title": "Certificat en études pré-infirmières (FETAC L5) - Progressive College (02/2017 - 10/2017)",
+    "content": "Degree: Certificat en études pré-infirmières (FETAC L5)\nInstitution: Progressive College\nPeriod: 02/2017 - 10/2017\nLocation: Dublin, Irlande\nGrade / Result: Mérite\nFocus Area: Sciences fondamentales de la vie\nKey Subject Areas: Biologie humaine, Anatomie & physiologie, Soins aux patients, Microbiology\nDescription: Un programme de transition fournissant des connaissances essentielles en sciences de la vie et en soins aux patients, développant une base solide en anatomie, microbiologie et éthique professionnelle.\nHighlights & Coursework:\n- Acquisition de connaissances fondamentales en biologie humaine, anatomie et protocoles de soins aux patients, avec mention Mérite.\n- Développement de solides capacités d'analyse et d'observation indispensables pour la résolution méthodique de problèmes dans des environnements à enjeux élevés.",
+    "keywords": [
+      "certificat en études pré-infirmières (fetac l5)",
+      "progressive college",
+      "education",
+      "degree",
+      "university",
+      "college",
+      "academic background"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-education-4",
+    "type": "education",
+    "title": "A-Level Certificat de Cambridge, Sciences - Vacoas State Secondary School (01/2008 - 10/2014)",
+    "content": "Degree: A-Level Certificat de Cambridge, Sciences\nInstitution: Vacoas State Secondary School\nPeriod: 01/2008 - 10/2014\nLocation: Vacoas, Île Maurice\nGrade / Result: Réussi\nFocus Area: Raisonnement analytique et scientifique\nKey Subject Areas: Physique, Chimie, Biologie, Mathématiques avancées\nDescription: Enseignement secondaire rigoureux axé sur la filière scientifique, qui a cultivé les compétences analytiques, quantitatives et de résolution de problèmes essentielles pour une carrière dans la technologie et la sécurité.\nHighlights & Coursework:\n- Établissement d'une base analytique et de résolution de problèmes solide grâce à des études approfondies en physique, chimie et biologie.",
+    "keywords": [
+      "a-level certificat de cambridge, sciences",
+      "vacoas state secondary school",
+      "education",
+      "degree",
+      "university",
+      "college",
+      "academic background"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 8,
+    "isPublic": true
+  },
+  {
+    "id": "fr-recruiter-faq-0",
+    "type": "recruiter_faq",
+    "title": "Recruiter QA: Quelle est la disponibilité ou la période de préavis d'Angesh ?",
+    "content": "Question: Quelle est la disponibilité ou la période de préavis d'Angesh ?\nAnswer: Angesh est ouvert à la discussion pour de nouvelles opportunités. Il dispose d'un préavis standard (généralement de 2 à 4 semaines), qui reste négociable selon la complexité et les exigences du poste.",
+    "keywords": [
+      "recruiter",
+      "faq",
+      "hiring",
+      "disponibilité",
+      "préavis",
+      "date de début",
+      "embaucher",
+      "quand pouvez-vous commencer"
+    ],
+    "locale": "fr",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-recruiter-faq-1",
+    "type": "recruiter_faq",
+    "title": "Recruiter QA: Quel est le mode de travail préféré d'Angesh (télétravail, hybride, sur site) ?",
+    "content": "Question: Quel est le mode de travail préféré d'Angesh (télétravail, hybride, sur site) ?\nAnswer: Angesh est très à l'aise avec les modèles de travail hybrides ou entièrement à distance, car ils favorisent à la fois la collaboration et la concentration. Il est également ouvert à un travail sur site à temps plein selon l'emplacement et l'envergure du projet.",
+    "keywords": [
+      "recruiter",
+      "faq",
+      "hiring",
+      "télétravail",
+      "hybride",
+      "sur site",
+      "présentiel",
+      "bureau",
+      "distance"
+    ],
+    "locale": "fr",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-recruiter-faq-2",
+    "type": "recruiter_faq",
+    "title": "Recruiter QA: Angesh est-il ouvert à la relocalisation ?",
+    "content": "Question: Angesh est-il ouvert à la relocalisation ?\nAnswer: Oui, Angesh est prêt à se relocaliser pour la bonne opportunité professionnelle, selon l'envergure du poste, la rémunération et les détails de l'emplacement.",
+    "keywords": [
+      "recruiter",
+      "faq",
+      "hiring",
+      "relocalisation",
+      "déménager",
+      "déménagement",
+      "autres villes",
+      "voyager",
+      "étranger"
+    ],
+    "locale": "fr",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-recruiter-faq-3",
+    "type": "recruiter_faq",
+    "title": "Recruiter QA: Quelles sont les attentes salariales d'Angesh ?",
+    "content": "Question: Quelles sont les attentes salariales d'Angesh ?\nAnswer: Les attentes salariales d'Angesh sont flexibles et ouvertes à la discussion. Il recherche un package global qui correspond aux responsabilités du poste, au coût de la vie et à son expertise en cybersécurité et contrôle d'accès réseau.",
+    "keywords": [
+      "recruiter",
+      "faq",
+      "hiring",
+      "salaire",
+      "rémunération",
+      "compensation",
+      "pretentions",
+      "tarif",
+      "fourchette"
+    ],
+    "locale": "fr",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-recruiter-faq-4",
+    "type": "recruiter_faq",
+    "title": "Recruiter QA: Quels sont les principaux domaines d'expertise d'Angesh ?",
+    "content": "Question: Quels sont les principaux domaines d'expertise d'Angesh ?\nAnswer: Angesh est spécialisé dans le contrôle d'accès réseau (NAC), notamment le déploiement et la gestion des systèmes Cisco ISE, l'authentification 802.1X, l'intégration Active Directory, le profilage des appareils, la conformité de posture et l'architecture réseau défensive. Il possède également une solide expérience en automatisation de la sécurité avec Python, PowerShell et bash, ainsi qu'en détection de menaces (threat hunting) sous Wazuh SIEM.",
+    "keywords": [
+      "recruiter",
+      "faq",
+      "hiring",
+      "expertise",
+      "spécialisation",
+      "cisco ise",
+      "nac",
+      "802.1x",
+      "cybersécurité",
+      "points forts",
+      "compétences"
+    ],
+    "locale": "fr",
+    "route": "/#contact",
+    "sectionId": "contact",
+    "priority": 9,
+    "isPublic": true
+  },
+  {
+    "id": "fr-future-plan-az500",
+    "type": "personal",
+    "title": "Planned Certification: Microsoft Certified: Azure Security Engineer (AZ-500) (Planifié)",
+    "content": "Certification: Microsoft Certified: Azure Security Engineer (AZ-500)\nStatus: Planifié\nKey Competencies: Gestion des Identités & Accès, Protection des Plateformes CLoud, Opérations de Sécurité, Sécurité des Données et Applications",
+    "keywords": [
+      "microsoft certified: azure security engineer (az-500)",
+      "future plan",
+      "planned certification",
+      "learning roadmap"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 7,
+    "isPublic": true
+  },
+  {
+    "id": "fr-future-plan-isc2cc",
+    "type": "personal",
+    "title": "Planned Certification: (ISC)² Certified in Cybersecurity (CC) (Planifié)",
+    "content": "Certification: (ISC)² Certified in Cybersecurity (CC)\nStatus: Planifié\nKey Competencies: Principes Clés de Sécurité, Continuité d'Activité, Reprise après Sinistre & Réponse, Concepts Fondamentaux de Contrôle d'Accès, Sécurité Globale des Réseaux",
+    "keywords": [
+      "(isc)² certified in cybersecurity (cc)",
+      "future plan",
+      "planned certification",
+      "learning roadmap"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 7,
+    "isPublic": true
+  },
+  {
+    "id": "fr-future-plan-az204",
+    "type": "personal",
+    "title": "Planned Certification: Microsoft Certified: Azure Developer Associate (AZ-204) (Recherche)",
+    "content": "Certification: Microsoft Certified: Azure Developer Associate (AZ-204)\nStatus: Recherche\nKey Competencies: Développement de Solutions Informatiques Azure Sécurisées, Administration Sécurisée de Stockages d'Entreprise, Gestion d'APIs Résilientes, Sécurisation des Services d'Authentification Applicative",
+    "keywords": [
+      "microsoft certified: azure developer associate (az-204)",
+      "future plan",
+      "planned certification",
+      "learning roadmap"
+    ],
+    "locale": "fr",
+    "route": "/#education",
+    "sectionId": "education",
+    "priority": 7,
+    "isPublic": true
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "btl1",
+    "name": "Certified Blue Team Level 1",
+    "issuer": "Security Blue Team",
+    "date": "Issued Jun 2025",
+    "credentialUrl": "https://www.credly.com/badges/5cab8576-afbd-4f81-a19e-c0a750d069f7",
+    "shortName": "BTL1",
+    "badgeImageUrl": "https://images.credly.com/size/680x680/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob",
+    "descriptionKey": "cert_desc_btl1",
+    "skillsGained": [
+      "Phishing Analysis",
+      "Digital Forensics",
+      "SIEM Operations",
+      "Incident Response",
+      "Threat Intelligence",
+      "Network Analysis"
+    ],
+    "benefits": [
+      "Validates hands-on, practical defensive security skills.",
+      "Proves readiness for SOC Analyst and Incident Responder roles.",
+      "Covers a comprehensive range of blue team operations."
+    ]
+  },
+  {
+    "id": "sixsigma-white",
+    "name": "Six Sigma White Belt",
+    "issuer": "Council for Six Sigma Certification",
+    "date": "Issued Jan 2025",
+    "credentialUrl": "#",
+    "shortName": "SSWB",
+    "badgeImageUrl": "https://www.sixsigmacouncil.org/wp-content/uploads/2021/01/CSSC-WB-Final.png",
+    "descriptionKey": "cert_desc_sixsigma_white",
+    "skillsGained": [
+      "Basic Six Sigma Vocabulary",
+      "Process Improvement Awareness",
+      "Quality Concepts",
+      "Role Definition"
+    ],
+    "benefits": [
+      "Provides a foundational understanding of the Six Sigma methodology.",
+      "Enables effective communication within a Six Sigma team.",
+      "Demonstrates a commitment to quality and efficiency."
+    ],
+    "pdfUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Certificates/White%20Belt.png"
+  },
+  {
+    "id": "sixsigma-yellow",
+    "name": "Six Sigma Yellow Belt",
+    "issuer": "Council for Six Sigma Certification",
+    "date": "Issued Feb 2025",
+    "credentialUrl": "#",
+    "shortName": "SSYB",
+    "badgeImageUrl": "https://www.sixsigmacouncil.org/wp-content/uploads/2021/01/CSSC-YB-Final2.png",
+    "descriptionKey": "cert_desc_sixsigma_yellow",
+    "skillsGained": [
+      "Six Sigma Concepts",
+      "Process Mapping Basics",
+      "Data Collection Techniques",
+      "Team Participation",
+      "Problem Definition"
+    ],
+    "benefits": [
+      "Functions as a knowledgeable team member on Six Sigma projects.",
+      "Understands the core principles of process improvement.",
+      "Helps identify areas for improvement in daily tasks."
+    ],
+    "pdfUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Certificates/Yellow%20Belt.png"
+  },
+  {
+    "id": "sixsigma-green",
+    "name": "Six Sigma Green Belt",
+    "issuer": "Council for Six Sigma Certification",
+    "date": "Issued Apr 2025",
+    "credentialUrl": "#",
+    "shortName": "SSGB",
+    "badgeImageUrl": "https://www.sixsigmacouncil.org/wp-content/uploads/2021/01/CSSC-GB-Final-v2.png",
+    "descriptionKey": "cert_desc_sixsigma_green",
+    "skillsGained": [
+      "DMAIC Framework",
+      "Data Collection",
+      "Process Analysis",
+      "Statistical Tools",
+      "Project Management",
+      "Hypothesis Testing"
+    ],
+    "benefits": [
+      "Leads small to medium-sized process improvement projects.",
+      "Provides data analysis support to Black Belts.",
+      "Improves problem-solving skills within a team context."
+    ],
+    "pdfUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Certificates/Green%20Belt.png"
+  },
+  {
+    "id": "sixsigma-black",
+    "name": "Six Sigma Black Belt",
+    "issuer": "Council for Six Sigma Certification",
+    "date": "Issued Jun 2025",
+    "credentialUrl": "https://www.sixsigmacouncil.org/",
+    "shortName": "SSBB",
+    "badgeImageUrl": "https://www.sixsigmacouncil.org/wp-content/uploads/2021/01/CSSC-BB-Final.png",
+    "descriptionKey": "cert_desc_sixsigma_black",
+    "skillsGained": [
+      "Process Mapping",
+      "Statistical Analysis",
+      "Project Management",
+      "Root Cause Analysis",
+      "Quality Assurance",
+      "Change Management"
+    ],
+    "benefits": [
+      "Enables data-driven decision-making to optimize processes.",
+      "Demonstrates leadership in improving business outcomes.",
+      "Reduces operational costs and increases efficiency."
+    ],
+    "pdfUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Certificates/Black%20Belt.png"
+  },
+  {
+    "id": "cct",
+    "name": "CCT Routing and Switching",
+    "issuer": "Cisco",
+    "date": "Issued Jan 2023",
+    "credentialUrl": "https://www.credly.com/badges/67f93061-ef60-452d-bce9-f463af3a73a1",
+    "shortName": "CCT",
+    "badgeImageUrl": "https://images.credly.com/size/680x680/images/6321cd9f-5f08-4d2e-9418-2fbe1a932471/image.png",
+    "descriptionKey": "cert_desc_cct",
+    "skillsGained": [
+      "Device Identification",
+      "Cisco IOS",
+      "Hardware Diagnostics",
+      "Cabling and Interfaces",
+      "Service Restoration",
+      "Network Fundamentals"
+    ],
+    "benefits": [
+      "Qualifies for on-site support of Cisco networking devices.",
+      "Ensures competence in first-line hardware support.",
+      "Provides a strong foundation for advanced Cisco certifications."
+    ],
+    "needsBackgroundInDarkMode": true
+  },
+  {
+    "id": "az900",
+    "name": "Microsoft Certified: AZ-900",
+    "issuer": "Microsoft",
+    "date": "Issued Jul 2022",
+    "credentialUrl": "https://www.credly.com/badges/ec8ad48f-061c-4b26-a07b-3e12cd6d482a",
+    "shortName": "AZ900",
+    "badgeImageUrl": "https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
+    "descriptionKey": "cert_desc_az900",
+    "skillsGained": [
+      "Cloud Concepts",
+      "Core Azure Services",
+      "Azure Security",
+      "Azure Pricing & SLAs",
+      "Identity & Governance",
+      "Compliance"
+    ],
+    "benefits": [
+      "Demonstrates fundamental knowledge of cloud services.",
+      "Validates understanding of the Microsoft Azure platform.",
+      "Serves as a prerequisite for specialized Azure role-based certs."
+    ]
+  },
+  {
+    "id": "isc2-candidate",
+    "name": "(ISC)² Candidate",
+    "issuer": "(ISC)²",
+    "date": "Issued Oct 2023",
+    "credentialUrl": "https://www.credly.com/badges/4a8f0bb7-5f3c-4a43-9313-01b92bba573a",
+    "shortName": "ISC²",
+    "badgeImageUrl": "https://images.credly.com/size/680x680/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png",
+    "descriptionKey": "cert_desc_isc2_candidate",
+    "skillsGained": [
+      "Ethical Conduct",
+      "Professional Development",
+      "Cybersecurity Principles",
+      "Career Planning"
+    ],
+    "benefits": [
+      "Shows commitment to a career in cybersecurity.",
+      "Provides access to (ISC)² resources and networking.",
+      "Officially marks the journey towards CISSP or other certs."
+    ]
+  },
+  {
+    "id": "az-admin-aad",
+    "name": "Microsoft Azure Administrator: Azure AD",
+    "issuer": "Skillsoft",
+    "date": "Issued Dec 2022",
+    "credentialUrl": "https://skillsoft.digitalbadges.skillsoft.com/fd2aa2da-2087-40e5-91ce-b8767a8a7d46#acc.1kWhp3Al",
+    "shortName": "Az-AAD",
+    "badgeImageUrl": "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52501520",
+    "descriptionKey": "cert_desc_az_admin_aad",
+    "skillsGained": [
+      "Azure AD",
+      "Identity Management",
+      "Enterprise State Roaming",
+      "Identity Protection",
+      "SSPR",
+      "Role-Based Access Control (RBAC)"
+    ],
+    "benefits": [
+      "Validates core skills for managing Azure identities.",
+      "Crucial for securing cloud resources in Azure.",
+      "Demonstrates expertise in modern authentication methods."
+    ]
+  },
+  {
+    "id": "sec-risk-mgmt",
+    "name": "Session & Risk Management",
+    "issuer": "Skillsoft",
+    "date": "Issued Jan 2023",
+    "credentialUrl": "https://skillsoft.digitalbadges.skillsoft.com/3d5bba3a-03be-4a16-b765-8db112eb1283#acc.czIJHypk",
+    "shortName": "Sec&Risk",
+    "badgeImageUrl": "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52501483",
+    "descriptionKey": "cert_desc_sec_risk_mgmt",
+    "skillsGained": [
+      "Risk Management",
+      "Session Management",
+      "Data Confidentiality",
+      "Encryption",
+      "User Security",
+      "Security Controls"
+    ],
+    "benefits": [
+      "Demonstrates ability to identify, assess, and prioritize risks.",
+      "Proves competence in implementing security controls to mitigate risk.",
+      "Validates knowledge of hardening browsers and servers with TLS."
+    ]
+  },
+  {
+    "id": "secplus-threats",
+    "name": "CompTIA Security+: Threat Actors, Intelligence Sources, & Vulnerabilities",
+    "issuer": "Skillsoft",
+    "date": "Issued Aug 2022",
+    "credentialUrl": "https://skillsoft.digitalbadges.skillsoft.com/5e21ac63-b4ad-47ad-a004-9035d442f4d2#acc.q0IKuYZQ",
+    "shortName": "Sec+TI",
+    "badgeImageUrl": "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46238108",
+    "descriptionKey": "cert_desc_secplus_threats",
+    "skillsGained": [
+      "Threat Intelligence",
+      "Threat Actor Profiling",
+      "Vulnerability Scanning",
+      "MITRE ATT&CK",
+      "Indicator of Compromise (IoC)",
+      "Cyber Kill Chain"
+    ],
+    "benefits": [
+      "Demonstrates specialized knowledge in threat analysis.",
+      "Validates ability to identify and analyze adversaries.",
+      "Core skill for threat hunting and SOC roles."
+    ]
+  },
+  {
+    "id": "win10-ad",
+    "name": "Windows 10: Active Directory Management",
+    "issuer": "Skillsoft",
+    "date": "Issued May 2022",
+    "credentialUrl": "https://skillsoft.digitalbadges.skillsoft.com/70aaab52-d606-4ec3-96dd-bf357d594e4f#acc.mncpXQBM",
+    "shortName": "Win10AD",
+    "badgeImageUrl": "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48745945",
+    "descriptionKey": "cert_desc_win10_ad",
+    "skillsGained": [
+      "Active Directory",
+      "Group Policy (GPO)",
+      "User & Group Mgmt",
+      "LDAP Queries",
+      "Client Configuration",
+      "Troubleshooting"
+    ],
+    "benefits": [
+      "Proves competence in managing enterprise Windows clients.",
+      "Essential skill for endpoint and identity management roles.",
+      "Validates understanding of core Microsoft infrastructure."
+    ]
+  },
+  {
+    "id": "ws2016-gpo",
+    "name": "Windows Server 2016: AD Group Policy",
+    "issuer": "Skillsoft",
+    "date": "Issued Jun 2022",
+    "credentialUrl": "https://skillsoft.digitalbadges.skillsoft.com/b09f7ed2-7758-43bd-8a54-314fb83d3a71#acc.rO5b6gDM",
+    "shortName": "WS2016-GPO",
+    "badgeImageUrl": "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49004747",
+    "descriptionKey": "cert_desc_ws2016_gpo",
+    "skillsGained": [
+      "Active Directory",
+      "Group Policy (GPO)",
+      "Centralized Management",
+      "Windows Server 2016",
+      "Security Configuration"
+    ],
+    "benefits": [
+      "Demonstrates expertise in managing Windows infrastructure via GPOs.",
+      "Validates skills for system administrator and identity management roles.",
+      "Prepares for 70-742 certification exam topics."
+    ]
+  },
+  {
+    "id": "cissp-cns",
+    "name": "CISSP 2021: Communication & Network Security",
+    "issuer": "(ISC)²",
+    "date": "Issued Mar 2022",
+    "credentialUrl": "https://skillsoft.digitalbadges.skillsoft.com/cc7ec790-265d-4455-9676-4ba492975a97#acc.aQMhnYBe",
+    "shortName": "CISSP",
+    "badgeImageUrl": "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46246262",
+    "descriptionKey": "cert_desc_cissp_cns",
+    "skillsGained": [
+      "Network Architecture",
+      "TCP/IP Security",
+      "Cryptography",
+      "Secure Protocols",
+      "Wireless Security",
+      "Firewall Management"
+    ],
+    "benefits": [
+      "Validates deep technical knowledge in network security.",
+      "Covers a key domain of the CISSP CBK.",
+      "Demonstrates ability to design and protect networks."
+    ]
+  },
+  {
+    "id": "cy-analyst",
+    "name": "CompTIA CySA+: Threat Monitoring",
+    "issuer": "Skillsoft",
+    "date": "Issued Feb 2022",
+    "credentialUrl": "https://skillsoft.digitalbadges.skillsoft.com/f03eecbb-42d5-439f-8563-984cd933fbe3#acc.j58neDcW",
+    "shortName": "CySA+",
+    "badgeImageUrl": "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46396500",
+    "descriptionKey": "cert_desc_cy_analyst",
+    "skillsGained": [
+      "Threat Detection",
+      "Vulnerability Management",
+      "Behavioral Analytics",
+      "Incident Response",
+      "Log Analysis",
+      "SOC Procedures"
+    ],
+    "benefits": [
+      "Applies behavioral analytics to improve threat visibility.",
+      "Validates skills for intermediate-level SOC analysts.",
+      "Focuses on proactive threat hunting and defense."
+    ]
+  },
+  {
+    "id": "cloud-plus",
+    "name": "CompTIA Cloud+: Cloud Security Controls",
+    "issuer": "Skillsoft",
+    "date": "Issued Feb 2022",
+    "credentialUrl": "https://skillsoft.digitalbadges.skillsoft.com/9e24b963-2f8b-4900-bf1f-40883eec3e45#acc.Z0IVYFWK",
+    "shortName": "Cld+",
+    "badgeImageUrl": "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46118060",
+    "descriptionKey": "cert_desc_cloud_plus",
+    "skillsGained": [
+      "Cloud Deployment",
+      "Security Controls",
+      "Cloud Architecture",
+      "Disaster Recovery",
+      "Automation",
+      "Troubleshooting"
+    ],
+    "benefits": [
+      "Vendor-neutral, covering multiple cloud platforms.",
+      "Proves hands-on expertise in cloud infrastructure.",
+      "Ensures ability to secure and maintain cloud environments."
+    ]
+  },
+  {
+    "id": "ccna",
+    "name": "Cisco Certified Network Associate (CCNA)",
+    "issuer": "Cisco",
+    "date": "Issued Jun 2025",
+    "credentialUrl": "https://www.credly.com/badges/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png",
+    "shortName": "CCNA",
+    "badgeImageUrl": "https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png",
+    "descriptionKey": "cert_desc_ccna",
+    "skillsGained": [
+      "Network Fundamentals",
+      "Network Access",
+      "IP Connectivity & Services",
+      "Security Fundamentals",
+      "Automation & Programmability"
+    ],
+    "benefits": [
+      "Validates hands-on knowledge of enterprise routing, switching, and security.",
+      "Demonstrates solid foundation in modern IP network configuration and troubleshooting.",
+      "Equips you to build, manage, and secure dual-stack wired and wireless topologies."
+    ],
+    "needsBackgroundInDarkMode": true
+  }
+]

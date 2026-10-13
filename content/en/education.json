@@ -1,0 +1,99 @@
+[
+  {
+    "degree": "Master of Science (M.Sc.) in Cybersecurity",
+    "institution": "University College Dublin",
+    "period": "09/2023 - 08/2024",
+    "location": "Dublin, Ireland",
+    "grade": "Second Class Honours, First Division grade",
+    "description": "An intensive postgraduate program focused on equipping students with the advanced technical skills and strategic mindset required to defend complex enterprise systems against modern cyber threats.",
+    "key_areas": [
+      "Penetration Testing",
+      "Digital Forensics",
+      "Secure Systems Architecture",
+      "Malware Analysis"
+    ],
+    "focus_area": "Advanced Threat Modeling & Simulated Enterprise Attacks",
+    "details": [
+      "Executed complex threat modeling and led simulated red team exercises against enterprise-grade virtual labs using Metasploit, Burp Suite, and Wireshark.",
+      "Engineered custom malware detection scripts and conducted in-depth forensic data analysis with industry-standard SIEM tools like Splunk.",
+      "Designed and implemented secure, multi-layered cloud-native architectures in AWS, focusing on IAM, network security, and data protection.",
+      "Researched and presented on the legal, ethical, and regulatory frameworks governing modern cybersecurity operations and incident response."
+    ]
+  },
+  {
+    "degree": "Bachelor of Science (B.Sc.) in Computer Science",
+    "institution": "Technological University Dublin",
+    "period": "09/2020 - 06/2023",
+    "location": "Dublin, Ireland",
+    "grade": "Second Class Honours, First Division grade",
+    "description": "A comprehensive undergraduate degree providing a deep theoretical and practical foundation in computing. The curriculum covered core principles of software engineering, network infrastructure, and algorithmic problem-solving.",
+    "key_areas": [
+      "Algorithms & Data Structures",
+      "Operating Systems",
+      "Network Fundamentals",
+      "Software Development"
+    ],
+    "focus_area": "Full-Stack Web Application Development & Network Security",
+    "details": [
+      "Mastered core CS principles including advanced algorithms, data structures, operating system design, and computer networking.",
+      "Developed a diverse portfolio of projects, including full-stack web applications, system automation scripts, and secure network laboratory environments.",
+      "Gained hands-on proficiency with Python, C++, Java, Bash, PowerShell, and key infrastructure technologies including AWS and Cisco networking."
+    ]
+  },
+  {
+    "degree": "Diploma in Software Development (FETAC L6)",
+    "institution": "Rathmines College",
+    "period": "09/2019 - 06/2020",
+    "location": "Dublin, Ireland",
+    "grade": "Distinction",
+    "description": "A practice-oriented program centered on object-oriented programming and database design, culminating in the development of a portfolio of functional software applications.",
+    "key_areas": [
+      "Object-Oriented Programming",
+      "Database Management",
+      "Project Management",
+      "Java & C++"
+    ],
+    "focus_area": "Robust Application Development",
+    "details": [
+      "Achieved Distinction by building a portfolio of robust, well-documented applications using Java and C++.",
+      "Acquired practical skills in software architecture, agile project management methodologies, and relational database design and implementation."
+    ]
+  },
+  {
+    "degree": "Certificate in Pre-Nursing Studies (FETAC L5)",
+    "institution": "Progressive College",
+    "period": "02/2017 - 10/2017",
+    "location": "Dublin, Ireland",
+    "grade": "Merit",
+    "description": "A foundational program providing essential knowledge in life sciences and patient care, developing a strong basis in anatomy, microbiology, and professional ethics.",
+    "key_areas": [
+      "Human Biology",
+      "Anatomy & Physiology",
+      "Patient Care Skills",
+      "Microbiology"
+    ],
+    "focus_area": "Foundational Life Sciences",
+    "details": [
+      "Acquired foundational knowledge in human biology, anatomy, and patient care protocols, earning a Merit grade.",
+      "Developed strong analytical and observation skills crucial for systematic problem-solving in high-stakes environments."
+    ]
+  },
+  {
+    "degree": "A-Level Cambridge Certificate, Science",
+    "institution": "Vacoas State Secondary School",
+    "period": "01/2008 - 10/2014",
+    "location": "Vacoas, Mauritius",
+    "grade": "Pass",
+    "description": "Rigorous secondary education focused on the core sciences, which cultivated the analytical, quantitative, and problem-solving skills essential for a career in technology and security.",
+    "key_areas": [
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Advanced Mathematics"
+    ],
+    "focus_area": "Analytical & Scientific Reasoning",
+    "details": [
+      "Established a strong analytical and problem-solving foundation through advanced, comprehensive studies in Physics, Chemistry, and Biology."
+    ]
+  }
+]

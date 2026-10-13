@@ -1,0 +1,99 @@
+{
+  "categories": {
+    "Défense & Réponse": {
+      "color": "#64ffda",
+      "skills": [
+        {
+          "name": "Cisco ISE",
+          "icon": "IconNetwork",
+          "description": "Architecture de contrôle d'accès réseau Zero Trust et déploiement 802.1X à l'échelle de l'entreprise."
+        },
+        {
+          "name": "EDR/DLP",
+          "icon": "IconShield",
+          "description": "Mise en œuvre et administration d'outils avancés de détection des terminaux et de prévention des pertes de données."
+        },
+        {
+          "name": "Incident Response",
+          "icon": "IconTerminal",
+          "description": "Analyse experte de niveau 3 et remédiation des menaces sur les postes et contrôles d'accès réseau."
+        },
+        {
+          "name": "Vulnerability Assessment",
+          "icon": "IconSearch",
+          "description": "Identification et priorisation des faiblesses systèmes à l'aide de frameworks et d'outils de référence."
+        }
+      ]
+    },
+    "Automatisation & Scripting": {
+      "color": "#ffc300",
+      "skills": [
+        {
+          "name": "PowerShell",
+          "icon": "IconCode",
+          "description": "Automatisation de l'administration Windows Server, sécurisation d'Active Directory et gestion des certificats."
+        },
+        {
+          "name": "Python",
+          "icon": "IconCode",
+          "description": "Développement de scripts sur mesure pour la surveillance cyber, le traitement de logs et la simplification de tâches."
+        },
+        {
+          "name": "Bash",
+          "icon": "IconTerminal",
+          "description": "Écriture de scripts shell sous Linux pour l'administration système et l'orchestration de sécurité."
+        }
+      ]
+    },
+    "Opérations de Sécurité": {
+      "color": "#00aeff",
+      "skills": [
+        {
+          "name": "SIEM/Splunk",
+          "icon": "IconSearch",
+          "description": "Exploitation de plateformes SIEM d'entreprise pour la recherche de menaces, la corrélation d'alertes et la centralisation des logs."
+        },
+        {
+          "name": "Wireshark",
+          "icon": "IconNetwork",
+          "description": "Analyse approfondie des trames réseau et des flux de paquets pour diagnostiquer et intercepter des vagues de trafic suspect."
+        },
+        {
+          "name": "Metasploit",
+          "icon": "IconTerminal",
+          "description": "Validation de la robustesse des systèmes et réalisation de simulations de piratage éthique pour tester les défenses."
+        },
+        {
+          "name": "Burp Suite",
+          "icon": "IconTerminal",
+          "description": "Tests de pénétration d'applications Web visant à déceler, analyser et colmater les vulnérables majeures du Top 10 OWASP."
+        }
+      ]
+    },
+    "Infrastructure & Cloud": {
+      "color": "#da70d6",
+      "skills": [
+        {
+          "name": "Cloud Security",
+          "icon": "IconCloud",
+          "description": "Mise en place de règles de sécurité réseau et d'accès conformes aux meilleures pratiques AWS et Microsoft Azure."
+        },
+        {
+          "name": "Active Directory",
+          "icon": "IconServer",
+          "description": "Administration, durcissement et sécurisation des identités utilisateurs, stratégies de groupe (GPO) et infrastructures AD."
+        },
+        {
+          "name": "Linux/Windows",
+          "icon": "IconServer",
+          "description": "Configuration, administration avancée et durcissement global des systèmes d'exploitation Linux et Windows Server."
+        },
+        {
+          "name": "Network Security",
+          "icon": "IconNetwork",
+          "description": "Conception, segmentations réseaux hautement isolés avec firewalls, DMZ, VLAN avancés et politiques de filtrage strictes."
+        }
+      ]
+    }
+  }
+}

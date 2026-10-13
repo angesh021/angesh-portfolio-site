@@ -1,0 +1,193 @@
+[
+  {
+    "id": "project-home-soc-lab",
+    "title": "Home SOC Lab – Ingénierie de Détection Avancée",
+    "description": "Un environnement SOC complet et isolé sur VMware pour démontrer l'analyse des journaux, la recherche de menaces et l'ingénierie de détection.",
+    "longDescription": "Ce projet est un environnement complet et isolé de Centre d'Opérations de Sécurité (SOC) bâti sur VMware. Il met en évidence les capacités directes de la « Blue Team » (Équipe Bleue) en simulant des comportements d'attaquants et en les détectant grâce à une stack d'outils puissants comprenant Wazuh SIEM, Sysmon EDR, Zeek NSM et Suricata IDS/IPS. Il propose des scénarios d'attaques réels cartographiés selon les méthodologies MITRE ATT&CK, des règles de corrélation personnalisées et des flux complets de recherche de menaces à l'aide de la télémétrie asynchrone réseaux et des points finaux.",
+    "tags": [
+      "Wazuh SIEM",
+      "Zeek NSM",
+      "Suricata IDS/IPS",
+      "Sysmon EDR",
+      "Équipe Bleue",
+      "Recherche de Menaces",
+      "Ingénierie de Détection"
+    ],
+    "githubUrl": "https://github.com/angesh021/home-soc-lab",
+    "liveDemoUrl": "https://wazuh-siem.angesh.sec",
+    "videoPreviewUrl": "https://cdn.coverr.co/videos/coverr-a-stream-of-data-2216/1080p.mp4",
+    "status": "Completed",
+    "keyFeatures": [
+      "Détection et réponse des points finaux (EDR) avec Sysmon",
+      "Gestion des informations et des événements de sécurité (SIEM) avec Wazuh",
+      "Détection d'intrusion réseau (IDS/IPS) avec Suricata",
+      "Surveillance comportementale du réseau intégrée à Zeek",
+      "Règles de corrélation personnalisées et cartographie MITRE ATT&CK",
+      "Chaînes d'attaque documentées et flux de recherche de menaces"
+    ],
+    "architectureUrl": "/assets/projects/project-home-soc-lab/SOCLab-Architecture.png",
+    "galleryUrls": [
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/HomeSocLab/SOCLab-Hero.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/HomeSocLab/SOCLab-ThreatHunting.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/HomeSocLab/SOCLab-DetectionFlow.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/HomeSocLab/SOCLab-DetectionEngineering.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/HomeSocLab/SOCLab-BlueTeam.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/HomeSocLab/SOCLab-AttackScenario.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/HomeSocLab/SOCLab-Architecture.png"
+    ]
+  },
+  {
+    "id": "project-aura-ttt",
+    "title": "Aura Tic-Tac-Toe – Application Web Multijoueur Complète",
+    "description": "Une application web Tic-Tac-Toe moderne et riche en fonctionnalités, dotée d'une interface en glassmorphisme, d'animations fluides et de plusieurs modes de jeu.",
+    "longDescription": "Aura Tic-Tac-Toe est une application web multijoueur complète et hautement perfectionnée, conçue avec une superbe interface en glassmorphisme, des animations fluides et une suite complète de modes de jeu. Le projet présente une architecture sécurisée et faisant autorité côté serveur, comprenant un frontend React et un backend Node.js/Socket.IO. Il prend en charge des mécanismes de jeu complexes tels que le Pass & Play local, le Solo contre l'IA (avec différents niveaux de difficulté), le PvP en temps réel avec un système de salon (Lobby) personnalisé, des systèmes de progression incluant une boutique de cosmétiques, des classements ELO, ainsi qu'une authentification JWT robuste et des fonctionnalités de sécurité renforcées.",
+    "tags": [
+      "React",
+      "Node.js",
+      "Express",
+      "Socket.IO",
+      "PostgreSQL",
+      "Framer Motion",
+      "TypeScript"
+    ],
+    "githubUrl": "https://github.com/angesh021/aura-tic-tac-toe",
+    "liveDemoUrl": "https://aura-tic-tac-toe-frontend.onrender.com/",
+    "videoPreviewUrl": "https://cdn.coverr.co/videos/coverr-a-stream-of-data-2216/1080p.mp4",
+    "status": "Completed",
+    "keyFeatures": [
+      "Interface fluide en glassmorphisme avec des animations réactives",
+      "Plusieurs modes de jeu : Solo contre l'IA, Pass & Play local, PvP en temps réel et Mode Campagne",
+      "Bonus stratégiques en jeu : Annuler, Détruire, Fortifier et Double Frappe",
+      "Progression & Économie : Gagnez des Aura Coins, accomplissez des quêtes quotidiennes et débloquez des cosmétiques dans la boutique",
+      "Hub Social : Liste d'amis avec statut en ligne, messagerie directe et classements ELO mondiaux",
+      "Gameplay faisant autorité sur le serveur pour empêcher la triche côté client"
+    ],
+    "architectureUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/TicTacToe/Tic-Tac-Toe%20-%20Architecture.png",
+    "galleryUrls": [
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/TicTacToe/Tic-Tac-Toe%20-%20Hero.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/TicTacToe/Tic-Tac-Toe%20-%20GameplayFeatures.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/TicTacToe/Tic-Tac-Toe%20-%20TheProblem.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/TicTacToe/Tic-Tac-Toe%20-%20TheSolution.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/TicTacToe/Tic-Tac-Toe%20-%20Workflow.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/TicTacToe/Tic-Tac-Toe%20-%20DesignEvolution.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/TicTacToe/Tic-Tac-Toe%20-%20DatabaseDesign.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/TicTacToe/Tic-Tac-Toe%20-%20Prototypes.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/TicTacToe/Tic-Tac-Toe%20-%20Architecture.png"
+    ]
+  },
+  {
+    "id": "project-admin-dashboard",
+    "title": "Plateforme Tableau de Bord Administrateur",
+    "description": "Un tableau de bord administrateur complet axé sur l'analyse de programmation, la sécurité, l'analyse des journaux et la visualisation de données.",
+    "longDescription": "Développement d'un tableau de bord d'administration avancé conçu pour une surveillance complète du système, combinant des outils de programmation, une vue d'ensemble de la sécurité et des capacités d'analyse approfondie des journaux (log analysis). La plateforme offre une riche visualisation de données pour le suivi du trafic en temps réel, la détection des menaces et les métriques liées aux journaux. Elle intègre un contrôle d'accès sécurisé basé sur les rôles, des systèmes d'alerte en temps réel et une agrégation fluide des journaux pour fournir rapidement aux administrateurs des informations exploitables.",
+    "tags": [
+      "Programmation",
+      "Sécurité",
+      "Analyse de logs",
+      "Visualisation de données",
+      "React",
+      "Tableaux de bord"
+    ],
+    "githubUrl": "https://github.com/angesh021/admin-dashboard",
+    "videoPreviewUrl": "https://cdn.coverr.co/videos/coverr-a-stream-of-data-2216/1080p.mp4",
+    "status": "In Progress",
+    "keyFeatures": [
+      "Surveillance de la sécurité et alertes en temps réel",
+      "Analyse et traitement avancés des fichiers journaux",
+      "Visualisation de données interactive (Graphiques/Diagrammes)",
+      "Contrôle d'accès basé sur les rôles (RBAC)",
+      "Indicateurs de santé et de performance du système"
+    ],
+    "architectureUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/AdminDashboard/AdminDashboard%20-%20Architecture.png",
+    "galleryUrls": [
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/AdminDashboard/AdminDashboard%20-%20Hero.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/AdminDashboard/AdminDashboard%20-%20SaaS%20security%20dashboard%20overview.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/AdminDashboard/AdminDashboard%20-%20PerformanceAnalystics.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/AdminDashboard/AdminDashboard%20-%20Lifecycle.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/AdminDashboard/AdminDashboard%20-%20IdentityManagement.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/AdminDashboard/AdminDashboard%20-%20AuditTrail.png",
+      "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/Projects/AdminDashboard/AdminDashboard%20-%20Architecture.png"
+    ]
+  },
+  {
+    "id": "project-enterprise-nac",
+    "title": "Laboratoire NAC d'Entreprise (Cisco ISE + AD)",
+    "description": "Un laboratoire de bout en bout simulant le contrôle d'accès réseau d'entreprise avec Cisco ISE, Active Directory et 802.1X.",
+    "longDescription": "Conception et déploiement d’un environnement complet de contrôle d’accès réseau (NAC) d'entreprise sur la plateforme virtuelle EVE-NG exécutée sous VMware Workstation. L'architecture intègre Cisco Identity Services Engine (ISE) avec Microsoft Active Directory pour simuler une authentification réseau hautement sécurisée. Le projet réplique fidèlement un écosystème d'authentification d'entreprise, permettant aux équipements filaires et sans fil de s'authentifier à l'aide de protocoles tels que 802.1X, RADIUS et de stratégies utilisateur Active Directory. Cet environnement a été conçu pour tester les flux de travail d'inscription des terminaux, le profilage des machines et l'application des contrôles d'accès basés sur les rôles.",
+    "tags": [
+      "Cisco ISE",
+      "Active Directory",
+      "802.1X",
+      "EVE-NG",
+      "VMware",
+      "RADIUS",
+      "PKI",
+      "Sécurité Réseau",
+      "Zero Trust"
+    ],
+    "githubUrl": "https://github.com/angesh021/enterprise-nac-lab",
+    "videoPreviewUrl": "https://cdn.coverr.co/videos/coverr-a-stream-of-data-2216/1080p.mp4",
+    "status": "Completed",
+    "keyFeatures": [
+      "Authentification 802.1X pour les machines jointes au domaine (PEAP/EAP-TLS)",
+      "Contournement d'authentification MAC (MAB) pour les objets connectés et IoT non gérés",
+      "Intégration d'Active Directory pour centraliser la gestion des identités et des stratégies",
+      "Jeux de règles de politique Cisco ISE pour l'autorisation basée sur les groupes AD",
+      "Attribution dynamique de VLAN et application d'ACL basées sur les rôles utilisateur",
+      "Suivi des journaux d'activité en direct RADIUS pour l'audit et le dépannage"
+    ],
+    "architectureUrl": "https://i.imgur.com/8zT7X6h.png"
+  },
+  {
+    "id": "project-hse-vax",
+    "title": "Sécurisation & Durcissement - Application HSE Vaccination",
+    "description": "Examen complet de la sécurité (SAST/DAST) et correction d'une application nationale de santé selon le Top 10 OWASP.",
+    "longDescription": "Direction d'une refonte complète de la sécurité d'un système critique de gestion des vaccinations nationales d'Irlande (HSE). Le projet comprenait des tests de sécurité applicative statiques (SAST) et dynamiques (DAST). Les réalisations clés incluent la correction de plus de 12 failles critiques telles que l'injection SQL et la falsification de requêtes intersites (CSRF), la configuration d'une authentification multifacteur (MFA) robuste, l'application d'un hachage de mot de passe renforcé avec BCrypt, et la migration complète vers HTTPS. Ces initiatives ont réduit le risque d'exploitation de plus de 90 %.",
+    "tags": [
+      "OWASP Top 10",
+      "SAST",
+      "DAST",
+      "BCrypt",
+      "Audit de Sécurité",
+      "Tests d'Intrusion",
+      "MFA"
+    ],
+    "githubUrl": "https://github.com/angesh021/HSE-VAX-APP",
+    "videoPreviewUrl": "https://cdn.coverr.co/videos/coverr-a-futuristic-background-with-binary-numbers-4182/1080p.mp4",
+    "status": "Completed",
+    "keyFeatures": [
+      "Authentification sécurisée des utilisateurs avec double facteur (MFA)",
+      "Contrôle d'accès basé sur les rôles de sécurité (RBAC)",
+      "Validation stricte des options d'entrée et encodage des sorties contre les failles XSS",
+      "Données en transit entièrement chiffrées (HTTPS)",
+      "Hachage hautement sécurisé des mots de passe à l'aide de l'algorithme BCrypt"
+    ],
+    "architectureUrl": "https://i.imgur.com/3fS5J7m.png"
+  },
+  {
+    "id": "project-network-lab",
+    "title": "Conception de Réseau d'Entreprise Lab",
+    "description": "Une topologie réseau d'entreprise sécurisée et évolutive intégrant routage d'infrastructure, VLAN et politiques de pare-feu.",
+    "longDescription": "Conception et déploiement d’une topologie réseau d’entreprise multicouche complexe au sein de Cisco Packet Tracer. Le laboratoire simule une infrastructure d'entreprise réelle avec des protocoles de routage dynamique tels qu'OSPF, une segmentation robuste en VLAN pour isoler le trafic, et des listes de contrôle d'accès granulaires (ACL) pour sécuriser les flux de données. L'architecture intègre également l'adressage IPv6, un contrôleur sans fil centralisé pour gérer les points d'accès et des politiques de pare-feu dynamique pour contrôler l'entrée et la sortie du trafic.",
+    "tags": [
+      "Cisco",
+      "Architecture Réseau",
+      "VLAN",
+      "OSPF",
+      "ACLs",
+      "Stratégies Pare-feu",
+      "IPv6"
+    ],
+    "githubUrl": "https://github.com/angesh021/ccna-enterprise-lab",
+    "videoPreviewUrl": "https://cdn.coverr.co/videos/coverr-a-stream-of-data-2216/1080p.mp4",
+    "status": "Completed",
+    "keyFeatures": [
+      "Protocole de routage dynamique OSPF multi-zones",
+      "Segmentation VLAN et routage inter-VLAN",
+      "Pare-feu dynamique avec règles de filtrage (ACL) strictes",
+      "Contrôleur de réseau local sans fil centralisé (WLC)",
+      "Mise en œuvre du double empilement IPv4 et IPv6"
+    ],
+    "architectureUrl": "https://i.imgur.com/8zT7X6h.png"
+  }
+]

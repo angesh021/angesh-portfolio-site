@@ -1,0 +1,485 @@
+/* --- Secure Comms Relay (Contact Section) --- */
+.contact-grid-v2 {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+  align-items: center; /* Add items-center */
+  max-width: 900px;
+  margin: 0 auto;
+}
+@media (min-width: 1024px) {
+  .contact-grid-v2 {
+    grid-template-columns: 1fr 1.25fr;
+    gap: 5rem;
+    align-items: center; /* Add items-center */
+  }
+}
+
+/* NEW: Contact Channels Accordion */
+.contact-channels-container {
+  border: 1px solid #dee2e6;
+  border-radius: 0.75rem;
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(8px);
+  overflow: hidden;
+}
+.dark .contact-channels-container {
+  border-color: rgba(var(--color-primary-rgb), 0.2);
+  background: rgba(17, 34, 64, 0.5);
+}
+
+.channel-item:not(:last-child) {
+  border-bottom: 1px solid #dee2e6;
+}
+.dark .channel-item:not(:last-child) {
+  border-bottom-color: rgba(var(--color-primary-rgb), 0.2);
+}
+
+.channel-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #212529;
+  transition: background-color 0.3s ease;
+  user-select: none;
+}
+.dark .channel-header {
+  color: #ccd6f6;
+}
+
+.channel-header:hover {
+  background-color: rgba(var(--color-primary-rgb), 0.1);
+  color: var(--color-primary);
+}
+.channel-header-icon {
+  color: var(--color-primary);
+}
+.channel-header-chevron {
+  margin-left: auto;
+  transition: transform 0.3s ease;
+}
+.channel-content {
+  overflow: hidden;
+}
+.channel-content-inner {
+  padding: 0 1.25rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  border-top: 1px solid rgba(0,0,0,0.05);
+  margin: 0 1.25rem;
+  padding-top: 1.25rem;
+}
+.dark .channel-content-inner {
+  border-top-color: rgba(var(--color-primary-rgb), 0.1);
+}
+
+.channel-info-text {
+  font-family: 'Fira Code', monospace;
+  color: #6c757d;
+  background: #f8f9fa;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.375rem;
+  border: 1px solid #e9ecef;
+}
+.dark .channel-info-text {
+  color: #8892b0;
+  background: #0a192f;
+  border-color: rgba(var(--color-primary-rgb), 0.1);
+}
+
+.channel-action-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  background: rgba(var(--color-primary-rgb), 0.1);
+  color: var(--color-primary);
+  font-family: 'Fira Code', monospace;
+  font-size: 0.8rem;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+}
+.channel-action-button:hover {
+  background: rgba(var(--color-primary-rgb), 0.2);
+}
+
+/* --- macOS Style Contact Form --- */
+.macos-window {
+  border-radius: 0.75rem; /* 12px */
+  background-color: #f6f6f6; /* Light mode bg */
+  border: 1px solid #d1d1d1;
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  transition: background-color 0.3s, border-color 0.3s, transform 0.3s;
+}
+.dark .macos-window {
+  background-color: #363636;
+  border-color: #2a2a2a;
+  box-shadow: 0 20px 40px -15px rgba(10, 25, 47, 0.5);
+}
+.macos-window.shake {
+  animation: macos-window-shake 0.5s cubic-bezier(.36,.07,.19,.97) both;
+}
+@keyframes macos-window-shake {
+  10%, 90% { transform: translate3d(-1px, 0, 0); }
+  20%, 80% { transform: translate3d(2px, 0, 0); }
+  30%, 50%, 70% { transform: translate3d(-4px, 0, 0); }
+  40%, 60% { transform: translate3d(4px, 0, 0); }
+}
+.macos-title-bar {
+  display: flex;
+  align-items: center;
+  padding: 0 0.75rem;
+  height: 2.5rem; /* 40px */
+  background-color: #e8e8e8;
+  border-bottom: 1px solid #d1d1d1;
+  user-select: none;
+}
+.dark .macos-title-bar {
+  background-color: #2e2e2e;
+  border-bottom-color: #2a2a2a;
+}
+.macos-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+.macos-control {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 0.75rem; /* 12px */
+  height: 0.75rem;
+  border-radius: 9999px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.dark .macos-control { border-color: rgba(0, 0, 0, 0.3); }
+.macos-control.close { background-color: #ff5f57; }
+.macos-control.minimize { background-color: #ffbd2e; }
+.macos-control.maximize { background-color: #28c940; }
+
+/* macOS control icons on hover */
+.macos-control span {
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    color: rgba(0,0,0,0.6);
+    font-weight: bold;
+    line-height: 1;
+    font-size: 8px;
+}
+.macos-title-bar:hover .macos-control span {
+    opacity: 1;
+}
+
+.macos-title {
+  flex-grow: 1;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #555;
+  padding-right: 48px; /* Balance the controls */
+}
+.dark .macos-title {
+  color: #ccc;
+}
+.macos-content {
+  padding: 1.5rem;
+}
+
+.honeypot-field {
+  position: absolute;
+  left: -5000px;
+  top: -5000px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* --- REFACTORED Floating Label (fieldset/legend) Implementation --- */
+.form-field-container {
+  position: relative;
+  margin-bottom: 0.75rem; /* Reduced from 1.25rem */
+}
+
+.macos-fieldset {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  border-radius: 0.375rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.dark .macos-fieldset {
+  border-color: #666;
+}
+
+.macos-legend {
+  position: absolute;
+  top: 1.1rem; /* Vertically center in 3.5rem fieldset */
+  left: 0.75rem;
+  color: #999;
+  pointer-events: none;
+  transition: all 0.2s ease-out;
+  user-select: none;
+  padding: 0 4px; /* Symmetrical padding for cutout */
+  font-size: 1rem;
+  max-width: calc(100% - 1.5rem);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.dark .macos-legend {
+  color: #888;
+}
+
+/* Floated state */
+.macos-fieldset.floated .macos-legend {
+  font-size: 0.8rem;
+  top: 0; /* Move to top of border */
+  transform: translateY(-50%); /* Center on the border line */
+  color: #007aff;
+  background-color: #f6f6f6;
+}
+.dark .macos-fieldset.floated .macos-legend {
+  color: #309cff;
+  background-color: #363636;
+}
+
+.macos-input, .macos-select-button {
+  width: 100%;
+  height: 3.5rem; /* 56px standard height */
+  background-color: transparent;
+  border: none;
+  border-radius: 0.375rem;
+  padding: 0.75rem;
+  font-size: 1rem;
+  color: #111;
+  position: relative;
+  z-index: 1; /* Ensure input is clickable over legend's initial position */
+}
+.dark .macos-input, .dark .macos-select-button { color: #f0f0f0; }
+
+.macos-input:focus, .macos-select-button:focus { outline: none; }
+
+.macos-fieldset.is-focused {
+  border-color: #007aff;
+  box-shadow: 0 0 0 3px rgba(0, 122, 255, 0.3);
+}
+.macos-fieldset.has-error {
+  border-color: #ff9f0a;
+}
+.macos-fieldset.is-focused.has-error {
+  box-shadow: 0 0 0 3px rgba(255, 159, 10, 0.3);
+}
+
+.macos-input.textarea {
+  height: auto;
+  min-height: 180px;
+  resize: vertical;
+  padding-top: 0.75rem; /* Consistent padding */
+  padding-bottom: 2.5rem; /* Space for footer controls */
+  scrollbar-width: thin;
+  scrollbar-color: #aaa #f1f1f1;
+}
+.dark .macos-input.textarea { scrollbar-color: #666 #4a4a4a; }
+.macos-input.textarea::-webkit-scrollbar { width: 8px; }
+.macos-input.textarea::-webkit-scrollbar-track { background: #f1f1f1; border-radius: 4px; }
+.dark .macos-input.textarea::-webkit-scrollbar-track { background: #4a4a4a; }
+.macos-input.textarea::-webkit-scrollbar-thumb { background: #aaa; border-radius: 4px; }
+.dark .macos-input.textarea::-webkit-scrollbar-thumb { background: #666; }
+
+.macos-validation-icon {
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+  pointer-events: none;
+  z-index: 2;
+}
+.is-textarea .macos-validation-icon {
+  top: 1.1rem;
+  transform: translateY(0);
+}
+.macos-validation-icon.success { color: #28c940; }
+.macos-validation-icon.error { color: #ff9f0a; }
+
+.macos-error-message {
+  color: #ff5f57;
+  font-size: 0.75rem;
+  font-weight: 500;
+  margin-top: 0.25rem;
+  min-height: 1.25rem;
+  padding-left: 0.25rem;
+}
+
+.macos-submit-container {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.75rem;
+}
+
+.macos-button {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 2.75rem; /* 44px */
+  border-radius: 0.5rem;
+  border: none;
+  background-color: #007aff;
+  color: #fff;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  overflow: hidden;
+}
+.macos-button:disabled { background-color: #e5e5e5; color: #999; cursor: not-allowed; opacity: 0.7; }
+.dark .macos-button { background-color: #0a84ff; }
+.dark .macos-button:disabled { background-color: #555; color: #aaa; }
+
+@keyframes shield-pulse {
+  50% { opacity: 0.6; transform: scale(1.1); }
+}
+.security-shield-icon {
+  color: #28c940;
+  filter: drop-shadow(0 0 5px rgba(40, 201, 64, 0.7));
+}
+.security-shield-icon.pulsing {
+  animation: shield-pulse 2s infinite ease-in-out;
+}
+
+.macos-textarea-footer {
+  position: absolute;
+  bottom: 8px;
+  left: 12px;
+  right: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  z-index: 2;
+}
+.macos-char-counter {
+  font-family: 'Fira Code', monospace;
+  font-size: 0.75rem;
+  color: #888;
+  transition: color 0.3s ease;
+  pointer-events: none;
+}
+.dark .macos-char-counter { color: #777; }
+.macos-char-counter.warn { color: #ffbd2e; }
+.macos-char-counter.error { color: #ff5f57; }
+
+.macos-footer-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.macos-footer-button {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #888;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: transparent;
+  transition: color 0.2s, background-color 0.2s;
+}
+.macos-footer-button:hover:not(:disabled) { color: #555; background-color: #e0e0e0; }
+.dark .macos-footer-button { color: #aaa; }
+.dark .macos-footer-button:hover:not(:disabled) { color: #ddd; background-color: #555; }
+.macos-footer-button:disabled { color: #bbb; cursor: not-allowed; }
+.dark .macos-footer-button:disabled { color: #666; }
+.macos-footer-button.delete:hover:not(:disabled) { color: #ff5f57; background-color: rgba(255, 95, 87, 0.1); }
+.dark .macos-footer-button.delete:hover:not(:disabled) { color: #ff6961; background-color: rgba(255, 105, 97, 0.15); }
+
+.macos-footer-button.generate:hover:not(:disabled) {
+    color: #007aff; /* macOS blue */
+    background-color: rgba(0, 122, 255, 0.1);
+}
+.dark .macos-footer-button.generate:hover:not(:disabled) {
+    color: #309cff;
+    background-color: rgba(48, 156, 255, 0.15);
+}
+
+/* Custom macOS Select/Dropdown */
+.macos-select-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+.macos-select-button .chevrons { color: #999; }
+.dark .macos-select-button .chevrons { color: #888; }
+.macos-select-popover {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  z-index: 10;
+  background-color: rgba(246, 246, 246, 0.8);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid #d1d1d1;
+  border-radius: 0.375rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 0.25rem;
+  list-style: none;
+  margin: 0;
+}
+.dark .macos-select-popover {
+  background-color: rgba(54, 54, 54, 0.8);
+  border-color: #2a2a2a;
+}
+.macos-select-option {
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  color: #111;
+}
+.dark .macos-select-option { color: #f0f0f0; }
+.macos-select-option:hover, .macos-select-option.focused {
+  background-color: #007aff;
+  color: white;
+  outline: none;
+}
+.dark .macos-select-option:hover, .dark .macos-select-option.focused { background-color: #0a84ff; }
+
+/* Enhanced Button States */
+@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+.spinner { animation: spin 0.8s linear infinite; }
+
+.macos-button-content { display: flex; justify-content: center; align-items: center; gap: 0.5rem; }
+
+/* Feedback Panel Styles */
+.form-feedback-panel { display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; min-height: 480px; }
+.form-feedback-icon { width: 48px; height: 48px; margin-bottom: 1rem; }
+.form-feedback-title { font-size: 1.5rem; font-weight: 600; margin-bottom: 0.5rem; color: #222; }
+.dark .form-feedback-title { color: #eee; }
+.form-feedback-description { margin-bottom: 2rem; color: #555; max-width: 300px; }
+.dark .form-feedback-description { color: #bbb; }
+.form-feedback-button { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.625rem 1.25rem; border-radius: 0.5rem; border: 1px solid transparent; font-weight: 500; transition: all 0.2s ease; cursor: pointer; }
+.form-feedback-button.success { background-color: rgba(40, 201, 64, 0.1); border-color: rgba(40, 201, 64, 0.4); color: #28c940; }
+.form-feedback-button.success:hover { background-color: rgba(40, 201, 64, 0.2); }
+.form-feedback-button.error { background-color: rgba(255, 95, 87, 0.1); border-color: rgba(255, 95, 87, 0.4); color: #ff5f57; }
+.form-feedback-button.error:hover { background-color: rgba(255, 95, 87, 0.2); }

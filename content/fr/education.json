@@ -1,0 +1,99 @@
+[
+  {
+    "degree": "Master of Science (M.Sc.) en Cybersécurité",
+    "institution": "University College Dublin",
+    "period": "09/2023 - 08/24",
+    "location": "Dublin, Irlande",
+    "grade": "Mention très bien (Second Class Honours, First Division)",
+    "description": "Un programme de troisième cycle intensif axé sur l'acquisition de compétences techniques avancées et d'un esprit stratégique requis pour défendre les systèmes d'entreprise complexes contre les cybermenaces modernes.",
+    "key_areas": [
+      "Tests d’intrusion",
+      "Investigation numérique",
+      "Architecture de systèmes sécurisés",
+      "Analyse de logiciels malveillants"
+    ],
+    "focus_area": "Modélisation avancée des menaces et attaques d'entreprises simulées",
+    "details": [
+      "Exécution de modélisations de menaces complexes et direction d'exercices d'équipe rouge simulés contre des laboratoires virtuels d'entreprise à l'aide de Metasploit, Burp Suite et Wireshark.",
+      "Conception de scripts de détection de logiciels malveillants personnalisés et analyse approfondie des données médico-légales avec des outils SIEM conformes aux normes de l'industrie comme Splunk.",
+      "Conception et mise en œuvre d'architectures cloud-natives sécurisées et de niveau entreprise dans AWS, en se confiant à l'IAM, l'infrastructure VPC et la protection des données.",
+      "Recherche et présentation de rapports sur les cadres juridiques, éthiques et réglementaires régissant les opérations modernes de cybersécurité et la réponse aux incidents."
+    ]
+  },
+  {
+    "degree": "Bachelor of Science (B.Sc.) en Informatique",
+    "institution": "Technological University Dublin",
+    "period": "09/2020 - 06/2023",
+    "location": "Dublin, Irlande",
+    "grade": "Mention très bien (Second Class Honours, First Division)",
+    "description": "Un diplôme universitaire de premier cycle complet offrant une base théorique et pratique approfondie en informatique. Le programme couvrait les principes fondamentaux du génie logiciel, de l'infrastructure réseau et de la résolution de problèmes algorithmiques.",
+    "key_areas": [
+      "Algorithmes & structures de données",
+      "Systèmes d'exploitation",
+      "Bases de la réseautique",
+      "Développement logiciel"
+    ],
+    "focus_area": "Développement d'applications Web Full-Stack et sécurité réseau",
+    "details": [
+      "Maîtrise des principes fondamentaux de l'informatique, y compris les algorithmes avancés, les structures de données, la conception de systèmes d'exploitation et la réseautique informatique.",
+      "Développement d'un portefeuille diversifié de projets, comprenant des applications web full-stack, des scripts d'automatisation de système et des environnements de laboratoire réseau sécurisés.",
+      "Compétence pratique acquise en Python, C++, Java, Bash, PowerShell et technologies d'infrastructure clés, notamment AWS et la réseautique Cisco."
+    ]
+  },
+  {
+    "degree": "Diplôme en Développement Logiciel (FETAC L6)",
+    "institution": "Rathmines College",
+    "period": "09/2019 - 06/2020",
+    "location": "Dublin, Irlande",
+    "grade": "Distinction (Excellent)",
+    "description": "Un programme axé sur la pratique centré sur la programmation orientée objet et la conception de bases de données, culminant dans le développement d'un portefeuille d'applications logicielles fonctionnelles.",
+    "key_areas": [
+      "Programmation orientée objet",
+      "Gestion de bases de données",
+      "Gestion de projet",
+      "Java & C++"
+    ],
+    "focus_area": "Développement d'applications robustes",
+    "details": [
+      "Obtention de la mention Distinction en construisant un portefeuille d'applications robustes et bien documentées en Java et C++.",
+      "Acquisition de compétences pratiques en architecture logicielle, méthodologies de gestion de projet agiles, et conception et mise en œuvre de bases de données relationnelles."
+    ]
+  },
+  {
+    "degree": "Certificat en études pré-infirmières (FETAC L5)",
+    "institution": "Progressive College",
+    "period": "02/2017 - 10/2017",
+    "location": "Dublin, Irlande",
+    "grade": "Mérite",
+    "description": "Un programme de transition fournissant des connaissances essentielles en sciences de la vie et en soins aux patients, développant une base solide en anatomie, microbiologie et éthique professionnelle.",
+    "key_areas": [
+      "Biologie humaine",
+      "Anatomie & physiologie",
+      "Soins aux patients",
+      "Microbiology"
+    ],
+    "focus_area": "Sciences fondamentales de la vie",
+    "details": [
+      "Acquisition de connaissances fondamentales en biologie humaine, anatomie et protocoles de soins aux patients, avec mention Mérite.",
+      "Développement de solides capacités d'analyse et d'observation indispensables pour la résolution méthodique de problèmes dans des environnements à enjeux élevés."
+    ]
+  },
+  {
+    "degree": "A-Level Certificat de Cambridge, Sciences",
+    "institution": "Vacoas State Secondary School",
+    "period": "01/2008 - 10/2014",
+    "location": "Vacoas, Île Maurice",
+    "grade": "Réussi",
+    "description": "Enseignement secondaire rigoureux axé sur la filière scientifique, qui a cultivé les compétences analytiques, quantitatives et de résolution de problèmes essentielles pour une carrière dans la technologie et la sécurité.",
+    "key_areas": [
+      "Physique",
+      "Chimie",
+      "Biologie",
+      "Mathématiques avancées"
+    ],
+    "focus_area": "Raisonnement analytique et scientifique",
+    "details": [
+      "Établissement d'une base analytique et de résolution de problèmes solide grâce à des études approfondies en physique, chimie et biologie."
+    ]
+  }
+]

@@ -1,0 +1,196 @@
+{
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/angesh021",
+      "icon": "Github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/angesh-chanderdip/",
+      "icon": "Linkedin"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:angesh021@gmail.com",
+      "icon": "Mail"
+    }
+  ],
+  "contactInfo": {
+    "email": "angesh021@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/angesh-chanderdip/",
+    "github": "https://github.com/angesh021",
+    "resumeUrl": "/AngeshChanderdip_Resume.pdf"
+  },
+  "resumeHashes": {
+    "en": "18a54cae5971898056439bca533a6b264014f6782d6e9be81a31798f35e23429",
+    "fr": "329a0f46279d4cfd306c8f8190ca6a5e5be54f1e853d079d454837c9fd9723e1"
+  },
+  "futureDirectives": [
+    {
+      "id": "az500",
+      "badgeImageUrl": "https://images.credly.com/size/680x680/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png",
+      "title": "Microsoft Certified: Azure Security Engineer (AZ-500)",
+      "descriptionKey": "future_plans_az500",
+      "status": "Planifié",
+      "keyCompetencies": [
+        "Gestion des Identités & Accès",
+        "Protection des Plateformes CLoud",
+        "Opérations de Sécurité",
+        "Sécurité des Données et Applications"
+      ]
+    },
+    {
+      "id": "isc2cc",
+      "badgeImageUrl": "https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png",
+      "title": "(ISC)² Certified in Cybersecurity (CC)",
+      "descriptionKey": "future_plans_isc2cc",
+      "status": "Planifié",
+      "keyCompetencies": [
+        "Principes Clés de Sécurité",
+        "Continuité d'Activité, Reprise après Sinistre & Réponse",
+        "Concepts Fondamentaux de Contrôle d'Accès",
+        "Sécurité Globale des Réseaux"
+      ]
+    },
+    {
+      "id": "az204",
+      "badgeImageUrl": "https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png",
+      "title": "Microsoft Certified: Azure Developer Associate (AZ-204)",
+      "descriptionKey": "future_plans_az204",
+      "status": "Recherche",
+      "keyCompetencies": [
+        "Développement de Solutions Informatiques Azure Sécurisées",
+        "Administration Sécurisée de Stockages d'Entreprise",
+        "Gestion d'APIs Résilientes",
+        "Sécurisation des Services d'Authentification Applicative"
+      ]
+    }
+  ],
+  "changelogData": [
+    {
+      "version": "3.0.0",
+      "date": "Version Actuelle",
+      "changes": [
+        {
+          "type": "Amélioré",
+          "text": "Optimisation des performances du curseur du formulaire de contact en convertissant les animations de disposition Framer Motion à haute fréquence en transformations 3D CSS accélérées par GPU avec optimisation 'will-change'."
+        },
+        {
+          "type": "Résolu",
+          "text": "Correction des clignotements d'affichage et des bogues de transition au démarrage en rationalisant le cycle de vie de l'Intro Loader."
+        },
+        {
+          "type": "Résolu",
+          "text": "Correction des liens de diagramme d'architecture dans la section Projets pour garantir un rendu d'image correct."
+        },
+        {
+          "type": "Amélioré",
+          "text": "Amélioration du rendu adaptatif en restructurant les conteneurs de mise en page et en s'assurant que les règles de masquage de la barre de défilement utilisent des priorités élevées."
+        }
+      ]
+    },
+    {
+      "version": "2.9.0",
+      "date": "Novembre 2025",
+      "changes": [
+        {
+          "type": "Ajouté",
+          "text": "Implémentation d'un carrousel de logos infini dans la section À propos pour présenter les logos des entreprises et technologies associées."
+        },
+        {
+          "type": "Ajouté",
+          "text": "Intégration d'un fichier lisez-moi README.md de niveau entreprise détaillant la structure et la configuration locale du projet."
+        },
+        {
+          "type": "Résolu",
+          "text": "Correction de diverses incohérences de types TypeScript au sein des composants interactifs et des gestionnaires d'animation Framer Motion."
+        },
+        {
+          "type": "Résolu",
+          "text": "Résolution d'un bogue empêchant l'activation ou la coupure correcte des bruitages audio d'immersion système."
+        },
+        {
+          "type": "Amélioré",
+          "text": "Optimisation globale de la stabilité applicative par l'identification exhaustive et la résolution de dysfonctionnements mineurs."
+        }
+      ]
+    },
+    {
+      "version": "2.8.0",
+      "date": "Octobre 2025",
+      "changes": [
+        {
+          "type": "Amélioré",
+          "text": "Ajustement de la structure visuelle et du positionnement des éléments d'informations au niveau du bas de page."
+        },
+        {
+          "type": "Ajouté",
+          "text": "Ajout d'un compteur d'absorption simulée de caféine pour enrichir les métriques d'activité système."
+        },
+        {
+          "type": "Amélioré",
+          "text": "Précision syntaxique apportée aux titres des contrôleurs d'infobulles."
+        },
+        {
+          "type": "Amélioré",
+          "text": "Mention de droits d'auteur actualisée avec précision légale."
+        },
+        {
+          "type": "Résolu",
+          "text": "Augmentation notable du contraste visuel du bandeau délimitant le bas de page."
+        }
+      ]
+    },
+    {
+      "version": "2.7.0",
+      "date": "Septembre 2025",
+      "changes": [
+        {
+          "type": "Amélioré",
+          "text": "Refonte en profondeur pour modeler le bas de page sous forme de document dynamique structuré sur trois colonnes distinctes."
+        },
+        {
+          "type": "Ajouté",
+          "text": "Intégration de panneaux interactifs montrant en direct des performances de diagnostic et d'infrastructure."
+        },
+        {
+          "type": "Amélioré",
+          "text": "Refonte ergonomique du bouton de retour rapide vers le sommet de page, doté d'indicateurs visuels de défilement."
+        }
+      ]
+    },
+    {
+      "version": "2.5.0",
+      "date": "Juillet 2025",
+      "changes": [
+        {
+          "type": "Ajouté",
+          "text": "Ajout du module de dossiers interactifs d'activité professionnelle incluant métriques d'impacts clefs."
+        },
+        {
+          "type": "Ajouté",
+          "text": "Mise à niveau visuelle des dossiers de présentations de réalisations, dotés de capacités d'aiguillages multimédias."
+        },
+        {
+          "type": "Ajouté",
+          "text": "Intégration d'un dock de navigation contextuel pour de rapides transitions entre réalisations."
+        }
+      ]
+    },
+    {
+      "version": "2.4.0",
+      "date": "Juin 2025",
+      "changes": [
+        {
+          "type": "Amélioré",
+          "text": "Réorganisation globale de l'espace éducation sous forme de carrousel de brevets technologiques et de feuille de route holographique de projets."
+        },
+        {
+          "type": "Amélioré",
+          "text": "Refonte ergonomique du terminal de transmission de courriels s'inspirant d'interfaces macOS épurées."
+        }
+      ]
+    }
+  ]
+}

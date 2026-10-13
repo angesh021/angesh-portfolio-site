@@ -1,0 +1,240 @@
+{
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/angesh021",
+      "icon": "Github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/angesh-chanderdip/",
+      "icon": "Linkedin"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:angesh021@gmail.com",
+      "icon": "Mail"
+    }
+  ],
+  "contactInfo": {
+    "email": "angesh021@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/angesh-chanderdip/",
+    "github": "https://github.com/angesh021",
+    "resumeUrl": "/AngeshChanderdip_Resume.pdf"
+  },
+  "resumeHashes": {
+    "en": "18a54cae5971898056439bca533a6b264014f6782d6e9be81a31798f35e23429",
+    "fr": "329a0f46279d4cfd306c8f8190ca6a5e5be54f1e853d079d454837c9fd9723e1"
+  },
+  "futureDirectives": [
+    {
+      "id": "az500",
+      "badgeImageUrl": "https://images.credly.com/size/680x680/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png",
+      "title": "Microsoft Certified: Azure Security Engineer (AZ-500)",
+      "descriptionKey": "future_plans_az500",
+      "status": "Planned",
+      "keyCompetencies": [
+        "Identity & Access Management",
+        "Platform Protection",
+        "Security Operations",
+        "Data & Application Security"
+      ]
+    },
+    {
+      "id": "isc2cc",
+      "badgeImageUrl": "https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png",
+      "title": "(ISC)² Certified in Cybersecurity (CC)",
+      "descriptionKey": "future_plans_isc2cc",
+      "status": "Planned",
+      "keyCompetencies": [
+        "Security Principles",
+        "BC, DR & Incident Response",
+        "Access Controls Concepts",
+        "Network Security"
+      ]
+    },
+    {
+      "id": "az204",
+      "badgeImageUrl": "https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png",
+      "title": "Microsoft Certified: Azure Developer Associate (AZ-204)",
+      "descriptionKey": "future_plans_az204",
+      "status": "Researching",
+      "keyCompetencies": [
+        "Secure Azure Compute Solutions",
+        "Azure Storage Security",
+        "API Management Security",
+        "App Authentication"
+      ]
+    }
+  ],
+  "changelogData": [
+    {
+      "version": "3.0.0",
+      "date": "Current Build",
+      "changes": [
+        {
+          "type": "Improved",
+          "text": "Optimized Contact Form slider performance by converting high-frequency Framer Motion layout animations into GPU-accelerated CSS 3D transforms with 'will-change' rendering optimizations."
+        },
+        {
+          "type": "Fixed",
+          "text": "Fixed layout flickering and viewport transition bugs on app start by streamlining the Intro Loader lifecycle and pointer-event states."
+        },
+        {
+          "type": "Fixed",
+          "text": "Corrected architecture diagram links in the Projects Section to ensure proper asset rendering and prevent broken images."
+        },
+        {
+          "type": "Improved",
+          "text": "Enhanced responsive layout rendering by restructuring layout containers and ensuring global scrollbar hiding utility rules use high-priority overrides."
+        }
+      ]
+    },
+    {
+      "version": "2.9.0",
+      "date": "November 2025",
+      "changes": [
+        {
+          "type": "Added",
+          "text": "Implemented an infinite ticker-tape style logo carousel in the About section to showcase relevant tech stack and partner logos."
+        },
+        {
+          "type": "Added",
+          "text": "Added a comprehensive, production-grade README.md for project documentation and setup."
+        },
+        {
+          "type": "Fixed",
+          "text": "Corrected multiple TypeScript type errors across components and hooks (Framer Motion variants, React refs)."
+        },
+        {
+          "type": "Fixed",
+          "text": "Resolved a bug in the sound hook that prevented toggling sound effects and fixed corrupted audio data strings."
+        },
+        {
+          "type": "Improved",
+          "text": "Strengthened code quality and stability by addressing numerous minor bugs and type inconsistencies throughout the codebase."
+        }
+      ]
+    },
+    {
+      "version": "2.8.0",
+      "date": "October 2025",
+      "changes": [
+        {
+          "type": "Improved",
+          "text": "Refined footer layout, relocating attribution and tech stack for better organization."
+        },
+        {
+          "type": "Added",
+          "text": "Integrated a 'Coffee Intake' live counter to the footer statistics."
+        },
+        {
+          "type": "Improved",
+          "text": "Enhanced footer title and description for clarity (Portfolio > Aetherius OS)."
+        },
+        {
+          "type": "Improved",
+          "text": "Updated copyright notice to include 'All Rights Reserved'."
+        },
+        {
+          "type": "Fixed",
+          "text": "Increased visibility of the footer's gradient divider line."
+        }
+      ]
+    },
+    {
+      "version": "2.7.0",
+      "date": "September 2025",
+      "changes": [
+        {
+          "type": "Improved",
+          "text": "Overhauled footer into a dynamic, three-column 'live document' layout."
+        },
+        {
+          "type": "Added",
+          "text": "Integrated a 'Live Status' panel in the footer with animated statistics."
+        },
+        {
+          "type": "Improved",
+          "text": "Redesigned 'Back to Top' button with a scroll progress indicator and context-aware visibility."
+        }
+      ]
+    },
+    {
+      "version": "2.5.0",
+      "date": "July 2025",
+      "changes": [
+        {
+          "type": "Added",
+          "text": "Major Feature: Redesigned Experience section with an interactive dossier modal (v6), including impact metrics, operational snapshots, and contextual skill tooltips."
+        },
+        {
+          "type": "Added",
+          "text": "Major Feature: Upgraded project dossier modal (v5) with an enhanced custom video player, media switcher for architecture diagrams, and floating action buttons."
+        },
+        {
+          "type": "Added",
+          "text": "Added Project Dock navigation for quick access to projects when the section is in view."
+        }
+      ]
+    },
+    {
+      "version": "2.4.0",
+      "date": "June 2025",
+      "changes": [
+        {
+          "type": "Improved",
+          "text": "Redesigned Education section into a unified hub with timeline, interactive certification carousel, and holographic roadmap for future plans."
+        },
+        {
+          "type": "Improved",
+          "text": "Contact form upgraded to 'macOS style' with floating labels, validation, and a client-side Proof-of-Work to deter bots."
+        },
+        {
+          "type": "Added",
+          "text": "Integrated 'Direct Relays' accordion in Contact section for quick access to email and LinkedIn."
+        }
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "date": "May 2025",
+      "changes": [
+        {
+          "type": "Improved",
+          "text": "Major UI Overhaul: Launched the new 'Aetherius OS' theme, transforming the site into a simulated operating system experience."
+        },
+        {
+          "type": "Added",
+          "text": "Added interactive CyberSec Dashboard in the About section, featuring a draggable window and a live skill profiler."
+        },
+        {
+          "type": "Added",
+          "text": "Implemented the system bootloader sequence on initial site load for a thematic entry experience."
+        },
+        {
+          "type": "Added",
+          "text": "Created a comprehensive settings panel to control theme, accent colors, and toggle visual effects like CRT lines, firewall glow, and glitch animations."
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "April 2025",
+      "changes": [
+        {
+          "type": "Added",
+          "text": "Initial Launch: Portfolio website goes live."
+        },
+        {
+          "type": "Added",
+          "text": "Core sections established: Hero, About, Experience, Projects, Education, and Contact."
+        },
+        {
+          "type": "Added",
+          "text": "Implemented a responsive design for desktop and mobile devices."
+        }
+      ]
+    }
+  ]
+}

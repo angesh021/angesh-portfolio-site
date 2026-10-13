@@ -1,0 +1,722 @@
+[
+  {
+    "company": "GTECHNA",
+    "role": "Spécialiste du Support Applicatif",
+    "period": "04/2026 - Present",
+    "location": "Québec, Canada",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x-Z3G2U-XvbeV5F7G8e-t8uD09h1u_T8Xg",
+    "logoBg": "#ffffff",
+    "companyUrl": "https://gtechna.com/",
+    "themeColor": "#1b9ca6",
+    "type": "work",
+    "collaboration": [
+      {
+        "icon": "lead",
+        "role": "Superviseur du support",
+        "name": "Superviseur d'Équipe"
+      },
+      {
+        "icon": "peer",
+        "role": "Collègues de travail",
+        "name": "x3 AQ & Développeurs"
+      },
+      {
+        "icon": "stakeholder",
+        "role": "Partenaires externes",
+        "name": "Clients au Québec et Am. du Nord"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL Server",
+        "context": "Maintenance et configuration de schémas de bases de données relationnelles, d'index et de requêtes complexes sous MS SQL Server."
+      },
+      {
+        "name": "PostgreSQL",
+        "context": "Exploitation de bases d'exécution, analyse de schémas et exécution de requêtes analytiques sur PostgreSQL."
+      },
+      {
+        "name": "VPN et Réseaux",
+        "context": "Gestion et maintien de tunnels d'accès VPN hautement sécurisés et de machines virtuelles de déploiement."
+      },
+      {
+        "name": "Essais UAT",
+        "context": "Déroulement structuré de tests d'acceptation utilisateur (UAT) et validation d'intégrité logicielle de production."
+      },
+      {
+        "name": "Conseil Technique",
+        "context": "Intermédiaire stratégique privilégié entre les exigences de la clientèle et nos ingénieurs internes."
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 100,
+        "label": "Taux de Résolution des Anomalies UAT",
+        "icon": "shield",
+        "suffix": "%"
+      },
+      {
+        "value": 40,
+        "label": "Réduction du Temps de Déploiement",
+        "icon": "zap",
+        "suffix": "%"
+      },
+      {
+        "value": 10,
+        "label": "Mises en Production Réussies en Am. du Nord",
+        "icon": "server"
+      }
+    ],
+    "dailyLog": [
+      {
+        "time": "08:30",
+        "task": "Validation et vérification préliminaire des configurations sur des VM Linux standard.",
+        "type": "info"
+      },
+      {
+        "time": "10:15",
+        "task": "Analyse d'une anomalie critique d'accès PostgreSQL via un VPN corporatif sécurisé.",
+        "type": "warn"
+      },
+      {
+        "time": "13:30",
+        "task": "Animation d'une formation technique bilingue (Français/Anglais) pour des opérateurs au Québec.",
+        "type": "info"
+      },
+      {
+        "time": "15:00",
+        "task": "Documentation de bogues et requêtes d'amélioration prioritaires sur Jira et Confluence.",
+        "type": "info"
+      }
+    ],
+    "anecdote": {
+      "title": "Le pont bilingue",
+      "icon": "lightbulb",
+      "story": "Lors d’une migration d’envergure pour un grand organisme public de transport au Québec, un goulot d'étranglement PostgreSQL menaçait les validations de fin de journée. Grâce à mes compétences bilingues, j'ai animé en temps réel la collaboration technique entre des administrateurs réseau locaux exclusivement francophones et nos ingénieurs systèmes anglophones. Nous avons identifié un conflit d’index, déployé un correctif ciblé en trois heures et complété la bascule sans impact pour les milliers d'usagers quotidiens."
+    },
+    "legacy": [
+      "Création et déploiement d'un guide technique d'intégration officiel unifié pour de l'onboarding de VPN et environnement virtuel."
+    ],
+    "description": [
+      "Mise en œuvre et configuration avec succès de solutions logicielles d'entreprise dans divers environnements clients, en utilisant SQL Server, PostgreSQL, des connexions VPN et des infrastructures de serveurs.",
+      "Réduction des risques de déploiement par la conduite de tests d'intégration stricts, de dépannages et d'essais utilisateur (UAT), garantissant un passage en production sécurisé.",
+      "Accompagnement de l'adoption utilisateur via la rédaction de documentation technique, de guides et d'animations de séances de transfert de compétences.",
+      "Conseil technique privilégié auprès d'équipes multidisciplinaires (développement, produit, assurance qualité et support) pour aligner les corrections sur les besoins des usagers.",
+      "Amélioration de la vélocité d'onboarding par la programmation système de règles métier, de procédures de configuration standardisées et la réduction de la complexité.",
+      "Contribution à l'évolution produit par l'analyse et la structuration des retours clients complexes à destination des chefs de produit.",
+      "Soutien proactif et traitement réactif d'anomalies complexes applicatives, de pannes de connectivité ou d'infrastructures de données.",
+      "Configuration et exploitation quotidienne de Jira, Confluence, bases SQL Server/PostgreSQL, réseaux Linux et systèmes virtualisés.",
+      "Partenariat actif durant toutes les phases de cadrage technologique, d'implémentation et de clôture projet pour traduire les objectifs métiers en paramètres techniques stables.",
+      "Mobilisation de compétences bilingues (Français/Anglais) de haut niveau pour assister fluidement la clientèle du Québec et de toute l'Amérique du Nord."
+    ]
+  },
+  {
+    "company": "General Motors",
+    "role": "Ingénieur en Sécurité des Terminaux et Contrôle d'Accès Réseau",
+    "period": "02/2022 - 07/2025",
+    "location": "Dublin, Irlande",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/gm.png",
+    "logoBg": "white",
+    "companyUrl": "https://www.gm.com/",
+    "themeColor": "#005A9C",
+    "type": "work",
+    "collaboration": [
+      {
+        "icon": "lead",
+        "role": "Team Lead",
+        "name": "Responsable Cybersécurité"
+      },
+      {
+        "icon": "peer",
+        "role": "Ingénieurs pairs",
+        "name": "x4 Analystes Sécurité"
+      },
+      {
+        "icon": "stakeholder",
+        "role": "Partenaires",
+        "name": "Équipes Réseau & IT Ops"
+      },
+      {
+        "icon": "report",
+        "role": "Rattachement",
+        "name": "Directeur Sécurité Info"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Cisco ISE",
+        "context": "Orchestration du déploiement global de la solution NAC avec 802.1X selon une architecture Zero Trust."
+      },
+      {
+        "name": "802.1X",
+        "context": "Mise en œuvre et gestion de protocoles d'authentification réseau filaires et sans fil hautement sécurisés."
+      },
+      {
+        "name": "ZeroTrust",
+        "context": "Valorisation du modèle Zero Trust en appliquant des règles d'accès granulaires et basées sur l'identité."
+      },
+      {
+        "name": "EDR/DLP",
+        "context": "Gestion et optimisation d'agents de protection des terminaux pour intercepter et neutraliser les menaces sur des milliers de postes."
+      },
+      {
+        "name": "Python",
+        "context": "Développement de scripts d'automatisation d'administration de systèmes et d'analyse de journaux de sécurité."
+      },
+      {
+        "name": "PowerShell",
+        "context": "Automating Windows Server tasks, security configurations, and certificate management workflows."
+      },
+      {
+        "name": "Incident Response",
+        "context": "Analyse approfondie de niveau 3 et remédiations d'incidents applicatifs et d'accès réseau."
+      },
+      {
+        "name": "ServiceNow",
+        "context": "Exploitation de ServiceNow pour le suivi strict des requêtes de changement et la résolution d'incidents."
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 300,
+        "label": "Serveurs de sécurité supervisés",
+        "icon": "server"
+      },
+      {
+        "value": 90,
+        "label": "Réduction des tâches manuelles",
+        "icon": "zap",
+        "suffix": "%"
+      },
+      {
+        "value": 140,
+        "label": "Pannes matérielles interceptées",
+        "icon": "shield"
+      }
+    ],
+    "dailyLog": [
+      {
+        "time": "09:15",
+        "task": "Analyse d'une tentative de connexion suspecte provenant d'une géolocalisation inhabituelle.",
+        "type": "warn"
+      },
+      {
+        "time": "11:30",
+        "task": "Déploiement d'une politique Cisco ISE mise à jour sur les contrôleurs de production.",
+        "type": "info"
+      },
+      {
+        "time": "14:00",
+        "task": "Coordination avec l'équipe réseau sur la configuration des commutateurs pour le déploiement 802.1X.",
+        "type": "info"
+      },
+      {
+        "time": "15:45",
+        "task": "Alerte EDR critique: Exécution potentielle de code malveillant sur le poste client. Déclenchement de l'isolation du système.",
+        "type": "critical"
+      },
+      {
+        "time": "16:30",
+        "task": "L'outil automatisé a renouvelé avec succès 50 certificats de sécurité obsolètes sur les serveurs.",
+        "type": "info"
+      }
+    ],
+    "anecdote": {
+      "title": "La Panne Mondiale",
+      "icon": "alert-octagon",
+      "story": "Lors d'une panne globale d'infrastructure, la synchronisation de Microsoft Active Directory avec les serveurs AAA Cisco ISE a échoué, paralysant de fait la chaîne d'assemblage automobile sur plusieurs usines. J'ai pris les rênes de la cellule d'urgence de niveau 3, identifié un bogue de réplication de clés de forêt AD et écrit en urgence un script PowerShell forçant la resynchronisation forcée. Les services de connectivité ont été restaurés en moins d'une heure, prévenant des millions de pertes financières d'arrêt de production."
+    },
+    "legacy": [
+      "Auteur du script d'automatisation PowerShell de référence pour la synchronisation AD-ISE du groupe GM, élimant définitivement un point de défaillance unique critique dans l'infrastructure de production."
+    ],
+    "description": [
+      "Responsable de la modernisation de la sécurité globale d'un leader automobile mondial figurant au classement Fortune 500. Ma mission consistait à architecturer et à déployer les frameworks Cisco ISE et d'authentification 802.1X pour imposer un contrôle d'accès strict de type Zero Trust. J'ai programmé des pipelines d'automatisation robustes en Python et PowerShell pour réduire considérablement les initiatives manuelles, surveillé de près plus de 300 serveurs de sécurité critiques, et standardisé une architecture Wi-Fi sécurisée unifiée à travers les implantations internationales du groupe, soutenant activement la transition de maturité cyber de l'organisation.",
+      "Confronté à des cycles d'incidents d'expiration de certificats sur plus de 300 instances ISE; réduction du temps de maintenance annuel de 90 % via le développement de modules automatisés intégrant l'API DigiCert.",
+      "Standardisation des modèles d'application de sécurité 802.1X sur les segments de réseaux filaires de l'entreprise, réduisant l'intrusion de dispositifs non autorisés de l'ordre de 85 %.",
+      "Diminution drastique des arrêts de services d'identité par la pose d'une infrastructure d'alerte en temps réel sur l'intégrité matérielle des serveurs Cisco ISE.",
+      "Direction du déploiement de l'architecture Premium Guest (Prisma) Wi-Fi utilisant de la centralisation de profils sur six sites stratégiques mondiaux."
+    ]
+  },
+  {
+    "company": "Junior Achievement Ireland",
+    "role": "Éducateur STEM | Sensibilisation Cybersécurité & IA",
+    "period": "05/2024 - 05/2024",
+    "location": "Dublin, Irlande",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/JuniorAchievementIreland.png",
+    "companyUrl": "https://www.jai.ie/",
+    "themeColor": "#8DC63F",
+    "type": "volunteer",
+    "collaboration": [
+      {
+        "icon": "stakeholder",
+        "role": "Élèves",
+        "name": "Plus de 30 écoliers primaires"
+      },
+      {
+        "icon": "peer",
+        "role": "Enseignante de classe",
+        "name": "Superviseuse de classe"
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 30,
+        "suffix": "+",
+        "label": "Élèves sensibilisés",
+        "icon": "trending-up"
+      },
+      {
+        "value": 4,
+        "suffix": " sess",
+        "label": "Modules de cours dispensés",
+        "icon": "zap"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Taux d'engagement",
+        "icon": "shield"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Éducation STEM",
+        "context": "Animation d'ateliers interactifs sur les sciences de l'ingénieur, l'IA et la cybersécurité."
+      },
+      {
+        "name": "Prise de parole",
+        "context": "Présentations pédagogiques devant des assemblées de 30 élèves ou plus."
+      },
+      {
+        "name": "Mentorat de jeunes",
+        "context": "Orientation précoce de jeunes élèves vers des parcours dans les technologies."
+      },
+      {
+        "name": "E-learning",
+        "context": "Exploitation d'outils collaboratifs d'apprentissage en ligne."
+      }
+    ],
+    "anecdote": {
+      "title": "Briser le code",
+      "icon": "lightbulb",
+      "story": "Pour expliquer le chiffrement aux enfants, j'ai organisé un grand déchiffrage basé sur un simple 'chiffre de César' écrit au tableau. Les petits d'abord réservés ont explosé de joie dès qu'un premier élève a réussi le calcul démasquant le message rigolo. Par la suite, ils ont rivalisé d'ingéniosité pour poser leurs propres énigmes chiffrées à la classe. Ce fut la plus belle démonstration qu'une approche ludique s'avère extrêmement précieuse pour rendre captivante la cybersécurité."
+    },
+    "legacy": [
+      "Perfectionnement pratique de mes aptitudes oratoires de vulgarisation scientifique et de médiation auprès des plus jeunes, contribuant au partage citoyen des enjeux de défense numérique."
+    ],
+    "description": [
+      "Intervention bénévole dans le cadre du programme JAI TecKno au sein de l'école primaire Loreto, enseignant les fondamentaux du numérique et de la sécurité des données à une classe de 30 enfants durant quatre sessions majeures :",
+      "🛡️ Sensibilisation à la cybersécurité – Apprentissage ludique des réflexes contre le phishing, de la construction de mots de passe impénétrables, et de la préservation de son identité numérique.",
+      "🤖 Robotique et IA – Explications claires et simples sur la manière dont les modèles prédictifs régissent nos objets quotidiens (aspirateurs autonomes, reconnaissance faciale).",
+      "📊 Analyse de données – Introduction concrète au tri et à la structuration d'informations visuelles.",
+      "💻 Pensée computationnelle – Initiation logique, algorithmique et opportunités professionnelles futures dans le monde du logiciel."
+    ]
+  },
+  {
+    "company": "Junior Achievement Ireland",
+    "role": "Mentor Bénévole - Défi d'Innovation Durable",
+    "period": "03/2024 - 03/2024",
+    "location": "Dublin, Irlande",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/JuniorAchievementIreland.png",
+    "companyUrl": "https://www.jai.ie/",
+    "themeColor": "#8DC63F",
+    "type": "volunteer",
+    "collaboration": [
+      {
+        "icon": "stakeholder",
+        "role": "Étudiants",
+        "name": "~100 Étudiants"
+      },
+      {
+        "icon": "peer",
+        "role": "Coordinateur JAI",
+        "name": "Gestionnaire du programme"
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 100,
+        "suffix": "+",
+        "label": "Élèves mentorés",
+        "icon": "trending-up"
+      },
+      {
+        "value": 3,
+        "suffix": " écoles",
+        "label": "Campus scolaires",
+        "icon": "zap"
+      },
+      {
+        "value": 5,
+        "suffix": "+",
+        "label": "Objectifs ODD ciblés",
+        "icon": "shield"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Mentorat",
+        "context": "Orientation des élèves à travers un apprentissage basé sur des défis écologiques concrets."
+      },
+      {
+        "name": "Leadership d'équipe",
+        "context": "Stimulation de l'esprit d'initiative créative et prise de décision chez de jeunes innovateurs."
+      },
+      {
+        "name": "Communication",
+        "context": "Accompagnement dans la réalisation d'argumentations synthétiques et de pitchs vidéo."
+      },
+       {
+        "name": "Développement Durable",
+        "context": "Alignement des idées d'entreprises étudiantes sur les objectifs majeurs (ODD) des Nations Unies."
+      }
+    ],
+    "anecdote": {
+      "title": "Le déclic",
+      "icon": "lightbulb",
+      "story": "Un groupe de collégiens timides n'arrivait pas à pitcher leur concept d'application de compostage urbain. Je les ai aidés à transformer leurs chiffres en une histoire touchante ciblant la réduction du gaspillage dans les cantines scolaires. En voyant les visages s'illuminer d'assurance en réalisant qu'ils possédaient une clé pour améliorer le quotidien de leurs voisins, j'ai redécouvert toute la gratification de transmettre la technologie."
+    },
+    "legacy": [
+      "Soutien d'importance à une initiative écoresponsable, stimulant l'esprit d'entreprise durable de près de 100 jeunes engagés à proposer des modèles pour limiter notre impact carbone."
+    ],
+    "description": [
+      "Mentor scolaire bénévole dans le cadre de la compétition d'idéation 'Sustainability Innovation Challenge' co-portée par JAI et le cabinet conseil Accenture.",
+      "Conseils de proximité pour accompagner la structuration de modèles d'affaires novateurs respectant la charte environnementale des objectifs de développement durable des Nations Unies (ODD).",
+      "Renforcement des capacités en matière d'idéation agile, d'association d'idées, de leadership coopératif et de vulgarisation de projets complexes.",
+      "Coaching technique sur la préparation de cartes heuristiques et de pitchs de défense vidéo."
+    ]
+  },
+  {
+    "company": "Beaumont Hospital",
+    "role": "Aide-infirmier",
+    "period": "10/2018 - 02/2022",
+    "location": "Dublin, Irlande",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/beaumont-logo.png",
+    "companyUrl": "https://www.beaumont.ie/",
+    "themeColor": "#008080",
+    "type": "work",
+    "collaboration": [
+      {
+        "icon": "lead",
+        "role": "Responsable d'équipe",
+        "name": "Infirmière Clinicienne Gestionnaire"
+      },
+      {
+        "icon": "peer",
+        "role": "Aides-soignants pairs",
+        "name": "x5 Collègues de soins"
+      },
+      {
+        "icon": "stakeholder",
+        "role": "Équipe médicale",
+        "name": "Équipe d'infirmiers & médecins"
+      },
+      {
+        "icon": "report",
+        "role": "Rattachement",
+        "name": "Surveillante d'unité"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Soins et confort",
+        "context": "Fourniture de soutien physique et psycho-social continu et attentif auprès de patients hospitalisés."
+      },
+      {
+        "name": "Constantes vitales",
+        "context": "Mesure, interprétation et enregistrement clinique de constantes d'état de santé."
+      },
+      {
+        "name": "Fiches de soins",
+        "context": "Tenue exhaustive et chiffrée des transmissions soignantes en conformité avec le RGPD et l'éthique de soin."
+      },
+      {
+        "name": "Collaboration",
+        "context": "Lien efficace et continu avec les infirmiers d'État et de bloc pour assurer la fluidité de prise en charge."
+      },
+      {
+        "name": "Empathie clinique",
+        "context": "Écoute bienveillante, apaisement moral et assistance des patients du troisième âge ou dépendants."
+      },
+      {
+        "name": "Environnement intense",
+        "context": "Maintien de l'efficacité opérationnelle et du calme au sein de services de médecine d'urgence critiques."
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 20,
+        "label": "Patients soignés par jour (Moyenne)",
+        "icon": "trending-up"
+      },
+      {
+        "value": 99,
+        "label": "Taux de satisfaction des résidents",
+        "icon": "shield",
+        "suffix": "%"
+      },
+      {
+        "value": 100,
+        "label": "Exactitude des relevés de constantes",
+        "icon": "zap",
+        "suffix": "%"
+      }
+    ],
+    "dailyLog": [
+      {
+        "time": "08:00",
+        "task": "Suivi du rapport de transmission inter-équipes et priorisation des fiches d'actes.",
+        "type": "info"
+      },
+      {
+        "time": "09:30",
+        "task": "Aide personnalisée à la mobilisation, l'hygiène globale et l'ergonomie physique.",
+        "type": "info"
+      },
+      {
+        "time": "12:00",
+        "task": "Dépistage et relevés complets des paramètres (coeur, respiration, tension) pour l'aile de garde.",
+        "type": "info"
+      },
+      {
+        "time": "13:45",
+        "task": "Signes précoces d'irritabilité ou d'essoufflement anormal d'un patient. Signalement immédiat au médecin de veille.",
+        "type": "warn"
+      },
+      {
+        "time": "15:00",
+        "task": "Finalisation de la saisie des rapports de soins quotidiens et compte-rendu verbal de fin de shift.",
+        "type": "info"
+      }
+    ],
+    "anecdote": {
+      "title": "Le signal humain",
+      "icon": "lightbulb",
+      "story": "Je m'occupais d'un malade âgé non-verbal de comportement jugé agité et asocial. En observant patiemment ses mimiques, j'ai constaté qu'il se contractait uniquement lorsque les reflets du soleil frappaient directement ses yeux. Adapter délicatement ses volets a immédiatement dissipé sa colère et l'a rendu calme et coopératif. Cela m'a appris que les systèmes complexes — humains ou digitaux — exigent l'examen minutieux des plus discrets signaux. En cybersécurité, un infime enregistrement inhabituel en apparence caché s'avère souvent précurseur d'une faille."
+    },
+    "legacy": [
+      "Développement de protocoles de soins axés sur les manifestations d'affection et les signes non-verbaux pour élever l'autonomie et le confort des convalescents isolés."
+    ],
+    "description": [
+      "Apporter des soins d'aide de première ligne fondamentaux, assurant la prise en charge clinique et psychologique continue des usagers au sein d'unités de cardiologie et d'urgence sous forte charge de travail, en relation continue avec les praticiens hospitaliers.",
+      "Soins d'aide personnalisés (habillage, physiologie, nutrition) maintenant l'autonomie physique des malades.",
+      "Collaboration technique d'assistance lors des pansements complexes ou des investigations médicales de routine."
+    ]
+  },
+  {
+    "company": "CareChoice Nursing Home",
+    "role": "Assistant de soins de santé",
+    "period": "04/2018 - 09/2018",
+    "location": "Dublin, Irlande",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/carechoice-logo.png",
+    "companyUrl": "https://www.carechoice.ie/",
+    "themeColor": "#5F9EA0",
+    "type": "work",
+    "collaboration": [
+      {
+        "icon": "lead",
+        "role": "Superviseuse",
+        "name": "Infirmière en Chef"
+      },
+      {
+        "icon": "peer",
+        "role": "Collaborateurs",
+        "name": "Personnel soignant et médical"
+      },
+      {
+        "icon": "stakeholder",
+        "role": "Partenaires",
+        "name": "Résidents & Familles"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Assistance clinique",
+        "context": "Soutien aux infirmiers et médecins lors des examens et changements de pansements."
+      },
+      {
+        "name": "Dignité patient",
+        "context": "Rôle d'accompagnement respectueux garantissant l'intimité lors des consultations."
+      },
+      {
+        "name": "Sécurité",
+        "context": "Surveillance de résidents dépendants dans le respect absolu des règles de protection."
+      },
+      {
+        "name": "Hygiène clinique",
+        "context": "Application rigoureuse des normes d'antisepsie et maintien du matériel médical."
+      },
+      {
+        "name": "Saisie de fiches",
+        "context": "Saisie journalière de fiches cliniques pour garantir la continuité des transmissions."
+      },
+      {
+        "name": "Mobilité physique",
+        "context": "Transferts ergonomiques et déplacements sécurisés des résidents à mobilité réduite."
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 100,
+        "label": "Conformité à la lutte anti-infectieuse",
+        "icon": "shield",
+        "suffix": "%"
+      },
+      {
+        "value": 25,
+        "label": "Baisse du niveau d'anxiété patient",
+        "icon": "zap",
+        "suffix": "%"
+      },
+      {
+        "value": 15,
+        "label": "Amélioration de l'efficacité d'équipe",
+        "icon": "trending-up",
+        "suffix": "%"
+      }
+    ],
+    "dailyLog": [
+      {
+        "time": "09:00",
+        "task": "Préparation de 3 résidents pour leurs visites d'auscultation matinales.",
+        "type": "info"
+      },
+      {
+        "time": "10:30",
+        "task": "Soutien à l'infirmier pour le pansement complexe d'un résident post-opératoire.",
+        "type": "info"
+      },
+      {
+        "time": "12:15",
+        "task": "Accompagnement d'un résident à mobilité réduite vers la salle de physiothérapie.",
+        "type": "info"
+      },
+      {
+        "time": "14:00",
+        "task": "Alerte de l'infirmier chef suite à la détection d'une désorganisation cognitive soudaine chez un pensionnaire.",
+        "type": "warn"
+      },
+      {
+        "time": "15:30",
+        "task": "Nettoyage aseptique et réapprovisionnement en consommables stériles dans les tiroirs d'auscultation.",
+        "type": "info"
+      }
+    ],
+    "anecdote": {
+      "title": "L'écoute bienveillante",
+      "icon": "lightbulb",
+      "story": "Un nouveau résident particulièrement inquiet refusait systématiquement toute mesure de constantes. Au lieu de me replier sur la contrainte temporelle, j'ai choisi de passer de nombreuses minutes à lui exposer de façon simple l'utilité du brassard de tension. Une fois son sentiment d'impuissance chassé par l'explication, il a de lui-même consenti au soin. La réassurance psychologique s'avère tout aussi indissociable d'un bon accompagnement que n'importe quelle démarche clinique."
+    },
+    "legacy": [
+      "Reconnu pour une rigueur d'observation constante et une excellente communication interpersonnelle, servant de passerelle fiable entre les résidents et l'équipe d'encadrement médical."
+    ],
+    "description": [
+      "Soutien opérationnel de premier plan au sein d'une unité gériatrique médicalisée, veillant au bien-être physique des résidents, à la lutte contre les chutes et à l'administration des actes ordinaires d'hygiène.",
+      "Aide active aux examens cliniques et maintien d'un niveau d'asepsie irréprochable au sein des locaux.",
+      "Accompagnement de personnes dépendantes, favorisant le travail d'entretien de leur souplesse motrice."
+    ]
+  },
+  {
+    "company": "FirstCare Ireland",
+    "role": "Assistant de soins de santé",
+    "period": "03/2017 - 04/2018",
+    "location": "Dublin, Irlande",
+    "logoUrl": "https://fjxdt6rethcy2zfp.public.blob.vercel-storage.com/logo/firstcare-logo.png",
+    "companyUrl": "https://firstcare.ie/",
+    "themeColor": "#4682B4",
+    "type": "work",
+    "collaboration": [
+      {
+        "icon": "lead",
+        "role": "Superviseuse",
+        "name": "Coordinatrice de Soings"
+      },
+      {
+        "icon": "stakeholder",
+        "role": "Résidents & Familles",
+        "name": "Foyers multiples"
+      },
+      {
+        "icon": "peer",
+        "role": "Collaborateurs",
+        "name": "Équipe pluridisciplinaire"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Actes ordinaires (ADLs)",
+        "context": "Assistance dans les actes ordinaires de la vie quotidienne avec bienveillance et respect de la pudeur."
+      },
+      {
+        "name": "Soutien affectif",
+        "context": "Écoute active, soutien de présence et réassurance psychologique des usagers isolés."
+      },
+      {
+        "name": "Socialisation",
+        "context": "Animation de groupes de lecture, chants et maintien des capacités créatrices."
+      },
+      {
+        "name": "Nutrition",
+        "context": "Suivi des apports alimentaires, régimes prescrits et surveillance hydrique régulière."
+      },
+      {
+        "name": "Sécurisation",
+        "context": "Élimination des facteurs d'encombrement spatiaux et organisation sûre des espaces de vie."
+      }
+    ],
+    "impactMetrics": [
+      {
+        "value": 40,
+        "label": "Hausse de la participation aux activités",
+        "icon": "trending-up",
+        "suffix": "%"
+      },
+      {
+        "value": 98,
+        "label": "Note de satisfaction globale",
+        "icon": "shield",
+        "suffix": "%"
+      }
+    ],
+    "dailyLog": [
+      {
+        "time": "08:30",
+        "task": "Aide attentionnée au lever, à l'habillage et à la toilette personnalisée.",
+        "type": "info"
+      },
+      {
+        "time": "11:00",
+        "task": "Prise en charge d'un groupe de discussion et revue de presse locale au salon commun.",
+        "type": "info"
+      },
+      {
+        "time": "13:00",
+        "task": "Distribution du déjeuner et suivi attentionné de résidents nécessitant une alimentation mixée.",
+        "type": "info"
+      },
+      {
+        "time": "15:00",
+        "task": "Visite individuelle chaleureuse et à l'écoute d'un résident en proie à la solitude.",
+        "type": "info"
+      },
+      {
+        "time": "16:30",
+        "task": "Notes logistiques d'amélioration cognitive partagées avec l'infirmière référente.",
+        "type": "info"
+      }
+    ],
+    "anecdote": {
+      "title": "La mélodie retrouvée",
+      "icon": "lightbulb",
+      "story": "J'ai appris de la famille qu'une nouvelle résidente jouait du piano autrefois mais s'en croyait incapable des suites de douleurs articulaires prononcées. Je lui ai procuré un petit orgue transportable et l'ai invitée à simplement taper de petits rythmes. Incroyablement, ses mains se sont mises à glisser spontanément sur des chants traditionnels irlandais, attirant la curiosité émerveillée d'autres pensionnaires. Cette expérience exprime que notre vocation est d'entretenir les plaisirs intimes de l'esprit au-delà de la seule assistance physique."
+    },
+    "legacy": [
+      "Conception d'initiatives axées sur la créativité et le bien-être émotionnel, augmentant de manière notable le niveau de participation sociale des résidents isolés."
+    ],
+    "description": [
+      "Prise en charge humaine globale de personnes âgées, assurant les mobilisations fonctionnelles ordinaires combinées à une forte implication dans les activités d'animation et de convivialité.",
+      "Respect scrupuleux du rythme de vie individuel, de l'indépendance de déplacement et des routines de vie propres de chaque résident.",
+      "Coordination continue avec l'équipe de soins et les familles d'usagers pour assurer la bientraitance de l'écosystème de vie."
+    ]
+  }
+]
